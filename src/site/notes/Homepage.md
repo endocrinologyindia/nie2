@@ -11,20 +11,42 @@
 
 # by Dr. Om J Lakhani
 
-Your one-stop hub for powerful tools. No downloads, no signups, just a terrific experience.
-
-[[Random Note\|Try a Random Note]] 
+Your one-stop everything about Endocrinology on the Internet 
 
 ## Tools Collection
 
-### 🎵 Audio Tools
-Transform and convert audio files with ease
-[[Audio-Tools-Link\|3 tools available →]]
+### 📝 Notes in Endocrinology
+Best-in-class Notes in Endocrinology for Endocrinologists  
+[[Click here →\|Click here →]]
 
-### 💻 Code Tools
-Format and beautify various code languages
-[[Code-Tools-Link\|17 tools available →]]
+### 📚 Research Summary
+Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
+[[Click here →\|Click here →]]
 
-### 🎨 Color Tools
-Make the internet more colorful
-[[Color-Tools-Link\|20 tools available →]]
+### 🎥 YouTube Channel
+The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
+[[Click here →\|Click here →]]
+
+### 💻 Technocrinology.com
+Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
+[[Click here →\|Click here →]]
+
+### 🔧 Endocrinologist's Toolkit (EndoDynamic)
+Mini-apps, Calculators, and Toolkits for Endocrinologists  
+[[Click here →\|Click here →]]
+
+### 🩺 Diabetologist's Toolkit (Diabetology.co.in)
+Mini-apps, Calculators, and Toolkits for Diabetes Management  
+[[Click here →\|Click here →]]
+
+### 🤖 The AI Corner
+Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  
+[[Click here →\|Click here →]]
+
+### 👨‍⚕️ Online Consultation with Endocrinologist
+Consult a Qualified Endocrinologist Online  
+[[Click here →\|Click here →]]
+
+### 📱 WhatsApp Channel
+Join the Endocrinology India WhatsApp Channel for Regular Updates  
+[[Click here →\|Click here →]]
