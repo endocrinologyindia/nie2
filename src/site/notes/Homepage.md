@@ -9,7 +9,7 @@
 
 ![[your-logo.png\|your-logo.png]]
 
-# Terrific Tools for Terrific People
+# by Dr. Om J Lakhani
 
 Your one-stop hub for powerful tools. No downloads, no signups, just a terrific experience.
 
