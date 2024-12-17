@@ -9,7 +9,7 @@
 
 ![[your-logo.png\|your-logo.png]]
 
-# by Dr. Om J Lakhani
+## by Dr. Om J Lakhani
 
 Your one-stop everything about Endocrinology on the Internet 
 
@@ -27,7 +27,7 @@ Summary of Updated Research Articles in the Field of Endocrinology & Diabetes
 The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
 [[Click here →\|Click here →]]
 
-### 💻 Technocrinology.com
+### 💻 Technocrinology
 Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
 [[Click here →\|Click here →]]
 
