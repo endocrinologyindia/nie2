@@ -13,7 +13,7 @@
 
 Your one-stop everything about Endocrinology on the Internet 
 
-## Tools Collection
+## Our Collection
 
 ### 📝 Notes in Endocrinology
 Best-in-class Notes in Endocrinology for Endocrinologists  
