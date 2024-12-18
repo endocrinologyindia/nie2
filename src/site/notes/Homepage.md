@@ -11,7 +11,7 @@
 
 ## by Dr. Om J Lakhani
 
-Your one-stop everything about Endocrinology on the Internet 
+Your one-stop destination for everything Endocrinology on the Internet. 
 
 # Our Collection
 
