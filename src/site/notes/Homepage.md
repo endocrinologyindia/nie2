@@ -27,6 +27,10 @@ Summary of Updated Research Articles in the Field of Endocrinology & Diabetes
 The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
 [[Click here →\|Click here →]]
 
+### 📕 Our Books
+The Best of Notes in Endocrinology books by Dr. Om J Lakhani
+[[Click here →\|Click here →]]
+
 ### 💻 Technocrinology
 Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
 [[Click here →\|Click here →]]
@@ -35,7 +39,7 @@ Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic
 Mini-apps, Calculators, and Toolkits for Endocrinologists  
 [[Click here →\|Click here →]]
 
-### 🩺 Diabetologist's Toolkit (Diabetology.co.in)
+### 🩺 Diabetologist's Toolkit (Diabetology)
 Mini-apps, Calculators, and Toolkits for Diabetes Management  
 [[Click here →\|Click here →]]
 
@@ -49,4 +53,4 @@ Consult a Qualified Endocrinologist Online
 
 ### 📱 WhatsApp Channel
 Join the Endocrinology India WhatsApp Channel for Regular Updates  
-[[Click here →\|Click here →]]
+[Click here →](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
