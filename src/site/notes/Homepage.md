@@ -19,9 +19,9 @@ Your one-stop destination for everything Endocrinology on the Internet.
 Best-in-class Notes in Endocrinology for Endocrinologists  
 [[Click here →\|Click here →]]
 
-### 📚 Research Summary
+### 📚 Research Summary 
 Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
-[[Click here →\|Click here →]]
+[[Research Summary/Research Summary →\|Research Summary →]]
 
 ### 🎥 YouTube Channel
 The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
@@ -46,6 +46,10 @@ Mini-apps, Calculators, and Toolkits for Diabetes Management
 ### 🤖 The AI Corner
 Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  
 [[Click here →\|Click here →]]
+
+### 🔁 Human-in-loop Research
+Medical research, conducted by AI, Edited by Natural intelligence
+[[Human-in-Loop research/Human-in-Loop Research →\|Human-in-Loop Research →]]
 
 ### 👨‍⚕️ Online Consultation with Endocrinologist
 Consult a Qualified Endocrinologist Online  
