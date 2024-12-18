@@ -37,7 +37,7 @@ Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic
 
 ### 🔧 Endocrinologist's Toolkit (EndoDynamic)
 Mini-apps, Calculators, and Toolkits for Endocrinologists  
-[[Click here →\|Click here →]]
+[[Endocrinologist ToolKit/ToolKit for Endocrinologists\|ToolKit for Endocrinologists]]
 
 ### 🩺 Diabetologist's Toolkit (Diabetology)
 Mini-apps, Calculators, and Toolkits for Diabetes Management  
