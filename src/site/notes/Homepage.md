@@ -29,7 +29,7 @@ The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures
 
 ### 📕 Our Books
 The Best of Notes in Endocrinology books by Dr. Om J Lakhani
-[[BOOK SERIES/OUR BOOKS\|OUR BOOKS]]
+[[BOOK SERIES/Our Books →\|Our Books →]]
 
 ### 💻 Technocrinology
 Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
@@ -37,7 +37,7 @@ Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic
 
 ### 🔧 Endocrinologist's Toolkit (EndoDynamic)
 Mini-apps, Calculators, and Toolkits for Endocrinologists  
-[[Endocrinologist ToolKit/ToolKit for Endocrinologists\|ToolKit for Endocrinologists]]
+[[Endocrinologist ToolKit/ToolKit for Endocrinologists →\|ToolKit for Endocrinologists →]]
 
 ### 🩺 Diabetologist's Toolkit (Diabetology)
 Mini-apps, Calculators, and Toolkits for Diabetes Management  
