@@ -1,43 +1,31 @@
+/* Modern Medical Theme */
+
 :root {
   --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;
-  --primary: #000000;
-  --secondary: #86868b;
-  --accent: #0066cc;
-  --background: #ffffff;
-  --card-bg: #f5f5f7;
+  
+  /* New Color Palette */
+  --primary: #2C3E50;         /* Deep blue-gray for main text */
+  --secondary: #607D8B;       /* Softer blue-gray for secondary text */
+  --accent: #3498DB;          /* Bright blue for links and highlights */
+  --background: #F8FAFC;      /* Very light blue-gray background */
+  --card-bg: #FFFFFF;         /* Pure white for cards */
+  --hover-accent: #2980B9;    /* Darker blue for hover states */
+  --subtle-border: #E3E8EE;   /* Light gray for borders */
+  --success: #27AE60;         /* Green for success states */
+  --warning: #F39C12;         /* Orange for warnings */
+  --error: #E74C3C;          /* Red for errors */
+  
   --spacing: clamp(1rem, 5vw, 2rem);
-
-  /* Additional subtle gradients and shadows for a modern feel */
-  --gradient-accent: linear-gradient(to bottom right, #007aff, #00c4ff);
-  --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 /* Base Styles */
 body {
   font-family: var(--font-sans);
-  font-size: 1rem;
-  line-height: 1.6;
+  line-height: 1.5;
   color: var(--primary);
   background: var(--background);
   margin: 0;
   padding: 0;
-  -webkit-font-smoothing: antialiased;
-}
-
-/* Global link styles */
-a {
-  color: var(--accent);
-  text-decoration: none;
-  transition: color 0.2s ease;
-
-  &:hover {
-    text-decoration: underline;
-  }
-
-  &:focus-visible {
-    outline: 2px dashed var(--accent);
-    outline-offset: 2px;
-  }
 }
 
 /* Container */
@@ -52,16 +40,16 @@ a {
   text-align: center;
   padding: calc(var(--spacing) * 4) var(--spacing);
   margin-bottom: calc(var(--spacing) * 2);
+  background: linear-gradient(135deg, var(--background), #EBF5FB);
 
   img {
     width: 120px;
     height: auto;
     margin-bottom: var(--spacing);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease;
 
     &:hover {
       transform: scale(1.05);
-      box-shadow: var(--shadow-soft);
     }
   }
 
@@ -70,6 +58,9 @@ a {
     font-weight: 700;
     margin: 0;
     letter-spacing: -0.02em;
+    background: linear-gradient(135deg, var(--primary), var(--accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 
   h2 {
@@ -84,7 +75,6 @@ a {
     color: var(--secondary);
     max-width: 600px;
     margin: var(--spacing) auto;
-    line-height: 1.7;
   }
 }
 
@@ -101,17 +91,19 @@ a {
   background: var(--card-bg);
   border-radius: 20px;
   padding: calc(var(--spacing) * 1.5);
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
   overflow: hidden;
-  opacity: 0; /* For fade-in animation */
+  border: 1px solid var(--subtle-border);
 
   &:hover {
     transform: translateY(-8px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 20px 40px rgba(44, 62, 80, 0.1);
+    border-color: var(--accent);
 
     .card-arrow {
       transform: translateX(4px);
+      color: var(--hover-accent);
     }
   }
 
@@ -122,6 +114,7 @@ a {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    color: var(--primary);
   }
 
   p {
@@ -132,31 +125,38 @@ a {
   }
 
   a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
     display: inline-flex;
     align-items: center;
     margin-top: var(--spacing);
-    font-weight: 500;
-    transition: color 0.2s ease;
-
+    
     &:hover {
+      color: var(--hover-accent);
       text-decoration: underline;
-    }
-
-    .card-arrow {
-      transition: transform 0.2s ease;
-      margin-left: 4px;
     }
   }
 }
 
-/* Responsive Adjustments */
-@media (max-width: 768px) {
-  .collection-grid {
-    grid-template-columns: 1fr;
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary: #ECF0F1;
+    --secondary: #BDC3C7;
+    --accent: #3498DB;
+    --background: #1A1A1A;
+    --card-bg: #2C3E50;
+    --hover-accent: #2980B9;
+    --subtle-border: #34495E;
   }
 
   .site-header {
-    padding: calc(var(--spacing) * 2) var(--spacing);
+    background: linear-gradient(135deg, var(--background), #2C3E50);
+  }
+
+  .collection-card {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
   }
 }
 
@@ -174,30 +174,11 @@ a {
 
 .collection-card {
   animation: fadeIn 0.6s ease-out forwards;
+  opacity: 0;
 
   @for $i from 1 through 10 {
     &:nth-child(#{$i}) {
       animation-delay: #{$i * 0.1}s;
     }
-  }
-}
-
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --primary: #ffffff;
-    --secondary: #a1a1a6;
-    --background: #000000;
-    --card-bg: #1c1c1e;
-    --accent: #2997ff;
-    --shadow-soft: 0 4px 12px rgba(255, 255, 255, 0.05);
-  }
-
-  body {
-    background: var(--background);
-  }
-
-  .collection-card {
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
   }
 }
