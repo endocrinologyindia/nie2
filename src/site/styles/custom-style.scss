@@ -1,177 +1,42 @@
-/* Modern Apple-Inspired Theme */
-
-:root {
-  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;
-  --primary: #000000;
-  --secondary: #86868b;
-  --accent: #0066cc;
-  --background: #ffffff;
-  --card-bg: #f5f5f7;
-  --spacing: clamp(1rem, 5vw, 2rem);
+.landing-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
 }
 
-/* Base Styles */
-body {
-  font-family: var(--font-sans);
-  line-height: 1.5;
-  color: var(--primary);
-  background: var(--background);
-  margin: 0;
-  padding: 0;
+.landing-page h1 {
+    font-size: 3em;
+    text-align: center;
+    background: linear-gradient(45deg, #4169E1, #6495ED);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
-/* Container */
-.content-wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: calc(var(--spacing) * 2);
+.landing-page .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
 }
 
-/* Header Section */
-.site-header {
-  text-align: center;
-  padding: calc(var(--spacing) * 4) var(--spacing);
-  margin-bottom: calc(var(--spacing) * 2);
-
-  img {
-    width: 120px;
-    height: auto;
-    margin-bottom: var(--spacing);
-    transition: transform 0.3s ease;
-
-    &:hover {
-      transform: scale(1.05);
-    }
-  }
-
-  h1 {
-    font-size: clamp(2rem, 5vw, 3.5rem);
-    font-weight: 700;
-    margin: 0;
-    letter-spacing: -0.02em;
-  }
-
-  h2 {
-    font-size: 1.25rem;
-    font-weight: 500;
-    color: var(--secondary);
-    margin: calc(var(--spacing) / 2) 0;
-  }
-
-  p {
-    font-size: 1.1rem;
-    color: var(--secondary);
-    max-width: 600px;
-    margin: var(--spacing) auto;
-  }
+.tool-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 
-/* Collection Grid */
-.collection-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: calc(var(--spacing) * 1.5);
-  padding: var(--spacing) 0;
+.tool-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 1rem;
 }
 
-/* Collection Cards */
-.collection-card {
-  background: var(--card-bg);
-  border-radius: 20px;
-  padding: calc(var(--spacing) * 1.5);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  position: relative;
-  overflow: hidden;
+.tool-card p {
+    color: #666;
+    margin-bottom: 1rem;
+}
 
-  &:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
-
-    .card-arrow {
-      transform: translateX(4px);
-    }
-  }
-
-  h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin: 0 0 calc(var(--spacing) / 2);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  p {
-    color: var(--secondary);
-    margin: 0;
-    font-size: 1rem;
-    line-height: 1.6;
-  }
-
-  a {
-    color: var(--accent);
+.tool-link {
+    color: #4169E1;
     text-decoration: none;
-    font-weight: 500;
-    display: inline-flex;
-    align-items: center;
-    margin-top: var(--spacing);
-    
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  .card-arrow {
-    transition: transform 0.2s ease;
-    margin-left: 4px;
-  }
-}
-
-/* Responsive Adjustments */
-@media (max-width: 768px) {
-  .collection-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .site-header {
-    padding: calc(var(--spacing) * 2) var(--spacing);
-  }
-}
-
-/* Animation for page load */
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.collection-card {
-  animation: fadeIn 0.6s ease-out forwards;
-  opacity: 0;
-
-  @for $i from 1 through 10 {
-    &:nth-child(#{$i}) {
-      animation-delay: #{$i * 0.1}s;
-    }
-  }
-}
-
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --primary: #ffffff;
-    --secondary: #a1a1a6;
-    --background: #000000;
-    --card-bg: #1c1c1e;
-    --accent: #2997ff;
-  }
-
-  .collection-card {
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-  }
 }
