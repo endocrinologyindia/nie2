@@ -5,4 +5,4 @@
 
 # Diabetes
 
-1.[[ Insulin resistance & Atherosclerosis\| Insulin resistance & Atherosclerosis]]
+1. [[Research Summary/Insulin resistance & Atherosclerosis\|Insulin resistance & Atherosclerosis]]

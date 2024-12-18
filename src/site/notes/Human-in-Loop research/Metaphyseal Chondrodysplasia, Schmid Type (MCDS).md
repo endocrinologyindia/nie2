@@ -14,7 +14,7 @@ Metaphyseal chondrodysplasia, Schmid type (MCDS) is a rare, inherited skeletal d
 
 ## Clinical Presentation and Diagnosis
 
-MCDS typically manifests in early childhood, often becoming apparent when a child begins to walk2. It is important to note that MCDS can be misdiagnosed as rickets or achondroplasia3. Historically, MCDS was characterized by irregularities of the long-bone metaphases with normal hand and vertebral development4. Spine involvement was evident in scattered cases, but often resolved as patients aged4. The incidence of MDSC is approximately three to six cases per 1,000,0005.
+MCDS typically manifests in early childhood, often becoming apparent when a child begins to walk2. It is important to note that MCDS can be misdiagnosed as rickets or achondroplasia3. Historically, MCDS was characterized by irregularities of the long-bone metaphases with normal hand and vertebral development4. Spine involvement was evident in scattered cases, but often resolved as patients aged4. The incidence of MCDS is approximately three to six cases per 1,000,0005.
 
 ### Clinical Features
 
