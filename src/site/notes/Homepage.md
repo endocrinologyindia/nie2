@@ -29,7 +29,7 @@ The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures
 
 ### 📕 Our Books
 The Best of Notes in Endocrinology books by Dr. Om J Lakhani
-[[OUR BOOKS\|OUR BOOKS]]
+[[BOOK SERIES/OUR BOOKS\|OUR BOOKS]]
 
 ### 💻 Technocrinology
 Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
