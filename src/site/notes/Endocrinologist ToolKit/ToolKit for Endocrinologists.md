@@ -4,6 +4,6 @@
 
 
 
-1. Body Roundness Index (BRI) Calculator 
+1. [[Endocrinologist ToolKit/Body Roundness Index\|Body Roundness Index]]
 
-[Click here →](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
+
