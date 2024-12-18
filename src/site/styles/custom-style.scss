@@ -1,3 +1,12 @@
+Below is a refined version of your SCSS that focuses on a clean, modern, Apple-inspired aesthetic. Changes include:
+	•	Slightly adjusted typography (line-height, spacing).
+	•	Refined color usage and introduced subtle gradients and transitions.
+	•	Improved focus states for better accessibility.
+	•	Slightly enhanced hover states and shadows.
+	•	Consistent use of clamp() and modern CSS features.
+
+Feel free to tweak values as needed, but this should serve as a solid modernized starting point.
+
 /* Modern Apple-Inspired Theme */
 
 :root {
@@ -8,16 +17,38 @@
   --background: #ffffff;
   --card-bg: #f5f5f7;
   --spacing: clamp(1rem, 5vw, 2rem);
+
+  /* Additional subtle gradients and shadows for a modern feel */
+  --gradient-accent: linear-gradient(to bottom right, #007aff, #00c4ff);
+  --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
 
 /* Base Styles */
 body {
   font-family: var(--font-sans);
-  line-height: 1.5;
+  font-size: 1rem;
+  line-height: 1.6;
   color: var(--primary);
   background: var(--background);
   margin: 0;
   padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Global link styles */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    text-decoration: underline;
+  }
+
+  &:focus-visible {
+    outline: 2px dashed var(--accent);
+    outline-offset: 2px;
+  }
 }
 
 /* Container */
@@ -37,10 +68,11 @@ body {
     width: 120px;
     height: auto;
     margin-bottom: var(--spacing);
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 
     &:hover {
       transform: scale(1.05);
+      box-shadow: var(--shadow-soft);
     }
   }
 
@@ -63,6 +95,7 @@ body {
     color: var(--secondary);
     max-width: 600px;
     margin: var(--spacing) auto;
+    line-height: 1.7;
   }
 }
 
@@ -79,9 +112,10 @@ body {
   background: var(--card-bg);
   border-radius: 20px;
   padding: calc(var(--spacing) * 1.5);
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease;
   position: relative;
   overflow: hidden;
+  opacity: 0; /* For fade-in animation */
 
   &:hover {
     transform: translateY(-8px);
@@ -109,21 +143,20 @@ body {
   }
 
   a {
-    color: var(--accent);
-    text-decoration: none;
-    font-weight: 500;
     display: inline-flex;
     align-items: center;
     margin-top: var(--spacing);
-    
+    font-weight: 500;
+    transition: color 0.2s ease;
+
     &:hover {
       text-decoration: underline;
     }
-  }
 
-  .card-arrow {
-    transition: transform 0.2s ease;
-    margin-left: 4px;
+    .card-arrow {
+      transition: transform 0.2s ease;
+      margin-left: 4px;
+    }
   }
 }
 
@@ -152,7 +185,6 @@ body {
 
 .collection-card {
   animation: fadeIn 0.6s ease-out forwards;
-  opacity: 0;
 
   @for $i from 1 through 10 {
     &:nth-child(#{$i}) {
@@ -169,6 +201,11 @@ body {
     --background: #000000;
     --card-bg: #1c1c1e;
     --accent: #2997ff;
+    --shadow-soft: 0 4px 12px rgba(255, 255, 255, 0.05);
+  }
+
+  body {
+    background: var(--background);
   }
 
   .collection-card {
