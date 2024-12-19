@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/support-us/support-us/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/support-us/support-us/"}
 ---
 
 # Support us
