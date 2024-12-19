@@ -22,5 +22,10 @@
 	- [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
 	
 	- [[BOOK SERIES/Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL\|Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL]] 
+
+3. Donate 
+
+	- If you have found a value in any of our resources, donate to keep us going 
+	- [Click here →](https://endocrinologyindia.myinstamojo.com/product/donate-to-endocrinology-india/)
 	
 	  
