@@ -9,7 +9,7 @@
 
 The **Body Roundness Index (BRI) Calculator** is a tool used to assess body shape and fat distribution, offering an alternative to traditional BMI measurements. By incorporating height, weight, and waist circumference, BRI provides a more precise evaluation of health risks related to obesity.
 
-[Click here →](https://endocrinologyindia.github.io/bricalculator/)
+You can find the tool to help you in the calculation here: [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
 
 
 2. **Garg-Memon ONDST in CKD Tool**
