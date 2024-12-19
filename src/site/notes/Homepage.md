@@ -11,7 +11,7 @@
 
 ## by Dr. Om J Lakhani
 
-Your one-stop destination for everything Endocrinology on the Internet. 
+Building the largest resource for Endocrinology on the internet. 
 
 # Our Collection
 
@@ -58,3 +58,7 @@ Consult a Qualified Endocrinologist Online
 ### 📱 WhatsApp Channel
 Join the Endocrinology India WhatsApp Channel for Regular Updates  
 [Click here →](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
+
+### 🤝 Support us
+Please visit the page to show us some love & support our efforts   
+[[Support us →\|Support us →]]
