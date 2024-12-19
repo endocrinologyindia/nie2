@@ -4,8 +4,7 @@
 
 
 
-1.  Body Roundness index 
 
-[Click here →](https://nie2.vercel.app/img/user/attachments/bodyroundnessindex.html)
+1. [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
 
 
