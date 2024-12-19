@@ -5,6 +5,8 @@
 
 
 
-1. [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
+1. Body Roundness Index Calculator 
+
+[Click here →](https://endocrinologyindia.github.io/bricalculator/)
 
 
