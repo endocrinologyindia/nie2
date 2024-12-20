@@ -25,7 +25,7 @@ Summary of Updated Research Articles in the Field of Endocrinology & Diabetes
 
 ### 🎥 YouTube Channel
 The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
-[[Click here →\|Click here →]]
+[[YouTube Channel/YouTube Channel →\|YouTube Channel →]]
 
 ### 📕 Our Books
 The Best of Notes in Endocrinology books by Dr. Om J Lakhani
