@@ -12,3 +12,8 @@
 
 1. [[Research Summary/Diagnosis of Cushing syndrome in patients with chronic kidney disease\|Diagnosis of Cushing syndrome in patients with chronic kidney disease]]
 2. [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
+
+
+# Pediatric Endocrinology
+
+1. [[Research Summary/Differentiating CDGP from IHH\|Differentiating CDGP from IHH]]
