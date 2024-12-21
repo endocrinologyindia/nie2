@@ -1,0 +1,209 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/bone-and-mineral-disorders/osteoporosis/romosozumab/"}
+---
+
+**Join our WhatsApp channel to get regular updates from “Notes in Endocrinology” and “Endocrinology India”:** [**https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3****h**](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
+
+Support us:
+1. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 
+	- Premium Membership- Download PDF version of Notes, Get ad free video and more
+	- Consultant Membership- Above plus Download Powerpoint presentation of the notes 
+2. Support us by purchasing our book - Click here for more details:
+	- [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
+	- [[BOOK SERIES/Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL\|Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL]] 
+
+
+-  Q. What is Romosozumab ?
+    - Monoclonal antibody medication for osteoporosis treatment
+    - Binds to and inhibits sclerostin protein
+    - Monthly subcutaneous injection
+    - Brand name: Evenity
+    - Approved for high-risk postmenopausal women with osteoporosis
+    - Increases bone formation, decreases bone resorption
+    - Treatment limited to 12 months
+- Q. How does  Romosozumab  work ?
+    - Romosozumab works through the following mechanisms:
+        - It is a monoclonal antibody that binds to and inhibits sclerostin, a protein produced by osteocytes
+        - Sclerostin normally increases bone resorption and decreases bone formation
+        - By inhibiting sclerostin, romosozumab has a dual effect:
+            - Increases bone formation
+            - Decreases bone resorption
+        - This leads to a rapid increase in bone mineral density
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FiXG2niG4V-.png?alt=media&token=b6cc269d-99aa-4c1b-a6fb-cc0f724de658)
+- Q. What is the impact on the  Bone turnover markers  ?
+    - The effects on bone turnover markers show:
+        - A rapid but transient increase in bone formation markers (e.g. P1NP)
+        - A sustained decrease in bone resorption markers (e.g. CTX)
+    - The net result is a strongly positive balance in bone turnover, accounting for the large increases in bone mineral density
+- Q. Describe the WNT/Beta catenin pathway  ?
+    - In absence of WNT, beta catenin is bound to a complex which prevents its action
+    - And the transcription site is bound with TCF (transcription) repressors which prevent the transcription of genes
+    - WNT then binds the the fizzled receptor
+    - This activates the LRP6
+    - The tail of LRP6 attracts the destruction complex which binds beta catenin
+    - Now beta catenin is free
+    - It moves to nucleus
+    - And activates the transcription factors
+    - Hence leading to protein transcription
+- Q. What is the role of sclerostin ?
+    - Sclerostin binds to the LRP5/6 pathway inhibiting the action of WNT pathway
+    - This leads to reduction of production of osteoblasts from its precursors
+- Q. Which cells produce sclerostin ?
+    - Osteocytes !
+- Q. What does genetic defect in Sclerostin produce ?
+    - Sclerotostiosis or Van Buchem’s disease
+- Q. What is difference between Scleorsteosis and other osteopetrosis ?
+    - The quality of bone in Sclerosteosis is very good compared to osteopetrosis
+    - Hence these people have low fracture risk
+- Q. What is the dose, frequency and duratio. of dosing of  Romosozumab  ?
+    - Dose: 210 mg per month
+    - Frequency: Once monthly 
+    - Duration: 12 months (limited to 12 monthly doses)
+    - Specific details:
+        - Administered as two separate subcutaneous injections of 105 mg each, given one after the other
+        - Injection sites include the abdomen, thigh, or upper arm
+        - Should be administered by a healthcare provider
+        - After 12 months of romosozumab, patients should transition to an antiresorptive osteoporosis therapy to maintain benefits
+- Q. Tell me about the large clinical trials evaluating  Romosozumab  
+    - Romosozumab has been evaluated in several large phase 3 clinical trials:
+    - FRAME study:
+        - Enrolled 7,180 postmenopausal women with osteoporosis
+        - Compared romosozumab 210 mg monthly for 12 months vs placebo
+        - After 12 months, both groups transitioned to denosumab for 24 months
+        - Romosozumab significantly reduced risk of vertebral and clinical fractures compared to placebo at 12 months
+        - Benefits were maintained through 36 months after transition to denosumab
+    - ARCH study:  
+        - Enrolled 4,093 postmenopausal women with osteoporosis and high fracture risk
+        - Compared romosozumab 210 mg monthly for 12 months followed by alendronate vs alendronate alone
+        - Romosozumab followed by alendronate resulted in significantly lower risk of fractures compared to alendronate alone
+    - BRIDGE study:
+        - Enrolled 245 men with osteoporosis
+        - Compared romosozumab 210 mg monthly vs placebo for 12 months
+        - Romosozumab significantly increased bone mineral density compared to placebo
+    - STRUCTURE study:
+        - Enrolled 436 postmenopausal women transitioning from bisphosphonate therapy
+        - Compared romosozumab vs teriparatide for 12 months
+        - Romosozumab resulted in greater increases in bone mineral density than teriparatide
+- Q. What were the notable side effects of  Romosozumab  noticed in these clinical trials ?
+    - Based on the clinical trial data provided, the notable side effects of romosozumab included:
+        - Injection site reactions: More frequent with romosozumab compared to placebo, but generally mild and did not lead to discontinuation.
+        - Hypersensitivity reactions: Occurred in 6-10% of patients across trials.
+        - Serious cardiovascular events: 
+            - In the FRAME trial: 2.3% with romosozumab vs 2.2% with placebo at 24 months
+            - In the ARCH trial: 6.5% with romosozumab vs 6.1% with alendronate at 24 months
+            - Increased risk of ischemic cardiac events and cerebrovascular events noted in the ARCH trial
+        - Antibody formation: About 20% developed binding antibodies and 3% developed neutralizing antibodies
+        - Osteonecrosis of the jaw: Rare cases reported
+        - Atypical femoral fractures: Rare cases reported
+        - Hypocalcemia: Transient decreases in serum calcium levels observed
+        - Common adverse events included arthralgia, headache, and back pain
+        - No increased risk of malignancy or hyperostosis was observed
+    - The cardiovascular safety signal, particularly for ischemic cardiac and cerebrovascular events, was the most notable safety concern that emerged from the clinical trials. This led to warnings about avoiding use in patients with recent myocardial infarction or stroke.
+- Q. What were the approved indications for  Romosozumab  ?
+    - Treatment of osteoporosis in postmenopausal women at high risk of fracture
+    - Specifically indicated for postmenopausal women who:
+        - Have a history of osteoporotic fracture
+        - Have multiple risk factors for fracture
+        - Have failed or are intolerant to other available osteoporosis therapies
+    - Key points:
+        - FDA-approved for postmenopausal women with osteoporosis
+        - Used in those at high fracture risk
+        - Indicated after failure of or intolerance to other osteoporosis treatments
+        - Approved as a 12-month treatment regimen
+        - Shown to increase bone formation and decrease bone resorption
+        - Demonstrated to reduce risk of new vertebral and clinical fractures compared to placebo
+- Q. What is the sequence of therapy- should you use it before  Bisphosphonates  or after ?
+    - Romosozumab is often recommended as initial therapy for very high-risk patients, rather than after bisphosphonates.
+    - It can be used as a first-line treatment for patients with the lowest bone mineral density (BMD) and greatest risk of fracture.
+    - It can also be used as a second-line treatment after patients fail on an antiresorptive agent like bisphosphonates and experience significant bone loss and fractures.
+    - The STRUCTURE study showed that romosozumab produced better BMD gains than teriparatide when used after bisphosphonates.
+    - For high and very-high-risk patients, using osteoanabolic agents like romosozumab first, followed by antiresorptive agents, produces larger BMD gains than the reverse sequence.
+    - After 12 months of romosozumab, guidelines recommend transitioning to an antiresorptive therapy to maintain BMD gains.
+    - So while romosozumab can be used after bisphosphonates in some cases, it is often preferred as initial therapy for very high-risk patients before antiresorptives, rather than typically being used after bisphosphonates. The optimal sequencing depends on the individual patient's risk factors and treatment history.
+- Q. What are the contraindications for  Romosozumab  ?
+    - The contraindications for romosozumab are:
+        - Hypocalcemia - Pre-existing hypocalcemia must be corrected before initiating romosozumab
+        - History of systemic hypersensitivity to romosozumab or any component of its formulation (e.g. angioedema, erythema multiforme, urticaria)
+        - History of myocardial infarction or stroke
+        - Romosozumab should not be used in patients who have had a myocardial infarction or stroke in the past year
+    - Additionally, romosozumab is not recommended in the following situations:
+        - Patients who have completed 12 months of romosozumab therapy, as its effects wane after this period
+        - Premenopausal patients, as it is not currently FDA-approved for use in this population
+        - Patients with severe renal impairment or on dialysis should be monitored closely due to increased risk of hypocalcemia
+        - The contraindications and precautions have been updated to reflect the increased cardiovascular risks associated with romosozumab use. Careful consideration of fracture risk vs cardiovascular risk is recommended when determining whether to use romosozumab in individual patients.
+- Q. Is approved for use in men with osteoporosis ?
+    - Romosozumab is not currently approved for use in men with osteoporosis. 
+    - Several studies have shown promising results for using romosozumab in men with osteoporosis, but as of 2022, its use in men is not FDA-approved.
+    - One study (the BRIDGE study) evaluated romosozumab in men with osteoporosis, showing significant improvements in bone mineral density compared to placebo. However, this has not yet led to FDA approval for use in men.
+    - The use of romosozumab in men is still considered investigational.
+- Q. Tell me more about the STRUCTURE trial 
+    - The STRUCTURE trial was an important phase 3 clinical trial that evaluated romosozumab compared to teriparatide in postmenopausal women with osteoporosis who were transitioning from bisphosphonate therapy. Here are some key details about the STRUCTURE trial:
+    - Study design: Randomized, open-label, active-controlled phase 3 trial
+    - Participants: 436 postmenopausal women aged 55-90 years with osteoporosis who had taken oral bisphosphonates for at least 3 years
+    - Treatment groups:
+        - Romosozumab 210 mg subcutaneously once monthly for 12 months
+        - Teriparatide 20 μg subcutaneously once daily for 12 months
+    - Primary endpoint: Percentage change from baseline in total hip bone mineral density (BMD) at month 12
+    - Key secondary endpoints: Changes in BMD at lumbar spine and femoral neck
+    - Results:
+        - At 12 months, romosozumab increased total hip BMD by 2.6% compared to a 0.6% decrease with teriparatide
+        - Romosozumab also showed greater BMD increases at the lumbar spine and femoral neck
+        - Romosozumab increased bone formation markers rapidly but transiently, while decreasing bone resorption markers
+        - Teriparatide increased both bone formation and resorption markers
+    - Safety: Overall adverse event profiles were similar between the two groups
+    - The STRUCTURE trial demonstrated that for postmenopausal women with osteoporosis transitioning from bisphosphonate therapy, romosozumab resulted in greater BMD increases compared to teriparatide over 12 months of treatment. This suggested romosozumab may be a better option than teriparatide for patients at high fracture risk when switching from bisphosphonates to an anabolic therapy.
+- Q. Why is to be used only for 12 months ?
+    - Romosozumab is recommended to be used only for 12 months due to several factors:
+        - The anabolic effect of romosozumab wanes after 12 monthly doses
+        - Bone-making activity diminishes after 12 months of treatment
+        - Bone mineral density (BMD) tends to decrease soon after discontinuation of romosozumab
+        - The drug's efficacy in increasing bone formation is most pronounced during the first 12 months
+        - Clinical trials primarily evaluated the drug's safety and efficacy over a 12-month period
+        - Regulatory approval and guidelines specify a limited treatment duration of 12 monthly doses
+        - After 12 months, patients are typically transitioned to an antiresorptive therapy to maintain BMD gains
+- Q. Upto what eGFR can you use  Romosozumab  ?
+    - Romosozumab can be used safely in patients with mild to moderate renal impairment. Specifically:
+        - Romosozumab is considered safe and effective down to an estimated glomerular filtration rate (eGFR) of 30 mL/min/1.73 m².
+        - No dose adjustment is required for patients with mild to moderate renal impairment.
+        - For patients with severe renal impairment (eGFR 15-29 mL/min/1.73 m²) or those receiving dialysis, romosozumab can still be used, but there is a greater risk of hypocalcemia, and these patients should be monitored closely.
+        - Clinical trials included patients with CKD stage 3a and 3b (eGFR range approximately 30-59 mL/min/1.73 m²).
+        - Data regarding the use of romosozumab in end-stage renal disease (eGFR <15 mL/min/1.73 m²) are very limited.
+- Q. How soon after a recent fracture can  Romosozumab  be given ?
+    - There is no specific waiting period for initiating romosozumab treatment after a recent fracture. However, several key points are relevant:
+    - 1. The FRAME and ARCH studies, which were the main clinical trials for romosozumab, included patients with prior fractures. This suggests that having a recent fracture was not an exclusion criterion for romosozumab treatment.
+    - 2. A post-hoc analysis of the FRAME and ARCH trials showed that romosozumab was effective in reducing the risk of subsequent fractures in patients who experienced an on-study fracture. This indicates that romosozumab can be beneficial even when given after a recent fracture.
+    - 3. The rapid onset of action of romosozumab (increasing bone formation and decreasing bone resorption) is noted as potentially beneficial for patients at imminent risk of subsequent fractures, which includes those with recent fractures.
+    - 4. One study mentioned that previous research on other osteoporosis medications (including denosumab, teriparatide, and zoledronic acid) found no detrimental effects on fracture healing when treatment was initiated soon after a fracture.
+    - 5. Specifically for romosozumab, one study of patients with tibial diaphyseal fractures found that post-operative administration of romosozumab on Day 1 and Weeks 2, 6, and 12 following the fracture was not associated with delayed healing compared to placebo.
+    - While there's no explicit recommendation for a specific waiting period, these points suggest that romosozumab can likely be initiated relatively soon after a fracture occurs, potentially even within days or weeks. However, the decision should be made on an individual basis, considering the patient's overall clinical picture and other risk factors.
+- **Summary**
+- Q. In Summary where do you place the  Romosozumab  in terms of treatment algorithm for Post-menopausal osteoporosis
+    - Anabolic agents per se are recommended in patients with high risk of fracture. This is defined as follows:
+        - Consider:
+            - T-score of ≤–3.0 even in the absence of fractures
+            - T-score of ≤–2.5 plus a fragility fracture, severe or multiple vertebral fractures.
+        - Definitely give unless contra-indicated
+            - T-score ≤–3.5 with fragility fracture[s]
+            - T-score ≤–4.0
+            - any recent major osteoporotic fracture, or multiple recent fracture.
+    - Once the choice of giving an anabolic agent is made, the choice remains between  Teriparatide  vs  Romosozumab 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FNxwpSoqeOQ.png?alt=media&token=f1153a4d-7ad5-4b4c-808d-67b6c8aa2696)
+        - Those with prior history of MI or stroke or high CV risk - it is better to avoid  Romosozumab 
+- Q. How to give  Romosozumab  ?
+    - Dose: 210 mg per month
+    - Frequency: Once monthly 
+    - Duration: 12 months (limited to 12 monthly doses)
+    - Specific details:
+        - Administered as two separate subcutaneous injections of 105 mg each, given one after the other
+        - Injection sites include the abdomen, thigh, or upper arm
+        - Should be administered by a healthcare provider
+        - After 12 months of romosozumab, patients should transition to an antiresorptive osteoporosis therapy to maintain benefits
+- Q. What is the cost of the therapy in India ?
+    - The cost is about Rs. 30,000 for 210 mg injection once a month
+    - Brand name is Evenity
+- Q. Please give the code for the indication for  Romosozumab  in clinical practice
+	- [Indication for Bone Anabolic Agent in Osteoporosis](https://endodynamic.streamlit.app/Indication_for_bone_anabolic_agent_osteoporosis)
+
+
+	<iframe src="https://endodynamic.streamlit.app/Indication_for_bone_anabolic_agent_osteoporosis" width="100%" height="600px"></iframe>
+

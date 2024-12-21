@@ -1,0 +1,288 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/bone-and-mineral-disorders/osteoporosis/post-transplant-osteoporosis/"}
+---
+
+
+
+
+- Credits
+	- Section Writer: Dr. Om J Lakhani
+	- Section Editor: Dr. Om J Lakhani
+
+
+Support us:
+1. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 
+	- Premium Membership- Download PDF version of Notes, Get ad free video and more
+	- Consultant Membership- Above plus Download Powerpoint presentation of the notes and get access to EndoAI for Free
+2. Support us by purchasing our book - Click here for more details:
+	- [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
+	- [[BOOK SERIES/Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL\|Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL]]
+
+
+
+- Q. Which are major bone diseases after renal transplant?
+    - Osteoporosis
+    - Osteonecrosis
+    - CKD-MBD
+    - Persistent hyperparathyroidism after renal transplant
+- Q. What are the four phases of bone evolution after transplant? 
+    - Phase 1 - the underlying bone disease before the transplant - eg: CKD-MBD
+    - Phase 2 - the impact of immunosuppressants
+    - Phase 3- re-establishment of the bone microarchitecture
+    - Phase 4- re-emergence of the bone disease due to the underlying disease eg: Graft failure
+- Q. How common is post-transplant osteoporosis?
+    -  Post-transplant osteoporosis is a common complication following solid organ transplantation, affecting up to 50% of patients within the first year after transplantation.
+    - It is most common the first year after the transplant
+    - 22% of patients with renal transplant experience a fracture within the first year of the transplant 
+- Q. Enlist the pre and post-transplant risk factors for a patient with CKD.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FlzmWVdLFVR.png?alt=media&token=41b3d817-f767-4c7b-a6f5-f946091b0b5b)
+- Q. What type of bone disease do people with  Chronic liver disease have?
+    - patients with liver transplant  CLD  have a form of   low turnover bone disease 
+- Q. Absence of which hormone impacts bone disease in  CLD  patients?
+    - they have low IGF1 which is thought to cause bone disease in CLD 
+- Q. Enlist the risk factor for osteoporosis pre and post-liver transplant.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FdM_3YL_jlp.png?alt=media&token=2856b290-9185-4067-ae9e-3718923a2e73)
+- Q. What are the specific risk factors for other solid organ transplants?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FavDoy8mYnn.png?alt=media&token=feb80a01-b7ee-4bb2-949c-82510012d0d7)
+- **Osteoporosis **
+- Q. Which part of the bone is predominantly involved post-transplant?
+    - Trabecular
+- Q. What are the risk factors for post-transplant osteoporosis?
+    - Immunosuppressive medications including glucocorticoids
+    - Hyperparathyroidism
+    - NODAT (New onset diabetes after transplant)
+    - Hypogonadism
+    - Other risk factors common in non-transplant patients
+- Q. Describe the effect of glucocorticoids in causing osteoporosis.
+    - Glucocorticoids produce osteoporosis through the following mechanisms:
+        - Inhibition of bone formation: Glucocorticoids reduce the activity of osteoblasts, the cells responsible for bone formation.
+        - Enhancement of bone resorption: Glucocorticoids increase the activity of osteoclasts, the cells responsible for bone resorption.
+        - Alteration of calcium metabolism: Glucocorticoids increase urinary calcium excretion and decrease intestinal calcium absorption, leading to a negative calcium balance and bone loss.
+        - Induction of apoptosis: Glucocorticoids induce apoptosis (programmed cell death) of osteoblasts and osteocytes, further contributing to bone loss.
+        - Impairment of collagen synthesis: Glucocorticoids reduce the synthesis of collagen, the main protein component of bone, leading to decreased bone strength and increased fracture risk.
+        - Suppression of sex hormones: Glucocorticoids can suppress the production of sex hormones, such as estrogen and testosterone, which are important for bone health.
+- Q. Do calcineurin inhibitors produce Osteoporosis?
+    - CNI → Hypomagnesemia → secondary hyperparathyroidism
+- **Screening and monitoring **
+- Q. Summarize the approach to osteoporosis pre and post-renal transplant.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2Fv5ANew3zO8.png?alt=media&token=8a3600ee-524f-4d33-b6d4-404d447b383f)
+- Q. What evaluation is done pre-transplant?
+    - Screen all transplant patients using a DEXA scan before the transplant
+- Q. What is done if the patient is found to have osteoporosis?
+    - Treat as like treating other patients with osteoporosis
+- Q. When is DEXA repeated after transplant?
+    - DEXA is repeated 3 months after the transplant
+    - If found to have osteoporosis- treat and repeat DEXA annually
+    - If not found to have osteoporosis – then repeat DEXA every 2 years
+- **Prevention  (for those not having osteoporosis)**
+- Q. What is done for post-transplant patients not found to have osteoporosis?
+    - Lifestyle measures
+    - Lowest possible Glucocorticoid dose
+    - Vitamin D and calcium supplementation (avoid in hypercalcemic patients)
+- Q. What type of exercise prevents osteoporosis?
+    - Weight-bearing exercises
+- Q. Are calcitriol and bisphosphonates recommended in people not having osteoporosis?
+    - No
+- Q. Why are bisphosphonates not given in patients post-transplant?
+    - This is because bone disorder post-transplant is mainly a low-turnover bone disease
+    - Bisphosphonates are harmful to patients with low turnover bone disease
+    - They worsen it and may even lead to atypical fractures
+- **Treatment of osteoporosis  (for those having osteoporosis)**
+- Q. Give the approach to the management of Osteoporosis post-transplant.
+    - Step1
+        - Calcium – 1000 mg, vitamin D3- 2000 IU/ day
+        - Lifestyle measures
+        - Lowest Glucocorticoid dose
+    - Step 2
+        - Rule out and treat persistent hyperparathyroidism post-transplant (see later)
+        - Step 3
+        - If the above two are done then see if it is low turnover bone disease or normal turnover
+        - If it is low turnover- Teriparatide
+        - If turnover is normal –bisphosphonates
+- Q. What is the gold standard for diagnosis of Low turnover bone disease?
+    - Bone biopsy is the gold standard
+- Q. What are non-invasive ways of detecting Low turnover bone disease?
+    - Combination of
+        - Low PTH (<79 pg/ml)
+        - Low Bone specific alkaline phosphatase (<12.9 mcg/l)
+        - If this is indeterminate then do a bone biopsy
+- **Osteonecrosis  **
+    - Pearl
+        - Osteonecrosis is more common in the post-transplant population
+        - It is probably due to Glucocorticoid and/or  Cyclosporine
+- Q. What is the difference in the clinical presentation of osteonecrosis post-transplant vs other populations?
+    - Non-transplant- Femoral head is commonly involved
+    - Transplant- it is multifocal
+- Q. Does cyclosporine itself produce bone pain?
+    - Yes
+    - Cyclosporine administration is associated with commonly with bone pain
+    - Exact reason is not known
+- **Persistent hyperparathyroidism post renal transplant **
+- Q. What is the importance of persistent hyperparathyroidism post-transplant?
+    - Persistent hyperparathyroidism post-transplant is associated with reduced graft survival and an increased risk for fractures. 
+    - Persistently elevated parathyroid levels can lead to calcium deposition in soft tissues, blood vessels, and the heart, as well as hypophosphatemia, hypercalciuria, accelerated atherosclerosis, and risk of calciphylaxis. 
+    - Additionally, hypophosphatemia associated with uncontrolled hyperparathyroidism can lead to derangement in bone mineralization and decreased osteoblast activity, which can further potentiate the development of rickets and osteomalacia. 
+    - Therefore, identifying and managing persistent hyperparathyroidism post-transplant is crucial in mitigating fracture risks and improving clinical outcomes.
+- Q . Summarize the management of Persistent  Hyperparathyroidism post-transplant.
+    - Pretransplant
+        - Optimize medical management with Calcitriol and phosphate binder
+        - Consider parathyroidectomy pre-transplant if PTH is >800 pg/ml
+    - Post-transplant
+        - Medical management of hypercalcemia with IV fluids etc
+        - If hypercalcemia remains even after 6 months- consider subtotal parathyroidectomy / Cinacalcet
+    - Hypophosphatemia
+        - 1-2.3 mg/dl- treat hyperparathyroidism first – if it persists- increase phosphate in the diet
+        - <1 mg/dl- consider phosphate replacement
+- Q. What type of hyperparathyroidism occurs post-transplant?
+    - It is secondary hyperparathyroidism which may have become tertiary
+- Q. How common is persistent hyperparathyroidism post-transplant and what is its clinical importance?
+    - It is present in 50% of cases post-transplant and associated with poor graft function and increased mortality
+- Q. What is the pathophysiology of hyperparathyroidism?
+    - Mild secondary hyperparathyroidism- resolves with the improvement of GFR
+    - In severe and long-standing –there is parathyroid hyperplasia and adenoma formation which does not resolve
+- Q. How do clinical manifestations of hyperparathyroidism pretransplant and posttransplant differ?
+    - Pretransplant – because of poor GFR- it is typical secondary hyperparathyroidism with low calcium and high phosphorous and elevated PTH
+    - Post-transplant –It resembles Primary hyperparathyroidism because of improvement of GFR – typically there is hypercalcemia and hypophosphatemia
+- Q. What is the reason for the hypercalcemia?
+    - With the improvement of GFR  increase of 1 alpha-hydroxylase → increase of 1,25 dihydroxy vitamin D (calcitriol)→ increase hypercalcemia
+    - Rescue of the skin calcium deposition
+- Q. What produces hypophosphatemia?
+    - High PTH
+    - Persistently high FGF23 ( may fall in most cases)
+- **Clinical features **
+- Q. What are the symptoms of post-transplant hypercalcemia in general?
+    - They are generally milder or asymptomatic compared to a classical PHPT
+- Q. When does symptomatic hypercalcemia occur post-transplant?
+    - Generally in the first three months post-transplant
+- Q. What are the renal effects of hypercalcemia post-transplant?
+    - Can cause acute kidney injury
+    - Can cause vasoconstriction
+    - Natriuresis  reduced circulating volume
+- Q. What are the consequences of post-transplant hyperparathyroidism?
+    - Persistent hyperparathyroidism post-transplant is associated with increased mortality and allograft loss
+    - It is also associated with osteoporosis
+- **Management – pretransplant **
+- Q. What can be done before transplant to prevent post-transplant hyperparathyroidism?
+    - Good control of hyperparathyroidism pretransplant can prevent post transplant hyperparathyroidism
+- Q. Is there any role of parathyroidectomy pre-transplant in patients with persistent hyperparathyroidism?
+    - Pre-transplant PTH >800 pg/ml- subtotal parathyroidectomy will improve post-transplant outcomes
+    - This is because this level of PTH is unlikely to respond to calcitriol etc
+- Q. What is the problem with the use of cinacalcet in such a group of patients?
+    - It is associated with rebound hypercalcemia when it is stopped before transplantation
+- **Management after- transplant **
+- Q. When monitoring is done post–transplant?
+    - Calcium, phosphorus, PTH and ALP must be routinely measured post-transplant
+- Q. What is done for persistent PTH depedenent hypercalcemia post transplant ?
+    - If calcium remains higher for > 6 months- consider subtotal parathyroidectomy
+    - Patient advised adequate fluid intake
+    - Cinacalcet used by some – but parathyroidectomy is a better approach
+- Q. What is done for hypophosphatemia?
+    - Mild (1.0-2.3 mg/dl)
+    - If PTH is high- treat the hyperparathyroidism first
+    - If despite PTH treatment Phosphorus remains low- increase dietary phosphate
+- Severe (<1 mg/dl)
+    - Correct the hyperparathyroidism
+    - Oral phosphorus or calcitriol (if no hypercalcemia) can be given
+    - Dipyridamole improves phosphorus reabsorption  and can be used in selected patients → It is experimental therapy though
+- Q. What is done for increased PTH without increased calcium?
+    - Correct vitamin D deficiency
+    - Calcitriol may also be used
+    - A bone disorder in other transplants
+- Q. Is FRAX useful in post-transplant patients?
+    - FRAX has been shown to predict fracture risk in kidney transplant patients in a single-center study.
+    - However, larger cohort studies are needed to validate the results before widespread use is implemented.
+    - The usefulness of FRAX in post-transplant patients is not yet fully established.
+- Q. What is the role of  DEXA  in post-transplant cases?
+    - DEXA is a noninvasive, relatively accurate test that assists in predicting osteoporosis and fracture risk.
+    - DEXA scans pose challenges in differentiating cortical vs trabecular bone in post-renal transplant patients and cannot differentiate vascular from soft tissue calcification.
+    - The predictive value of DEXA scans for lumbar fractures is currently uncertain, particularly for post-kidney transplant recipients.
+    - High-resolution quantitative computed tomography (HRCT) guides us in understanding the density and microarchitecture of cortical and trabecular regions separately and is currently used for research purposes, given its high cost and non-generalizability of the results.
+    - Further additional information is needed before HRCT is standardized to the post-transplant population.
+- Q. What is the role of bone biopsy in such patients?
+    - Bone biopsy is a gold standard, invasive procedure for evaluating bone abnormalities in post-transplant patients.
+        - KDIGO recommends considering bone biopsies for patients with persistent bone pain and at risk of fractures to guide treatment.
+        - In most transplant patients, there is a slight increase in osteoclast activity, a decrease in osteoblast function, and an alteration in bone dynamics.
+        - Bone biopsy results in post-renal transplant patients with hyperparathyroidism changes can be difficult to interpret.
+        - Follow-up biopsies looking at dynamic changes might be challenging, and bone histomorphometric changes could be different at different sites, which could make results difficult to generalize.
+- Q. What is the role of  Denosumab in such patients?
+    - Denosumab is a monoclonal antibody against the NF-kb ligand.
+        - It preserves bone density and decreases the risk of fractures in women.
+        - It can be considered as an alternative to bisphosphonates in patients with low GFR.
+        - However, the rebound risk of spontaneous vertebral fractures after discontinuation of denosumab, along with the hypocalcemia risk, should be taken into consideration.
+        - There is no available data regarding Denosumab for the prevention of bone loss after heart, lung, or marrow transplants.
+- **Management of post-transplant osteoporosis in non-renal transplant cases**
+- Q. Enlist the risk factors associated with Fracture Pre-transplant.
+    - Low bone mineral density related to underlying disease
+        - Hepatic osteodystrophy
+        - Osteoporosis of end-stage pulmonary disease
+        - Renal osteodystrophy
+        - Heart failure
+        - Diabetes
+    - Pre-existing history of fracture
+    - Advanced age
+    - Chronic illness
+        - Poor nutrition
+        - Vitamin D deficiency
+        - Immobilization
+    - Hyperparathyroidism
+    - Hypogonadism
+    - Medications
+        - Glucocorticoids
+    - Lifestyle factors
+        - Smoking
+        - Alcohol abuse
+- Q. Enlist the risk factor post-transplant.
+    - Immunosuppressive regimens
+        - Glucocorticoids
+        - Calcineurin inhibitors (cyclosporine, tacrolimus)
+    - Chronic illness
+        - Poor nutrition
+        - Vitamin D deficiency
+        - Immobilization
+    - Hypogonadism
+    - Lifestyle factors
+        - Smoking
+        - Alcohol abuse
+        - Inactivity
+- Q. How soon after transplant does the bone loss typically occur?
+    - It typically occurs rapidly in the first 6 months after the transplant
+- Q. Should a pretransplant BMD be done ?
+    - Yes
+    - If the patient is found to have osteoporosis- treat according to standard protocol
+- Q. What is done for the prevention of post-transplant osteoporosis?
+    - Since the patient will receive an immunosuppressive regimen it is not a bad idea to post-transplant patients with bisphosphonates to prevent osteoporosis
+    - Some experts recommend to treat all patients
+- Pearl
+    - In renal transplant- preventive treatment with bisphosphonates is not advised- this is because many have low turnover bone disease and bisphosphonates may cause  harm
+    - In other transplants – it is not a bad idea to treat almost all post-transplant
+- Pearl
+    - The guidelines are essentially similar to Glucocorticoid induced osteoporosis
+    - Since the patient is going to receive glucocorticoids- treating like GIO i
+- Q. What drugs are recommended for the prevention of post-transplant osteoporosis?
+    - For men and post-menopausal women – give Bisphosphonates
+    - For premenopausal women- bisphosphonate risk has to be weighed in light of possible pregnancy, Calcitriol may be used alternatively
+    - Hormone replacement for those having hypogonadism
+- Q. How is monitoring done for these patients?
+    - Do DEXA annually in these patients
+- Q. How long to treat post-transplant?
+    - Unless there is another reason or established osteoporosis, treatment can be stopped at 12 months because most studies show that bone loss post-transplant often stops after 12 months and lumbar BMD recovers
+    - However, this decision to stop therapy must be based on clinical judgment
+- Q. Summarize the approach to post-transplant osteoporosis for transplant other than renal transplant.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2F3w9coavyYu.png?alt=media&token=75177355-a88e-4410-bbd6-a1ee95ae5521)
+- Source: {{ video : https://www.youtube.com/watch?v=0pWLnT2_wIc}}
+- Q. How does heparin produce osteoporosis?
+    - It is not well known
+    - It is thought to inhibit osteoblasts
+- Q. How does acidosis produce  osteoporosis  ?
+    - It activates  osteoclasts 
+- Q. Amongst the transplant- which organ transplant recipients have the highest risk of osteoporosis?
+    - Lung transplant
+    - this is followed by a Renal transplant 
+- Q. What kind of bone disease is seen with  Calcineurin inhibitors?
+    - High turnover bone disease 
+
+
+
+
+Reference:
+    - Kovvuru K, Kanduri SR, Vaitla P, Marathi R, Gosi S, Garcia Anton DFG, Cabeza Rivera FHC, Garla V. Risk Factors and Management of Osteoporosis Post-Transplant. Medicina. 2020; 56(6):302. DOI: 10.3390/medicina56060302.

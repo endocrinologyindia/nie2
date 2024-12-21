@@ -1,50 +1,72 @@
 ---
-{"dg-publish":true,"permalink":"/you-tube-channel/you-tube-channel/"}
+{"dg-publish":true,"permalink":"/you-tube-channel/you-tube-channel/","tags":["gardenEntry"]}
 ---
 
-# The Endocrinology India YouTube Channel
 
-![CleanShot 2024-12-20 at 07.46.41.png](/img/user/attachments/CleanShot%202024-12-20%20at%2007.46.41.png)
+# Welcome to Endocrinology India
 
-The Endocrinology India YouTube Channel has been around for a long time. With more than 7000 subscribers and counting , it is one of the most happening YouTube channels on Endocrinology in India. 
-
-# Join our Channel
-
-1. Watch the videos : https://www.youtube.com/@EndocrinologyIndia
-2. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 
+![Black White Circle Bee Icon Food Logo.png](/img/user/attachments/Black%20White%20Circle%20Bee%20Icon%20Food%20Logo.png)
 
 
-# Membership benefits
 
-## Premium Members benefits
+## by Dr. Om J Lakhani
 
-주159.00/month
+Building the largest resource for Endocrinology on the internet. 
 
-**Exclusive Benefits for Members:**
+# Our Collection
 
-• **Members-Only Content**:
+### 📝 Notes in Endocrinology
+Best-in-class Notes in Endocrinology for Endocrinologists  
+[[note\|note]]
 
-• In-depth videos on **Endocrinology**, **AI**, and **Coding** exclusively for members.
+### 📚 Research Summary 
+Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
+[[Research Summary/Research Summary →\|Research Summary →]]
 
-• **Early Access**:
-
-• Access to all new videos **one week before** the general release.
-
-• **Members-Only Live Streams**:
-
-• Participate in live discussions as part of the _“Notes-in-Endocrinology”_ video series (coming soon).
-
-• **Free Resources**:
-
-• Complimentary **PDF versions** of all new notes and presentations. 
-
-• **Special Discounts**:
-
-• Enjoy discounts on future **books** or **products**.
+### 📊 Presentation Library 
+Collection of PowerPoint presentation on various topics in Endocrinology by Dr. Om J Lakhani
+[[Presentation Library/Presentation Library →\|Presentation Library →]]
 
 
-## Consultant Level member
+### 🎥 YouTube Channel
+The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
+[[YouTube Channel/YouTube Channel →\|YouTube Channel →]]
 
-₹599.00/month
+### 📕 Our Books
+The Best of Notes in Endocrinology books by Dr. Om J Lakhani
+[[BOOK SERIES/Our Books →\|Our Books →]]
 
-- All the above benefits plus : Free Download of PowerPoint presentations of all new videos posted on the channel
+### 💻 Technocrinology
+Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
+[Click here →](https://technocrinology.thinkific.com/)
+
+### 🔧 Endocrinologist's Toolkit (EndoDynamic)
+Mini-apps, Calculators, and Toolkits for Endocrinologists  
+[[Endocrinologist ToolKit/ToolKit for Endocrinologists →\|ToolKit for Endocrinologists →]]
+
+### 🩺 Diabetologist's Toolkit (Diabetology)
+Mini-apps, Calculators, and Toolkits for Diabetes Management  
+[[Click here →\|Click here →]]
+
+### 🤖 The AI Corner
+Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  
+[[Click here →\|Click here →]]
+
+### 🔁 Human-in-loop Research
+Medical research, conducted by AI, Edited by Natural intelligence
+[[Human-in-Loop research/Human-in-Loop Research →\|Human-in-Loop Research →]]
+
+### 👨‍⚕️ Online Consultation with Endocrinologist
+Consult a Qualified Endocrinologist Online  
+[[Click here →\|Click here →]]
+
+### 📱 WhatsApp Channel
+Join the Endocrinology India WhatsApp Channel for Regular Updates  
+[Click here →](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
+
+### 🤝 Support us
+Please visit the page to show us some love & support our efforts   
+[[Support us/Support us →\|Support us →]]
+
+
+---

@@ -1,0 +1,128 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/pediatric-endocrinology/disorder-of-sexual-differentiation/disorder-of-sexual-differentiation-dsd-classification-and-etiology/"}
+---
+
+
+- Credits
+    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+
+- Q. What is DSD ?
+    - Disorder of Sexual differentiation
+- Q. What features are considered atypical genitalia at birth ?
+    - Male type
+        - Bilateral absent testis
+        - Micropenis
+        - Perineal hypospadias
+        - Bifid scrotum
+    - Female type
+        - Palpable gonads in labioscrotal folds
+        - Clitoromegaly
+        - Posterior labial fusion
+- Q. Which tests are sent immediately when you have a child with Atypical genitalia ?
+    - Karyotype with FISH for SRY
+        - 17 OHP
+        - Cortisol
+        - Electrolytes
+        - Pelvic abdominal USG
+- **Classifications of DSD**
+- Q. What are the three types of DSD ?
+    - XY DSD
+    - XX DSD
+    - Sex chromosome DSD
+- Q. What is another classification of DSD ?
+    - Malformative DSD – Abnormal morphogenesis of urogenital primordia
+    - Dysgenetic DSD- Abnormal gonadal differentiation
+    - Non Dysgenetic DSD- Abnormal sex hormone steroidogenesis
+- Q. What are causes of Malformative DSD ?
+    - Abnormal development of external genitalia
+    - Isolated micropenis
+    - Isolated hypospadias
+    - Abnormal development of internal genitalia
+    - MRKH
+    - Absent vas deferens – cystic fibrosis
+- Q. What are causes of Dysgenetic DSD ?
+    - Complete gonadal dysgenesis
+    - Partial gonadal dysgenesis
+    - Mild gonadal dysgenesis
+    - Asymmetric gonadal differentiation – ovotesticular DSD
+- Q. What are causes of complete gonadal dysgenesis ?
+    - Turner syndrome
+    - 46 XX gonadal dysgenesis
+    - WNT4 and RSPO1
+    - 46 XY gonadal dysgenesis
+    - Mutation in transcription factors – WT1, SRY SOX9, SF1, DHH, ATRX
+    - Chromosomal abnormalities- Yp deletion, 9q deletion (DMRT1), XP duplication
+- Q. What are causes of partial gonadal dysgenesis ?
+    - Same causes which cause complete GD can cause partial GD also
+    - Environmental factors- Endocrine disruptors
+    - Mosaic Turner
+- Q. What are causes of mild gonadal dysgenesis ?
+    - 46 XX male – transfer of SRY on X chromosome
+    - Klienfelter’s syndrome
+- Q. What are causes of ovotesticular DSD ?
+    - Mosaic sex chromosomes
+    - 46XY/45 X
+    - 46XY/46 XX
+- Q What are causes of Non dysgenetic DSD ?
+    - 46 XY
+        - Abnormal testosterone biosynthesis pathway defect
+        - Androgen receptor defect- Androgen insensitivity syndromes
+        - Abnormality in AMH production or action- Persistent Mullerian Duct syndrome
+    - 46 XX
+        - Virilizing CAH
+        - Placental aromatase defect
+        - Maternal virilization
+        - Iatrogenic Androgen exposure
+- Q. Which are the Virilizing CAH in 46 XX ?
+    - 21 hydroxylase
+    - 3 beta HSD
+    - 11 beta-hydroxylase
+    - P450 oxidoreductase
+- Q. What are the causes of 46 XX DSD ?
+    - Malformative DSD- MRKH
+    - Dysgenetic DSD
+        - Turner syndrome / Mosaic Turner
+        - 46 XX male – SRY translocation to X
+        - Complete gonadal dysgenesis – WNT4, RSPO1 defect
+        - Ovotesticular DSD
+    - Non dysgenetic DSD
+        - CAH
+            - 21 hydroxylase
+            - 3 beta HSD
+            - 11 beta-hydroxylase
+            - P450 oxidoreductase
+        - Placental aromatase defect
+        - Maternal virilization
+            - Adrenal tumor
+            - Ovarian tumor
+            - Glucocorticoid resistance syndrome
+            - Maternal virilizing CAH
+        - Iatrogenic /environmental androgen exposure
+- Q. Enlist the causes of 46 XY DSD ?
+    - Malformative DSD
+        - Isolated hypospadias
+        - Isolated micropenis
+        - Absent Vas deferns- Cystic fibrosis
+    - Dysgenetic DSD (gonadal dysgenesis)
+        - Complete gonadal dysgenesis – SRY, WT1, SOX9, DHH, SF1
+        - Partial gonadal dysgenesis – above in milder form
+        - Mild GD – Kleinfetler’s syndrome
+        - Ovotesticular DSD
+        - Testicular regression syndrome
+    - Disorder of testosterone synthesis
+        - LH receptor mutation
+        - Smith Lemli Opitz
+        - StAR defect
+        - Sidechain cleavage enzyme defect
+        - 17 alpha-hydroxylase defect
+        - 17, 20 lyase defect
+        - P450 oxidoreductase
+        - 3 beta HSD defect
+        - 17 beta HSD3 defect
+        - 5 alpha reductase defect
+    - Disorder of androgen receptor
+        - CAIS
+        - PAIS
+        - AMH defect
+        - Persistent Mullerian duct syndrome

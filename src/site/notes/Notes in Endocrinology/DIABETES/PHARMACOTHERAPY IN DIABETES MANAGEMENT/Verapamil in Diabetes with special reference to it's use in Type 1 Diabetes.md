@@ -1,0 +1,206 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/diabetes/pharmacotherapy-in-diabetes-management/verapamil-in-diabetes-with-special-reference-to-it-s-use-in-type-1-diabetes/"}
+---
+
+
+
+Credits
+    - Section Writer:  Dr. Om J Lakhani 
+    - Section Editor:  Dr. Om J Lakhani 
+
+
+Support us:
+1. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 
+	- Premium Membership- Download PDF version of Notes, Get ad free video and more
+	- Consultant Membership- Above plus Download Powerpoint presentation of the notes 
+2. Support us by purchasing our book - Click here for more details:
+	-  Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES 
+	-  Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL 
+
+3. For more such updates follow our WhatsApp Channel: https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h
+
+
+
+
+- Q. Give an outline of insulin secreation in the human body ?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FMnX9MCIEqe.png?alt=media&token=5d6d02fc-db50-4659-b1a7-7a28505630cd)
+- Q. What is  First phase insulin secreation  ?
+    - Insulin release occurs in two ways
+        - a) Basal- continous insulin that is released from the beta-cell irrespective to the food or glucose intake
+        - b) Post-meal insulin release
+    - In the post-meal insulin release- there is an acute response to glucose upsurge that occurs within 2 minutes of glucose excursion which is called the first-phase insulin secretion
+    - This is a burst of insulin secreation that occurs from preformed and mature insulin secretory granules
+    - This is a form of pre-emptive method of preventing a glucose surge. This first phases suppresses hepatic glucose production and enhances the peripheral glucose utilization
+    - The  First phase insulin secreation  can be assesed by
+        - a)  Hyperglycemic clamp 
+        - b)  Intravenous glucose tolerance test IVGTT 
+- Q. What is second phase insulin secreation ?
+    - It is the slow and sustained release of insulin post the glucose load
+    - This is derived mainly from the reserve pool of insulin granules
+- #Pearl
+    - First phase insulin- from readily releasible pool (RRP)
+    - Second phase insulin- from reserve pool 
+- Q. In terms of new theory, how do we sub-divide the RRP in three parts ?
+    - "Old Face"- these are predocked granules ready to be released. They are already docked and released as soon as the signal arrives. 
+    - "The restless newcomer"- they are newly recruited on stimulation and are fuse almost immediatley to the plasma membrane
+    - "The resting newcomer"- they are recruited on stimulation but are first docked (rested) and then they fuse to the plasma membrane and released 
+    - All the three contibute the the first phase insulin secreation
+- Q. True or false- if  Beta-cells  are preserved to some extent in diabetes- the risk of hyperglycemia and also hypoglycemia is lower ?
+    - Use
+    - This is because of  glucose-glucagon axis 
+    - If the  Beta-cells  are preserved and C-peptide is maintained well
+- Q. Is it true that lower beta cell function and c-peptide levels are associated with higher risk of microvascular complications in  Type 1 Diabetes  ?
+    - Yes
+    - A study done by Steffes et al concludes:
+        - "Even modest levels of beta-cell activity, indicated by C-peptide secretion, are associated with significant clinical benefits in reducing complications such as retinopathy, nephropathy, and severe hypoglycemia in type 1 diabetes."
+- Q. We know that insulin secretion further degrades in type 1 diabetes. How much does it degrade ?
+    - According to study done by Davies et al
+        - 1. Insulin secreation remains detectable in 60% of individuals 6-9 years after diagnosis
+        - 2. Only 35% have detectable insulin production 10-20 years after the diagnosis
+- Q. What is TXNIP ?
+    - TXNIP, or Thioredoxin Interacting Protein, is an important biological molecule with various roles in cellular processes. Here are some key points about TXNIP:
+        - Function in Redox Regulation: TXNIP is best known for its role in regulating the redox state of cells. It interacts with thioredoxin, a protein involved in protecting cells from oxidative stress, by inhibiting its activity.
+        - Role in Metabolism: TXNIP is involved in glucose and lipid metabolism. It has been found to affect insulin action and glucose homeostasis, making it relevant in the context of diabetes and metabolic syndrome.
+        - Cellular Stress Response: TXNIP is also a stress response protein that can be upregulated under various stress conditions, including oxidative stress and glucose deprivation.
+        - Regulation of Cell Death: TXNIP has been implicated in the regulation of apoptosis (programmed cell death). It can promote cell death under certain stress conditions, which plays a role in cancer and other diseases.
+        - Association with Diseases: Elevated levels of TXNIP have been linked to several diseases, including diabetes, cardiovascular diseases, and cancer. Its involvement in these diseases often relates to its role in oxidative stress and metabolism.
+        - Potential Therapeutic Target: Given its central role in managing oxidative stress and metabolism, TXNIP is considered a potential therapeutic target for treating diabetes, cancer, and other oxidative stress-related conditions.
+- Q. So does it increase oxidative stress or reduce oxidative stress ?
+    - TXNIP increases oxidative stress
+    - By binding to thioredoxin, TXNIP prevents it from reducing oxidized proteins, thereby limiting its ability to counteract oxidative stress
+- Q. So what does  verapamil  do to TXNIP ?
+    - It reduces the TXNIP - hence leading to reduction of oxidative stress
+- Q. Why is this important ?
+    - This is important because beta-cell damage in both type 1 and type 2 diabetes occurs via oxidative stress
+    - The same pathway also leads to beta-cell apoptosis
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2F_MHcRDvjz9.png?alt=media&token=6e59adf6-5e70-462c-b0d2-44d582a6526f)
+- Q. Can you explain the diagram above in simple words ?
+    - This is the explanation of this diagram in simple words:
+    - *Glucolipotoxicity*: This term refers to the damage caused by high levels of glucose (sugar) and fats. This condition is harmful to cells and can lead to cell dysfunction or death.
+    - *Oxidative Stress*: As a consequence of glucolipotoxicity, cells experience oxidative stress, which is a harmful state where there is an excess of harmful molecules called free radicals. These can damage cell components.
+    - *JNK Activation*: Oxidative stress can activate a protein called JNK. When JNK is activated, it can lead to further stress and damage within the cell.
+    - *Cellular Signaling Pathways Affected*:
+        - *PGC-1α & FoxO-1*: These are proteins that can be influenced by the stress JNK causes. When they're activated, they affect other molecules in the cell, leading to changes in insulin production.
+        - *Pdx-1*: This is a protein that helps regulate the production of insulin. Under stress, its function is hampered, leading to less insulin being made.
+        - *Glucokinase*: This enzyme plays a role in how glucose is used in the cell. Under stress, its activity is reduced, which disrupts the normal processing of glucose.
+    - *Glucose & Insulin Secretion*: Normally, when glucose enters beta-cells, it triggers the cells to release insulin. But due to the stress and the interference with proteins like Pdx-1 and glucokinase, the cell's ability to produce and secrete insulin is decreased.
+    - *Outcome -- Apoptosis*: All the stress and dysfunction can lead to apoptosis, which means the beta-cells may undergo programmed cell death.
+    - In summary, the figure shows that high levels of glucose and fats can cause stress in pancreatic beta-cells, interfere with the cells' insulin production, and potentially lead to cell death. This process is important because it helps explain why high blood sugar and fat levels can be harmful in diseases like diabetes.
+- Q.  What is the relationship between TXNIP and hyperglycemia ?
+    - Hyperglycemia leads to increase of TXNIP levels
+    - It also interacts with GLUT1 to reduce glucose uptake in the cells and hence produce a form insulin resistance 
+    - This leads to this vicious cycle 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FYVQrCJ_sgh.png?alt=media&token=e1756df0-a822-4ee1-8342-661afbab2e05)
+- Q. Can you explain the relationship between GLUT1 and TXNIP in more detail 
+    - Low Glucose (outside the cell):
+        - The cell senses a lack of glucose.
+        - A protein called AMPK activates and adds a phosphate group to another protein, TXNIP.
+        - This phosphorylation inactivates TXNIP.
+        - Without active TXNIP, GLUT1 (glucose doorways) are not broken down.
+        - More GLUT1 on the cell surface means increased glucose uptake.
+    - High Glucose (outside the cell):
+        - The cell senses an abundance of glucose.
+        - TXNIP is not phosphorylated and remains active.
+        - Active TXNIP leads to the removal of GLUT1 from the cell surface by endocytosis.
+        - The internalized GLUT1 can be recycled or degraded.
+        - Fewer GLUT1 on the cell surface results in lower glucose uptake.
+- Q. What are the two forms of  verapamil  and which of these are more useful in diabetes ?
+    - R form and S form
+    - The R form is more useful in diabetes
+- **Verapamil in Type 1 Diabetes**
+- Q. How does verapamil work in type 1 diabetes ? 
+    - Verapamil, a calcium channel blocker typically used to treat high blood pressure and heart conditions, has specific mechanisms that may benefit individuals with type 1 diabetes:
+        - Reduction of TXNIP: Verapamil reduces the expression of thioredoxin-interacting protein (TXNIP) in beta cells. TXNIP is known to be upregulated in high glucose conditions and has been implicated in beta cell apoptosis (cell death).
+        - Preservation of Beta Cells: By lowering TXNIP levels, verapamil helps to reduce stress on pancreatic beta cells, potentially decreasing the rate of beta cell death. This preservation is critical in type 1 diabetes, where beta cell destruction leads to insulin deficiency.
+        - Reduction in Beta Cell Apoptosis: Preclinical studies suggest that verapamil can mitigate glucotoxicity-induced beta cell death. This effect can be crucial in the early stages of type 1 diabetes when some beta cell function still exists.
+        - Indirect Effects on Blood Glucose: While primarily preserving beta cells, verapamil does not directly lower blood glucose levels but may influence glucose control indirectly through the preservation of endogenous insulin production.
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FbIlN3m7V4z.png?alt=media&token=5cee296f-c2dc-4776-a30d-cd2249831763)
+    - These mechanisms indicate that verapamil could be a supportive therapy in managing type 1 diabetes, particularly in the early stages following diagnosis, by slowing the progression of beta cell loss.
+- Q. Summarize the key findings from the paper by Forlenza et al on the use of Verapamil in type 1 diabetes 
+    - Preservation of Beta Cell Function: Verapamil partially preserved stimulated C-peptide secretion at 52 weeks compared to a placebo. This was quantified as a 30% higher level of C-peptide at 52 weeks in the verapamil group compared to the placebo group.
+    - C-Peptide Levels: The percentage of participants with a 52-week peak C-peptide level of 0.2 pmol/mL or greater was significantly higher in the verapamil group (95%) compared to the placebo group (71%).
+    - Safety Profile: Verapamil was well tolerated with few adverse events. The adverse events reported were similar between the verapamil and placebo groups, with no serious adverse events directly attributed to the treatment.
+    - Hemoglobin A1c Levels: There were no significant differences in hemoglobin A1c levels between the verapamil and placebo groups at the end of the study, indicating that while beta cell function was better preserved, overall glycemic control was similar.
+    - Additional Benefits and Metrics: The study did not find significant differences in insulin dosage requirements or continuous glucose monitoring metrics between the two groups.
+    - Further Research: The study suggests the need for further research to determine the long-term benefits and optimal duration of verapamil therapy in preserving beta cell function in Type 1 Diabetes.
+- Q. What this study done in adults or children ? What was the inclusion criteria ?
+    - The study was conducted in children and adolescents. Here are the inclusion criteria for the participants:
+        - Age: Participants were aged 7 to 17 years.
+        - Diagnosis: They were newly diagnosed with Type 1 diabetes within 31 days of randomization.
+        - Weight: Participants weighed 30 kg or greater, which was a requirement due to the dosing constraints of verapamil.
+        - Autoantibody Status: Participants had at least one positive islet autoantibody, confirming the autoimmune nature of their diabetes.
+        - No Contraindications: They had no contraindications to the use of verapamil, ensuring safety in administering the drug.
+- Q. What was the dose of verapamil administered ?
+    - The dose of verapamil administered in the study varied based on the participant's weight:
+        - Starting Dose: The starting dose was either 60 mg/d or 120 mg/d, depending on the participant's weight.
+        - Dose Escalation: The dose could be escalated at intervals of 2 to 4 weeks.
+        - Maximum Dose: The maximum dose was 360 mg/d for participants weighing more than 50 kg.
+        - Adjustments: The dose was held, decreased, or discontinued based on the occurrence of adverse events.
+- Q. How was the dose of  verapamil  titrated ?
+    - The dose of verapamil was titrated based on the participant's response and tolerability. Here’s how the titration was managed:
+        - Initial Dose Adjustment: The dose of verapamil started at either 60 mg/d or 120 mg/d, depending on the participant's weight.
+        - Escalation Intervals: The dose could be escalated at intervals of 2 to 4 weeks, allowing for gradual increases to assess tolerability and effectiveness.
+        - Maximum Dose: The target maximum dose was 360 mg/d for participants weighing more than 50 kg.
+        - Monitoring and Adjustments: Safety visits were conducted approximately one week after the initiation of the study drug and after each dose increase. These visits included assessments of blood pressure and pulse to monitor for potential side effects.
+        - Adverse Event Management: The dose was held, decreased, or discontinued if adverse events occurred, ensuring participant safety throughout the titration process.
+    - This titration process was carefully managed to balance the potential benefits of verapamil in preserving beta-cell function with the need to minimize adverse effects.
+- Q. What were the results of the study by Ovalle et al ? 
+    - The study by Ovalle et al. on the use of oral verapamil in subjects with recent onset Type 1 Diabetes (T1D) had several key findings:
+        - Improved β-cell function: The study observed improved endogenous β-cell activity in the verapamil group compared to the placebo, which was maintained for at least 24 months and diminished upon discontinuation of the treatment.
+        - Reduced insulin requirements: Participants in the verapamil group required significantly less exogenous insulin compared to those in the placebo group. This effect was consistent throughout the study period.
+        - Lower hypoglycemic episodes: The study reported fewer hypoglycemic episodes in the verapamil group, suggesting better overall glucose control.
+        - Stable glucagon levels: There were comparable glucagon levels between the verapamil and placebo groups, implying that verapamil did not adversely affect glucagon production.
+        - No severe adverse events: Verapamil treatment did not lead to any severe adverse events that could cause treatment discontinuation. There were no significant issues with hypotension, heart rate abnormalities, or changes in electrocardiogram (ECG) readings.
+        - In this study they used  verapamil  in dose of 120 mg starting dose
+    - These findings suggest that verapamil may be beneficial in managing newly diagnosed Type 1 Diabetes by improving β-cell function and reducing the need for insulin, while maintaining a good safety profile.
+- Q.  How is  verapamil  available in India ?
+    - As CALAPTIN
+    - dose of 40, 80, 120 mg plain and also SR preparations - 120 and 240 mg SR preps
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2F4qmhwt1e-E.png?alt=media&token=6de9c4b9-093e-440b-8451-ef56b5eae933)
+- Q. What is a potential biomarker that can be used to assess the progression of this ?
+    -  Chromogranin A  
+- Q. What is the role of  Chromogranin A  in this context ?
+    - Chromogranin A (CHGA) is a protein found in secretory vesicles of neuroendocrine cells, including pancreatic beta-cells. It plays several roles in the body, including the regulation of hormone and neurotransmitter release. Here's how it relates to beta-cells:
+        - Indicator of Beta-cell Function: CHGA levels are often measured as they can reflect changes in beta-cell function. Elevated levels may indicate active or stressed beta-cells, as these cells increase CHGA production in response to certain stressors or pathological conditions.
+        - Reflection of Beta-cell Loss: In the context of diabetes, particularly Type 1 diabetes where beta-cell destruction is prominent, changes in CHGA levels could reflect the loss of beta-cell mass or function.
+        - Potential Therapeutic Marker: In studies like the one by Ovalle et al., CHGA serum levels were analyzed to observe the effects of treatments (like verapamil) on beta-cell function. A positive correlation was found between CHGA levels and the preservation or loss of beta-cell function, suggesting that changes in CHGA levels might be useful as a biomarker for monitoring the progression of diabetes or the response to therapy.
+    - In summary, Chromogranin A serves as a useful marker in research and potentially in clinical settings to gauge beta-cell health and response to therapeutic interventions.
+- Q. Summarize the action of  verapamil  in  Type 1 Diabetes  with an image 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2F8Lzm4hWSDw.jpeg?alt=media&token=05805867-4293-4115-833d-437f6f6aba5b)
+    - The image is showing how verapamil might influence various biological pathways and factors related to oxidative stress, apoptosis (cell death), and the immune response, all of which are important in the development and progression of type 1 diabetes.
+    - Here's a breakdown of the components in the figure:
+        - Oxidative Stress: This refers to damage caused by free radicals in the body. Verapamil seems to increase the levels of SRXN1 and TXNRD1, which are proteins that can protect cells from this kind of damage.
+        - Apoptosis: This is a process of programmed cell death. In type 1 diabetes, the cells that produce insulin can be destroyed by this process. Verapamil is shown to decrease a protein called TXNIP, which is known to promote apoptosis, suggesting that verapamil might help prevent the death of insulin-producing cells. On the other hand, it increases BCL2L2 and INSIG1, which are typically involved in cell survival and metabolism.
+        - T1D autoimmunity/Immune response: Type 1 diabetes is an autoimmune disease, which means the body's immune system attacks its own cells—in this case, the insulin-producing cells in the pancreas. Verapamil seems to lower the activity of immune-related components (like HLA and GP2) and an inflammatory protein (IL32), which might reduce the immune system's attack on the pancreas.
+- **Verapamil in  Type 2 Diabetes mellitus **
+- Q. Tell me the studies in which  verapamil  has shown to reduce the incidence of  Type 2 Diabetes mellitus  
+    - Several studies have examined the impact of verapamil on reducing the incidence of Type 2 Diabetes Mellitus (T2D). Here are some notable examples:
+        - International Verapamil SR/Trandolapril Study (INVEST): This study highlighted that verapamil use was associated with a lower risk of developing diabetes among patients with hypertension and coronary artery disease compared to other treatments.
+        - Reasons for Geographic and Racial Differences in Stroke (REGARDS) study: Analysis from this study showed that patients using verapamil had lower fasting blood glucose levels, suggesting a potential protective effect against the development of T2D.
+        - Taiwan’s National Health Insurance Research Database study: This retrospective population-based cohort study found that regular oral verapamil use was associated with a decreased incidence of T2D in patients compared to a matched group using other calcium channel blockers.
+- Q. What are the benefits in patients with established  Type 2 Diabetes mellitus  ?
+    - It is known to reduce the HbA1c 
+- Q. What is the relationship between Intracellular calcium and  beta-cell function 
+    - The relationship is dual 
+    - Positive effect on beta-cell function:
+        - Trigger for Insulin Secretion: In pancreatic beta-cells, an increase in blood glucose levels leads to the uptake of glucose by the cells. This metabolism raises ATP levels, which in turn closes ATP-sensitive potassium channels, causing cell membrane depolarization. This depolarization opens voltage-gated calcium channels, allowing calcium ions to flow into the cell. The influx of calcium is the primary trigger for the exocytosis of insulin-containing vesicles.
+        - Calcium-Induced Exocytosis: The rise in intracellular calcium concentrations directly triggers the fusion of insulin granules with the cell membrane, leading to the secretion of insulin into the bloodstream. This process is essential for the acute phase of insulin release in response to elevated glucose levels.
+        - Feedback Regulation: Calcium also plays a role in feedback mechanisms that modulate the sensitivity and responsiveness of beta-cells to subsequent glucose stimuli. This regulation helps to prevent over- or under-secretion of insulin in response to fluctuating blood glucose levels.
+    - Negative impact on beta-cells:
+        - Chronic Effects and Beta-cell Health: Prolonged elevations in intracellular calcium can lead to beta-cell dysfunction. Chronic high calcium levels can be toxic to beta-cells, leading to impaired insulin secretion, cell stress, and potentially cell death. This aspect is particularly relevant in the pathogenesis of diabetes where dysregulated calcium handling may contribute to beta-cell failure.
+        - Therapeutic Target: Modulating calcium channels to manage intracellular calcium levels is a therapeutic strategy to enhance or preserve beta-cell function. Drugs like verapamil, a calcium channel blocker, have been researched for their potential to protect beta-cells by lowering intracellular calcium levels, thereby reducing stress on the cells and helping to preserve their function over time.
+- Q. Are there any other forms of therapy that target the TXNIP pathway ?
+    - SRI-37330: This compound has been identified as a potential novel therapy that targets the TXNIP pathway. It has shown promise in preclinical models for its ability to reduce TXNIP levels in pancreatic beta-cells, enhance insulin secretion, and improve glucose tolerance.
+    - Dietary and Lifestyle Interventions: Certain dietary components, such as reduced intake of refined sugars and increased consumption of antioxidants, may indirectly affect the TXNIP pathway by reducing oxidative stress and inflammation, which are known to upregulate TXNIP expression.
+    - Antioxidants: Some studies suggest that antioxidants might help modulate the oxidative stress that activates TXNIP. By reducing oxidative stress, antioxidants could potentially lower TXNIP expression and its negative effects on beta-cell survival.
+    - Gene Silencing Techniques: Researchers are exploring gene therapy approaches, such as siRNA (small interfering RNA) and shRNA (short hairpin RNA), to specifically knock down TXNIP expression in pancreatic beta-cells. This method aims to directly inhibit the pathway at the genetic level, providing a targeted approach to preserve beta-cell function and prevent apoptosis.
+    - MicroRNA Regulation: There is emerging evidence that certain microRNAs may regulate TXNIP expression. Modulating these microRNAs could provide a novel therapeutic approach to manage diabetes by reducing beta-cell stress and apoptosis.
+
+
+References:
+
+- Forlenza GP, McVean J, Beck RW, Bauza C, Bailey R, Buckingham B, DiMeglio LA, Sherr JL, Clements M, Neyman A, Evans-Molina C. Effect of verapamil on pancreatic beta cell function in newly diagnosed pediatric type 1 diabetes: a randomized clinical trial. Jama. 2023 Mar 28;329(12):990-9.
+- Zimmermann P, Aberer F, Eckstein ML, Haupt S, Erlmann MP, Moser O. Verapamil and Its Role in Diabetes. diabetology. 2022 Jul 6;3(3):393-406.
+- Steffes MW, Sibley S, Jackson M, Thomas W. Beta-cell function and the development of diabetes-related complications in the diabetes control and complications trial. Diabetes Care. 2003 Mar;26(3):832-6. doi: 10.2337/diacare.26.3.832. PMID: 12610045.
+- Davis AK, DuBose SN, Haller MJ, Miller KM, DiMeglio LA, Bethin KE, Goland RS, Greenberg EM, Liljenquist DR, Ahmann AJ, Marcovina SM, Peters AL, Beck RW, Greenbaum CJ; T1D Exchange Clinic Network. Prevalence of detectable C-Peptide according to age at diagnosis and duration of type 1 diabetes. Diabetes Care. 2015 Mar;38(3):476-81. doi: 10.2337/dc14-1952. Epub 2014 Dec 17. PMID: 25519448.
+- Ovalle, F., Grimes, T., Xu, G., Patel, A.J., Grayson, T.B., Thielen, L.A., Li, P., Shalev, A. (2018). Verapamil and beta cell function in adults with recent-onset type 1 diabetes. __Nature Medicine__, 24, 1108–1112. DOI: 10.1038/s41591-018-0089-4.

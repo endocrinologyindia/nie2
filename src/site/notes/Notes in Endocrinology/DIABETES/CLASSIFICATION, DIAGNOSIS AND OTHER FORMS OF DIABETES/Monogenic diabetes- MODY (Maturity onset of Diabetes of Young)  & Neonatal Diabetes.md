@@ -1,0 +1,264 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/diabetes/classification-diagnosis-and-other-forms-of-diabetes/monogenic-diabetes-mody-maturity-onset-of-diabetes-of-young-and-neonatal-diabetes/"}
+---
+
+
+- Credits
+	- Section Writer: Dr. Om J Lakhani
+	- Section Editor: Dr. Om J Lakhani
+
+Support us:
+1. Support us by purchasing our book - Click here for more details: [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
+2. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join)
+ 
+
+- Q. Give the diagnostic criteria for suspecting MODY.
+    - Autosomal dominant transmission across three generations
+    - Onset before age 25 in one of the affected members of the pedigree
+    - Non-ketotic presentation
+    - Non-obese body habitus.
+- Q. How many forms of MODY exist as of today?
+    - 11 forms of MODY exist
+    - A recent review also included ABCC8 and KCNJ11 in the MODY list – hence 13 forms of MODY are now enlisted
+- Q. How is insulin released in the body?
+    - Basal insulin secretion
+        - Transcription factors play a role in the release of basal insulin
+            - HNF 4alpha
+            - HNF1 alpha
+            - IPF1
+            - HNF 1 beta
+            - NeuroD1
+    - Nutrient-mediated insulin release
+        - Glucose  (GLUT2) → pancreatic beta cell → (glucokinase) → Glucose 6 phosphatase → glucolysis → Mitochondria → ATP
+        - ATP → closes ATP sensitive potassium channel → prevents Potassium to flux out → depolarize the cell → Open of calcium channel → influx of calcium → movement of insulin containing granules → release of insulin
+    - Basal insulin release
+- #Pearl
+    - Closure/inhibition of K+ Channel releases insulin ….
+    - If it remains open- neonatal diabetes
+    - If it remains closed – hypoglycemia
+- Q. What are the pools of insulin collection in the beta cells?
+    - Two pools
+    - One is close to the plasma membrane  release → 1st phase insulin secretion
+    - 2nd is more interior → 2nd phase insulin secretion
+- Q. What are the features of MODY?
+- Autosomal dominant
+    - Single gene defects
+    - History in 2-3 generation
+    - Onset before 25-35 years of age
+    - Lean
+    - Non-ketotic, non-insulin-dependent
+    - Most present around puberty
+- Q. Enlist the various MODY.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2Fw6JM-4I2ic.png?alt=media&token=45ac0253-be4d-4bdf-95f6-e00ddf8add67)
+- Q. Which is the commonest MODY?
+    - MODY 3- HNF 1 alpha
+    - This is present in 58% of MODY cases
+- Q. Which is more common in children and which is more common in adults?
+    - Glucokinase – MODY- more common presentation in children
+    - MODY3- more common presentation in adults
+- #pearl
+    - MODY2 – mild – no treatment required except in pregnancy
+    - MODY1 and MODY3- can be treated with SU
+- Q. Give a perspective of how common is MODY in children.
+    - 15% of children presenting with diabetes are antibody negative
+    - 15% of these will be MODY
+    - So pretty rare
+    - About 1.2% according to the SEARCH study
+-  MODY 3 
+- Q. Which cells express HNF 1alpha?
+    - Liver and pancreas
+- Q. What is the link between MODY 1 and MODY 3?
+    - HNF 4 alpha regulates the action of HNF 1 alpha
+    - Hence there is a link between MODY 1 and MODY 3
+- Q. Does insulin levels decline in MODY3?
+    - Yes
+    - There is a progressive insulinopenia in MODY3 with age
+-  MODY 2 
+- Q. What is the main defect that occurs here?
+    - There is reduced sensitivity to glucose by the beta cells
+    - insulin is released at a higher level of glucose compared to normal
+- Q. What happens if there is a homozygous mutation in GCK?
+    - Then you develop neonatal diabetes
+- #Pearl
+- GCK
+    - Homozygous mutation- Neonatal diabetes
+    - Heterozygous mutation -  MODY2
+- Q. How much glucose must be phosphorylated by glucokinase in normal conditions to release insulin?
+    - At least 30% of the glucose must be phosphorylated to release insulin
+    - This occurs at blood glucose of around 90 mg/dl
+    - In MODY2 – there is reduced phosphorylation of glucose – hence glucose rises to more level before it is 30% phosphorylated
+    - In NDM due to GCK- there is no phosphorylation of glucose and hence no release of insulin
+- Q. How common is a microvascular complication in GCK?
+    - They don’t develop microvascular complications
+    - Risk of these complications is the same as the general population without diabetes
+- Q. How common is GCK mutation in the general population?
+    - 1 in 1000
+- Q. When does the hyperglycemia start?
+    - It starts in childhood itself
+- Q. When are these patients recognized?
+    - Often by routine screening especially during pregnancy
+- Q. Is treatment recommended?
+    - No except in pregnancy
+- **Other MODY*
+- Q. What is the mutation in MODY 1?
+    - HNF 4 alpha
+- Q. How do they present?
+    - The same as MODY 3
+-  MODY 5 
+- Q. What is a mutation in MODY 5?
+    - HNF 1 beta
+    - It also controls HNF 4 alpha
+- Q. What are the clinical features of MODY5?
+    - Hyperglycemia
+    - Renal dysplasia
+    - Pancreatic atrophy on CT scan
+    - Genital tract abnormalities- bicornuate uterus
+    - Increased AST/ALT
+    - Hypomagnesemia
+    - Sensorineural deafness 
+- Q. Do patients with  MODY 5  have a family history?
+    - 30-40% of MODY5 mutations are spontaneous and hence family history may not be present! 
+    - Even with the same mutation- there is a difference in phenotype observed even in the same family 
+- Q. Do MODY5 have insulin resistance?
+    - Compared to other MODY- MODY-5 tends to have more insulin resistance
+- Q. What happens to the pancreas in this patient?
+    - They have pancreatic atrophy - may also have exocrine dysfunction 
+- #pearl- Renal dysfunction is more common in MODY-5 and hence may present to a nephrologist before they go to an endocrinologist 
+- Q. How does MODY differ from type 1 diabetes?
+    - Nonketotic
+    - Antibodies negative
+    - No relation with high-risk alleles – HLA
+- Q. How does MODY differ from type 2?
+    - Insulinopenic
+    - Lean
+    - Normal insulin sensitivity
+- Q. Is it more common in Caucasians?
+    - No
+    - It is common in all races
+- Q. How long do MODY patients maintain SU sensitivity?
+    - Rule of thumb is 1/3rd or ½ lose their SU sensitivity over time
+- Pearl
+    - Transition of NDM patient from insulin to SU should be done only after hospitalization and not on an OPD basis
+- Q. How do you treat MODY5?
+    - Initially respond to SU
+    - Eventually require insulin
+- Q. Can insulin gene mutation also cause transient NDM?
+    - Yes
+    - However, most cases are permanent
+    - It is an important cause of permanent neonatal diabetes
+- Q. Which is the most common monogenic form of diabetes?
+    - MODY
+- Q. Which is the most common form of MODY?
+    - HNF 1 alpha- MODY3 = 50%
+    - GCK – MODY 2- 25%
+    - HNF 4 alpha- MODY 1 = 10%
+- Q. What are the defects in HNF 4 alpha?
+    - It is an insulin secretory defect
+- Q. Do patients with MODY 1 develop microvascular complications?
+    - Yes
+- Q. Does a patient with GCK defect (MODY 2 develop microvascular complications)?
+    - No they don’t
+- Q. How can MODY 3 (HNF 1 alpha) be detected early?
+    - There is a reduction of renal threshold (mainly due to defect in SGLT)
+    - Hence glycosuria may develop before hyperglycemia
+    - Hence test for urine glucose 2 hours after glucose load can be used to detect an early defect in relatives of a patient with HNF 1 alpha
+    - Similarly, 1,5 Anhydroglucitol can help diagnose MODY 3 early
+- Q. Do they have an increased risk of CV mortality (MODY3)?
+    - Yes
+- Q. What is the Drug of choice in the treatment of MODY 3?
+    - They have marked sensitivity to Sulphonylureas and hence that is the drug of choice
+- Q. Which mutation leads to MODY 4?
+    - Mutation in insulin promoter factor 1 (IPF1)
+- Q. Which mutation leads to MODY 5?
+    - HNF 1 beta
+- Q. What leads to MODY 6?
+    - Defect in NeuroD1 (Neurogenic differentiation factor D1)
+- Q. How is MODY diagnosed?
+    - Only by genetic testing
+- Q. A young patient with diabetes and antibodies positive..can it be MODY?
+    - Less likely
+- Q. What is MIDD?
+    - Maternally inherited diabetes with deafness
+    - It is a mitochondrial form of diabetes
+    - They have a defect in insulin secretion and the onset of deafness is around 30-40 years
+- Q. Can metformin be used in these patients?
+    - No
+    - Increase risk of lactic acidosis
+-  Wolfram syndrome (DIDMOAD syndrome) 
+- Q. What are the features of  Wolfram syndrome (DIDMOAD syndrome)?
+    - Diabetes insipidus, Diabetes mellitus, optic atrophy, and deafness
+- Q. What is the gene defective in Wolfram’s syndrome?
+    - WFS1
+- Q. Why is it called DIDMOAD syndrome?
+    - DI- diabetes insipidus
+    - DM- Diabetes mellitus
+    - OA- Optic atrophy
+    - D- Deafness (Sensorineural deafness)
+- Q. What are the two types of  Wolfram syndrome (DIDMOAD syndrome)?
+    - Type 1 
+        - Homozygous or compound heterozygous individuals
+        - Have all the classical features of the syndrome
+        - It is caused by a mutation in the WFS1 gene
+    - Type 2 
+        - It is caused by a mutation in the CISD2 gene
+        - They have all other features except Diabetes insipidus
+        - They tend to develop a gastrointestinal ulcer
+- Q. What is the pathogenesis seen in this condition?
+    - the children have a mutation in the WFS1 gene which encodes for a protein Wolfarmin
+    - This is present in the Endoplasmic reticulum  and deficiency of this leads to increase  Endoplasmic reticulum stress  leading to early apoptosis of cells
+- Q. What are the features of diabetes seen in this condition?
+    - Diabetes seen here is associated with  Beta-cells  apoptosis
+    - Hence presents like  Type 1 Diabetes  - may also have ketoacidosis
+    - However, the long-term course is milder compared to type 1 and may also have fewer microvascular complications
+    - This is generally the first manifestation
+- Q. What is a useful marker progression of optic atrophy?
+    - Retinal thinning 
+- Q. When is deafness seen?
+    - It occurs in 2nd decade of life 
+- Q. Do these children have other urinary abnormalities other than just having  Diabetes insipidus?
+    - Yes
+    - A spectrum of urological abnormalities has been described in WS, such as a large atonic bladder, a low capacity, a high-pressure bladder with sphincter dyssynergia, and hydroureteronephrosis. 
+    - Yearly assessment of renal function, measurement of postvoid residual urine volume by renal ultrasound, and urodynamic testing are recommended 
+- Q. What are the other abnormalities seen?
+    - Progressive neurological deterioration
+    - Hypogonadotropic hypogonadism
+    - Cerebellar ataxia
+    - Peripheral neuropathy
+    - Central apnea
+    - Usually leads to early mortality by age of 30 years 
+-  Neonatal diabetes mellitus 
+- Q. What is the definition of neonatal diabetes?
+    - Diabetes occurs in the first 6 months of life
+    - #Pearl
+    - Type 1 diabetes rarely occurs before 6 months of life
+- Q. What are the diseases associated with the potassium channel remaining open (gain of function mutation)?
+    - Potassium channel has 4 subunits
+    - Depending on how many subunits are affected you can develop a different degree of severity of diabetes. Ranging from
+        - Permanent neonatal diabetes
+        - Transient neonatal diabetes
+- Q. Classify neonatal diabetes?
+    - Transient form
+    - Permanent form
+    - Syndromic form
+- Q. A child presents with neonatal diabetes with macroglossia and umbilical hernia. Which mutation would you suspect?
+    - Uniparental Paternal disomy / paternal duplication in the region of 6q24 encoding gene PLAG1 or HYMAI
+    - Neonatal diabetes is generally transient in these cases
+    - This is the most common form of transient neonatal diabetes
+- Q. Which mutation most commonly leads to permanent neonatal diabetes?
+    - KCNJ11 mutation – associated with DEND mutation
+- pearl
+    - With neonatal diabetes- KCNJ11 mutation dominant
+    - In hyperinsulinemic hypoglycemia – ABCC8 mutation dominates
+- Q. What is the typical pattern of clinical presentation in NDM?
+    - They have mild intrauterine growth retardation at birth
+    - Failure to thrive with hyperglycemia at birth
+    - Remission at about 3-4 months of age
+    - Again recurrence in about 50% of cases
+- Q. How commonly does KCNJ11 mutation respond to SU?
+    - 90% of cases respond to SU- DEND can be prevented by giving SU
+- Q. Name 3 other rare genetic syndromes associated with diabetes?
+    - Wolfram’s syndrome
+    - Maternally (mitochondrial) inherited diabetes and deafness – MIDD
+- Q. Should you do Sanger sequencing based on Phenotype or Next generation sequencing?
+    - MODY- do 3 important genes first – MODY1,2, 3 and then move to other genes
+    - In NDM- it is better to do next-generation sequencing
