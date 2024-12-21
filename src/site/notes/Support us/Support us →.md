@@ -27,5 +27,9 @@
 
 	- If you have found a value in any of our resources, donate to keep us going 
 	- [Click here →](https://endocrinologyindia.myinstamojo.com/product/donate-to-endocrinology-india/)
-	
+
+4. Presentation Library
+
+	- You can support us by purchasing our presentation from the presentation library [[Presentation Library/Presentation Library →\|Presentation Library →]]
+
 	  

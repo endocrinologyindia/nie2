@@ -23,6 +23,11 @@ Best-in-class Notes in Endocrinology for Endocrinologists
 Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
 [[Research Summary/Research Summary →\|Research Summary →]]
 
+### 📊 Presentation Library 
+Collection of PowerPoint presentation on various topics in Endocrinology by Dr. Om J Lakhani
+[[Presentation Library/Presentation Library →\|Presentation Library →]]
+
+
 ### 🎥 YouTube Channel
 The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
 [[YouTube Channel/YouTube Channel →\|YouTube Channel →]]
