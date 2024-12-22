@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/you-tube-channel/you-tube-channel/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/you-tube-channel/you-tube-channel/"}
 ---
 
 
