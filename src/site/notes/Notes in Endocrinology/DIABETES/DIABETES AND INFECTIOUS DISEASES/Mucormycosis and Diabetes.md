@@ -53,10 +53,10 @@
    
    - ![Pasted image 20210507071404.png](/img/user/attachments/Pasted%20image%2020210507071404.png)
    
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FwBx0tr7zQ6.png?alt=media&token=e7a8da67-5b59-4448-998b-162986fe0d45) ^[Mohindra S, Mohindra S, Gupta R, Bakshi J, Gupta SK. Rhinocerebral mucormycosis: the disease spectrum in 27 patients. Mycoses. Jul 2007;50(4):290-6.]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FwBx0tr7zQ6.png?alt=media&token=e7a8da67-5b59-4448-998b-162986fe0d45) 
  
     - ![](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7862973/bin/11046_2021_528_Fig3_HTML.jpg)
-        - Lactophenol cotton blue (LCB) mount from the growth revealed aseptate hyphae with nodal rhizoids and short sporangiophores with terminal spherical sporangia filled with brownish sporangiospores, suggestive of __Rhizopus microsporus__ ^[Garg D, Muthu V, Sehgal IS, Ramachandran R, Kaur H, Bhalla A, Puri GD, Chakrabarti A, Agarwal R. Coronavirus disease (Covid-19) associated mucormycosis (CAM): case report and systematic review of the literature. Mycopathologia. 2021 Feb 5:1-0.]
+        - Lactophenol cotton blue (LCB) mount from the growth revealed aseptate hyphae with nodal rhizoids and short sporangiophores with terminal spherical sporangia filled with brownish sporangiospores, suggestive of __Rhizopus microsporus__ 
        
 - Q. The lack of septations has a clinical consequence in mucormycosis. What is the clinical consequence of the same?
     - The lack of septations makes the fungus fragile and hence the fungus finds it difficult to grow unless they have a very conducive environment
@@ -132,7 +132,7 @@
     - The incidence of mucormycosis in diabetes has reduced considerably
     - One theory is that this is because of the widespread use of statins in diabetes
     - Statins have an inhibitory effect on the growth of these fungi 
-   	- *"Exposure of R. oryzae to statins at concentrations below their MICs decreased virulence both in vitro and in vivo. Further investigation is warranted into the use of statins as adjunctive therapy in mucormycosis" * ^[Bellanger AP, Tatara AM, Shirazi F, Gebremariam T, Albert ND, Lewis RE, Ibrahim AS, Kontoyiannis DP. Statin concentrations below the minimum inhibitory concentration attenuate the virulence of Rhizopus oryzae. The Journal of infectious diseases. 2016 Jul 1;214(1):114-21.]
+   	- *"Exposure of R. oryzae to statins at concentrations below their MICs decreased virulence both in vitro and in vivo. Further investigation is warranted into the use of statins as adjunctive therapy in mucormycosis" * 
 
 
 - Q. Apart from diabetes, what is the second most common underlying risk factor?
@@ -203,7 +203,7 @@
 
 - Q. What is the common sources of infection in cutaneous mucormycosis?
     - Intravenous catheter / IV cannula are common hospital-acquired sources
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FJ10ZSRd-pw.png?alt=media&token=a6d5b741-8784-4642-89f7-a62eb886564c) ^[Jevalikar, G., Sudhanshu, S., Mahendru, S., Sarma, S., Farooqui, K.J. and Mithal, A., 2018. Cutaneous mucormycosis as a presenting feature of type 1 diabetes in a boy–case report and review of the literature. __Journal of Pediatric Endocrinology and Metabolism__, __31__(6), pp.689-692.]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FJ10ZSRd-pw.png?alt=media&token=a6d5b741-8784-4642-89f7-a62eb886564c)
         - 
 - **Diagnosis**
 
@@ -464,7 +464,7 @@
     - The filter must be used only ONCE for one vial 
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FKRuCG7OduJ.png?alt=media&token=91bbcf40-681b-441c-ba6c-78a56007e466)
     - An in-line membrane filter must be used for IV infusion. The diameter of this filter must be >1 micron
-        - ![figure1](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13054-019-2618-z/MediaObjects/13054_2019_2618_Fig1_HTML.png)  ^[Schmitt E, Meybohm P, Herrmann E, Ammersbach K, Endres R, Lindau S, Helmer P, Zacharowski K, Neb H. In-line filtration of intravenous infusion may reduce organ dysfunction of adult critical patients. Critical Care. 2019 Dec;23(1):1-1.]
+        - ![figure1](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13054-019-2618-z/MediaObjects/13054_2019_2618_Fig1_HTML.png)
       
 - Q. Give the preparation for Liposomal AmpB available in India?
     - Ambisome Injection - 50 mg vial
@@ -479,7 +479,7 @@
     - Watch for Hypokalemia 
 
 
-- **COVD-19 and Mucormycosis** ^[https://www.japi.org/x27464c4/post-covid-19-mucormycosis-from-the-frying-pan-into-the-fire]
+- **COVD-19 and Mucormycosis** 
 
 
 -  Q. Apart from mucormycosi
