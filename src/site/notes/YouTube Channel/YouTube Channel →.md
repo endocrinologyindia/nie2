@@ -2,71 +2,52 @@
 {"dg-publish":true,"permalink":"/you-tube-channel/you-tube-channel/"}
 ---
 
-
-# Welcome to Endocrinology India
-
-![Black White Circle Bee Icon Food Logo.png](/img/user/attachments/Black%20White%20Circle%20Bee%20Icon%20Food%20Logo.png)
-
-
-
-## by Dr. Om J Lakhani
-
-Building the largest resource for Endocrinology on the internet. 
-
-# Our Collection
-
-### 📝 Notes in Endocrinology
-Best-in-class Notes in Endocrinology for Endocrinologists  
-[[note\|note]]
-
-### 📚 Research Summary 
-Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
-[[Research Summary/Research Summary →\|Research Summary →]]
-
-### 📊 Presentation Library 
-Collection of PowerPoint presentation on various topics in Endocrinology by Dr. Om J Lakhani
-[[Presentation Library/Presentation Library →\|Presentation Library →]]
-
-
-### 🎥 YouTube Channel
-The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
-[[YouTube Channel/YouTube Channel →\|YouTube Channel →]]
-
-### 📕 Our Books
-The Best of Notes in Endocrinology books by Dr. Om J Lakhani
-[[BOOK SERIES/Our Books →\|Our Books →]]
-
-### 💻 Technocrinology
-Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
-[Click here →](https://technocrinology.thinkific.com/)
-
-### 🔧 Endocrinologist's Toolkit (EndoDynamic)
-Mini-apps, Calculators, and Toolkits for Endocrinologists  
-[[Endocrinologist ToolKit/ToolKit for Endocrinologists →\|ToolKit for Endocrinologists →]]
-
-### 🩺 Diabetologist's Toolkit (Diabetology)
-Mini-apps, Calculators, and Toolkits for Diabetes Management  
-[[Click here →\|Click here →]]
-
-### 🤖 The AI Corner
-Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  
-[[Click here →\|Click here →]]
-
-### 🔁 Human-in-loop Research
-Medical research, conducted by AI, Edited by Natural intelligence
-[[Human-in-Loop research/Human-in-Loop Research →\|Human-in-Loop Research →]]
-
-### 👨‍⚕️ Online Consultation with Endocrinologist
-Consult a Qualified Endocrinologist Online  
-[[Click here →\|Click here →]]
-
-### 📱 WhatsApp Channel
-Join the Endocrinology India WhatsApp Channel for Regular Updates  
-[Click here →](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
-
-### 🤝 Support us
-Please visit the page to show us some love & support our efforts   
-[[Support us/Support us →\|Support us →]]
-
-
 ---
+
+
+# The Endocrinology India YouTube Channel
+
+
+
+The Endocrinology India YouTube Channel has been around for a long time. With more than 7000 subscribers and counting , it is one of the most happening YouTube channels on Endocrinology in India. 
+
+# Join our Channel
+
+1. Watch the videos : https://www.youtube.com/@EndocrinologyIndia
+2. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 
+
+
+# Membership benefits
+
+## Premium Members benefits
+
+주159.00/month
+
+**Exclusive Benefits for Members:**
+
+• **Members-Only Content**:
+
+• In-depth videos on **Endocrinology**, **AI**, and **Coding** exclusively for members.
+
+• **Early Access**:
+
+• Access to all new videos **one week before** the general release.
+
+• **Members-Only Live Streams**:
+
+• Participate in live discussions as part of the _“Notes-in-Endocrinology”_ video series (coming soon).
+
+• **Free Resources**:
+
+• Complimentary **PDF versions** of all new notes and presentations. 
+
+• **Special Discounts**:
+
+• Enjoy discounts on future **books** or **products**.
+
+
+## Consultant Level member
+
+₹599.00/month
+
+- All the above benefits plus : Free Download of PowerPoint presentations of all new videos posted on the channel
