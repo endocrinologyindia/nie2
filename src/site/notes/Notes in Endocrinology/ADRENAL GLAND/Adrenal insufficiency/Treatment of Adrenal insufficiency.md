@@ -1,0 +1,215 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/adrenal-gland/adrenal-insufficiency/treatment-of-adrenal-insufficiency/"}
+---
+
+
+Support us:
+1. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 
+	- Premium Membership- Download PDF version of Notes, Get ad free video and more
+	- Consultant Membership- Above plus Download Powerpoint presentation of the notes and get access to EndoAI for Free
+2. Support us by purchasing our book - Click here for more details:
+	- [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
+	- [[BOOK SERIES/Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL\|Volume 2- THE BEST OF NOTES IN ENDOCRINOLOGY - DIABETES SPECIAL]]
+
+
+
+- Credits
+	- Section Writer: Dr. Om J Lakhani
+	- Section Editor: Dr. Om J Lakhani
+
+Date: 09-Aug-2023
+- Source: Basics of Adrenal insufficiency - By Dr. Om J Lakhani
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/qscuZWKSvlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- **Acute adrenal crisis **
+- Q. What is the volume status in primary vs secondary AI?
+    - Primary AI- volume deficit
+    - Secondary AI – Normal/ slightly increased volume status
+    - Hypotension occurs in both cases
+    - In primary AI  it is Mineralocorticoid deficiency leading to volume depletion which is the cause
+    - In secondary AI → it is lack of pressor effect and lack of Epinephrine which is the cause
+- Q. Which is the preferred glucocorticoid in adrenal crisis?
+    - Hydrocortisone
+- Q. Is mineralocorticoid required during an acute adrenal crisis?
+    - Generally no
+    - This is because sodium retaining ability of fludrocortisone takes 2-3 days to appear
+    - Saline infusion solves the same purpose
+    - Hence Mineralocorticoid is unnecessary in acute adrenal crisis
+- Q. Describe the emergent treatment of adrenal crisis.
+    - 1. Establish intravenous access with a large-gauge needle.
+    - 2. Draw blood for immediate serum electrolytes and glucose and routine measurement of plasma cortisol and ACTH. Do not wait for lab results.
+    - 3. Infuse 2 to 3 liters of isotonic saline or 5 percent dextrose in isotonic saline as quickly as possible. Frequent hemodynamic monitoring and measurement of serum electrolytes should be performed to avoid iatrogenic fluid overload.
+    - 4. Give intravenous hydrocortisone, 100 mg immediately, and every six hours thereafter may be used.
+    - 5. Use supportive measures as needed.
+- Q. What is the subsequent management?
+    - 1. Continue intravenous isotonic saline at a slower rate for the next 24 to 48 hours.
+    - 2. Search for and treat possible infectious precipitating causes of the adrenal crisis.
+    - 3. Perform a short ACTH stimulation test to confirm the diagnosis of adrenal insufficiency, if the patient does not have known adrenal insufficiency.
+    - 4. Determine the type of adrenal insufficiency and its cause if not already known.
+    - 5. Taper parenteral glucocorticoid over one to three days, if precipitating or complicating illness permits, to an oral glucocorticoid maintenance dose.
+    - 6. Begin mineralocorticoid replacement with fludrocortisone, 0.1 mg by mouth daily, when the saline infusion is stopped. (for Primary adrenal insufficiency)
+- Q. What type of fluid should be avoided during initial resuscitation of an acute adrenal crisis?
+    - Avoid hypotonic fluids as they can worsen the hyponatremia
+- **CHRONIC ADRENAL INSUFFICIENCY**
+- Q. Give the relative potency of various Glucocorticoid preparations.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FDxIpCP-kds.png?alt=media&token=79fdc586-220c-40d9-982e-4c16aa453933)
+- Q. What should be the dose of Hydrocortisone per day based on /m2 (useful for children)?
+    - 10-12 mg/m2
+- Q. What are the doses used if longer-acting preparations are used?
+    - Dexamethasone – 0.5 mg
+    - Prednisolone – 5 mg
+- Q. What do endocrine society guidelines say about the choice of agent?
+    - Prefer- hydrocortisone or cortisone
+    - Prednisolone- alternate
+    - Avoid dexamethasone – cushingoid side effects are often seen
+- Q. What are the problems with long-acting agents?
+    - Tendency for overtreatment
+    - Also they tend to produce more BMD loss
+- Q. In which cases are longer-acting preps preferred?
+    - Patient noncompliant with treatment with multiple daily doses
+    - Patient has late evening or early morning symptoms
+- Q. Which drugs increase the requirement of Glucocorticoids?
+    - Drugs that increase the CYP3A4 enzyme activity
+    - These are
+        - Rifampicin
+        - Phenytoin
+        - Barbiturates
+- **MONITORING TREATMENT WITH HYDROCORTISONE **
+- Q. What is the best method to monitor treatment?
+    - Treatment should be monitored clinically
+    - Cortisol day curve may be useful
+- Q. When are samples taken to make a cortisol day curve?
+    - Blood sample on arrival – noting the time
+    - Before the lunchtime dose
+        - 1 hr after lunchtime dose
+    - Before the evening dose
+        - 1 hr after the evening dose or 6 pm
+- Q. What is the interpretation of the cortisol day curve?
+    - Peak and trough
+        - Peak <32 ug/dl and trough > 3.6 ug/dl
+    - Rough guide to normal values
+        - Morning peak – 18-28 ug/dl
+        - Lunchtime peak cortisol- 14 – 18 ug/dl
+        - Evening post-dose- 10-14 ug/dl
+- Q. Is there a simpler way to monitor apart from using a day curve?
+    - One paper suggests to measure Cortisol 4 hr after the morning hydrocortisone dose
+    - The value should be within 10-90th percentile of the nomogram that they have created
+- Q. What is Plenadren ?
+    - It is dual release  hydrocortisone
+    - It has an immediate release outer cover and slowly extended release core
+- Q. How is it taken?
+    - It is taken as one tablet in the morning
+- Q. What are the advantages of Plenadren?
+    - In one study the patients had better metabolic parameters- Lower BMI, HbA1c, weight gain, and blood pressure
+- Q. What is the diavantage of Plenadren ?
+    - Provides a very long period of almost no cortisol
+    - Starting from evening time till morning there is negligible cortisol cover
+- Q. What is Chronocort?
+    - Chronocort is designed to have an early morning 4:00 am raise of cortisol which is what is physiologically seen
+    - The patient takes 20 mg at bedtime and 10 mg in the morning at 7:00 am
+- Q. Does the Dose of Fludrocortisone dependent on which steroid is taken?
+    - With Hydrocortisone- 0.05 mg is sufficient
+    - With Dexamethasone- 0.2 mg may be required
+- Q. How does the environment affect the Floudrocortisone dose?
+    - Dose must be increased in summer along with liberal salt intake
+- Q. How is monitoring done with the patient on Florinef?
+    - Supine and standing BP
+    - Serum potassium
+    - Plasma renin activity
+- Q. Which suggests a reduction of Fludrocortisone dose?
+    - Edema
+    - Hypertension
+    - Hypokalemia
+- Q. What are the criteria suggesting normal Fludrocortisone replacement?
+    - No Orthostatic hypotension or tachycardia
+    - Normal supine and standing BP
+    - Normal potassium
+    - Normal or slightly suppressed renin
+- Q. What PRA level should be targeted?
+    - PRA in the range of 1-4 ng/ml/hr (seated)
+    - Upper limit of the normal range
+- Q. PRA monitoring is useful in which patients?
+    - Annual PRA must be done in
+    - Patients with symptoms due to Mineralocorticoid deficiency
+    - Newly diagnosed AI with unstable doses of Fludrocortisone
+- Q. What are the symptoms of Mild Mineralocorticoid deficiency?
+    - Nausea – mild
+    - Salt craving
+- Q. A patient is asymptomatic on Fludrocortisone of 100 mcg and potassium is normal. PRA is done which is 5 ng/ml/hr. Should the dose of Fludrocortisone be increased?
+    - No
+    - Do not increase the dose of Fludrocortisone if patient is asymptomatic
+    - Clinical parameters should precede judgment based on PRA levels
+- Q. A patient on Fludrocortisone develops hypertension. What should be done?
+    - Reduce the dose of Fludrocortisone
+    - If the patient continues to remain hypertensive – then it could be essential hypertension- add antihypertensive- except Spironolactone
+- Q. What is the dose and benefit of the use of DHEA in Adrenal insufficiency?
+    - It is used in a dose of 50 mg /day
+    - It is thought to improve the quality of life in women
+    - In women who report reduced quality of life despite being on Glucocorticoid and Mineralocorticoid may be given DHEA trial for 6 months
+    - Endocrine Society also recommends this trial
+- Q. How is a dose of DHEA titrated?
+    - Based on the Morning DHEA-S level before the medications
+    - It should be targeted to mid normal range
+- Q. Why do patients with secondary Adrenal insufficiency develop Cortisol deficiency on starting GH?
+    - GH suppresses 11 beta HSD1 activity which converts cortisone to cortisol
+- Q. What is 3 x 3 rule ?
+    - In patients with AI, if they have a minor illness they can triple their dose of glucocorticoid for 3 days
+    - This is 3 x 3 rule
+    - If it fails to improve in 3 days then they need to consult a doctor
+- Q. What is the dose of glucocorticoids that must be used during surgery?
+    - Minor surgery – 25 mg of Hydrocortisone on the day of surgery
+    - Moderate surgical stress (eg: cholecystectomy) – 50-75 mg on the day of surgery and post-op day 1
+    - Major surgery – 100-150 mg on the day or surgery and ½ dose on the post of days 2 and 3- then return to baseline dose
+- Q. What emergency injectable Glucocorticoid must be prescribed to the patient?
+    - Hydrocortisone 100 mg or Dexamethasone 4 mg must be prescribed to the patient and the patient’s relatives must be taught how to inject it in case of emergency
+- Q. When should a family member inject hydrocortisone?
+    - Injury leading to blood loss of more than 1 cup
+    - Fracture
+    - Patient unresponsive
+    - Severe nausea and vomiting
+    - Symptoms of acute adrenal insufficiency
+    - In these cases- they must inject the drug and seek medical help immediately
+- Q. What is the dose of glucocorticoid required in women who are pregnant?
+    - Same dose as they were taking before pregnancy
+    - May increase the dose in 3rd Trimester
+- Q. What is the management during labor?
+    - 25 mg / 6 hrly during labor
+    - 100 mg /6hrly during delivery or infusion during delivery
+    - Taper to the previous dose in 2-3 days
+- Q. What is the effect of Progesterone on the RAAS axis?
+    - Progesterone competes with aldosterone for binding to Mineralocorticoid receptor
+    - Hence it causes a mild natriuretic effect
+- Q. Overall, what happens to aldosterone and renin in pregnancy?
+    - Aldosterone and renin increase during normal pregnancy
+- Q. How is fludrocortisone dose adjusted in pregnancy?
+    - PRA may guide therapy
+    - However do not try to suppress to pre-pregnancy range
+- Q. What do quality of life studies and prognosis says for patients with Adrenal insufficiency?
+    - They say the quality of life is worse with PAI despite optimal therapy
+    - Mortality may be increased but data is uncertain
+- #Pearl
+    - Fludrocortisone has a long half-life and can even be given on alternate days
+- Q. Which form of Hydrocortisone is preferred for an emergency?
+    - Hydrocortisone hemisuccinate
+- Q. What dose of hydrocortisone eliminates the need for Fludrocortisone?
+    - Hydrocortisone >40 mg has enough Mineralocorticoid activity
+    - Eliminates the need for fludrocortisone
+- #Pearl
+    - Low normal or subnormal ACTH may suggest overtreatment in primary adrenal insufficiency!
+- **Sick Day rules **
+- Q. What is the first sick day rule for [[Adrenal insufficiency\|Adrenal insufficiency]]
+    - Double the dose of steroids in following cases:
+        - 1. Fever with Temp >37.5 C
+        - 2. Any illness requiring bed rest
+        - 3. Any infection requiring antibiotics
+        - 4. Vomiting or diarrhea but able to tolerate food and liquids
+- Q. Till how long to continue double the dose?
+    - Till the patient is better from the underlying disease
+- Q. In which cases is parenteral hydrocortisone required?
+    - 1. The patient is having very severe illness requiring hospitalization
+    - 2. The patient is NPO for surgery or some other reasons
+    - 3. Loss of consciousness/collapse of the patient 
+    - 4. Persistent vomiting and diarrhea which cause oral medication cannot be taken 
+- Q. What is done for minor surgical procedures?
+    - Double the dose of steroid on the day prior or the morning or the procedure
+    - Taking 100 mg Hydrocortisone IM/IV 30 minutes before the procedure 

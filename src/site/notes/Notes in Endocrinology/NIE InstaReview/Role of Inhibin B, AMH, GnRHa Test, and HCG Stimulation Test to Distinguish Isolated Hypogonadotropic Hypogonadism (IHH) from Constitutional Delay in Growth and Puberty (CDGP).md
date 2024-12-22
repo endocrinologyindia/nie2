@@ -1,0 +1,84 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/nie-insta-review/role-of-inhibin-b-amh-gn-r-ha-test-and-hcg-stimulation-test-to-distinguish-isolated-hypogonadotropic-hypogonadism-ihh-from-constitutional-delay-in-growth-and-puberty-cdgp/"}
+---
+
+
+
+
+- ### Title of the Article:
+    - Role of Inhibin B, AMH, GnRHa Test, and HCG Stimulation Test to Distinguish Isolated Hypogonadotropic Hypogonadism (IHH) from Constitutional Delay in Growth and Puberty (CDGP)
+- ### First two Authors followed by et al:
+    - Bijay K. Sahoo, Padala Ravi Kumar, et al.
+- ### One-line Summary of the Article:
+    - This study evaluates the diagnostic utility of various hormonal tests to differentiate between isolated hypogonadotropic hypogonadism (IHH) and constitutional delay in growth and puberty (CDGP) in children.
+- ### Six Key Points from the Article:
+    - 1. **Diagnosis Criteria**: Delayed puberty is characterized by the absence of testicular enlargement by age 14 in boys and lack of breast development by age 13 in girls.
+    - 2. **Study Participants**: Included boys (14-18 years) with testicular volume <4 ml and girls (13-18 years) at Tanner B1 stage.
+    - 3. **Tests Performed**: Hormonal analysis including basal LH, FSH, inhibin B, AMH, testosterone (boys), oestradiol (girls), triptorelin stimulation test, and 3-day HCG stimulation test (boys).
+    - 4. **Diagnostic Utility**: 4-hour post-triptorelin LH showed 100% sensitivity and specificity for IHH in both sexes; basal inhibin B had high sensitivity and specificity for diagnosing IHH.
+    - 5. **Key Findings**: Post-triptorelin 4-hour LH and inhibin B are reliable tests for distinguishing IHH from CDGP; basal LH, FSH, and AMH were poor discriminators.
+    - 6. **Follow-up Results**: Over a follow-up period of 1.5 years, 21 children were diagnosed with CDGP and 13 with IHH, with distinct hormonal profiles aiding diagnosis.
+- ### Practical Take Home Message:
+    - The post-triptorelin 4-hour LH test and basal inhibin B levels are effective in distinguishing IHH from CDGP, providing a reliable approach for timely and accurate diagnosis in clinical settings.
+- ### Citation for the Article in Vancouver Format:
+    - Sahoo BK, Ravi Kumar P, Pattanaik SR, Dash DK, Patro D, Telagareddy R. Role of inhibin B, AMH, GnRHa test and HCG stimulation test to distinguish isolated hypogonadotropic hypogonadism (IHH) from constitutional delay in growth and puberty (CDGP). Indian J Endocr Metab. 2024;28:153-9.
+- ### Protocol for Conducting the Post-Triptorelin 4-Hour LH Test
+- 1. **Preparation**:
+    - Ensure the patient has fasted overnight (at least 8 hours).
+    - Collect a baseline blood sample at 8-9 AM for the estimation of baseline hormones.
+- 2. **Administration of Triptorelin**:
+    - Administer triptorelin acetate (decapeptyl 0.1 mg/ml) subcutaneously.
+    - The dose should be 100 μg/m², with a maximum of 100 μg.
+- 3. **Blood Sample Collection**:
+    - Collect blood samples 4 hours after the triptorelin injection to measure the levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH).
+- 4. **Measurement**:
+    - Use the collected blood samples to measure the LH and FSH levels through appropriate laboratory techniques such as chemiluminescent immunoassay (CLIA).
+- 5. **Interpretation**:
+    - Compare the post-triptorelin 4-hour LH levels to established cut-off values to differentiate between isolated hypogonadotropic hypogonadism (IHH) and constitutional delay in growth and puberty (CDGP).
+- ### Summary:
+    - The Post-Triptorelin 4-Hour LH Test involves fasting, administration of a specific dose of triptorelin acetate, followed by blood sample collection after 4 hours to measure LH levels. This test is used to differentiate IHH from CDGP with high sensitivity and specificity.
+- Q. What cut-off values were used for the assays that were found useful ?
+    - ### Useful Assays and Their Cut-off Values
+    - 1. **Post-Triptorelin 4-Hour LH**:
+        - **Cut-off value**: 4.84 U/L
+        - **Sensitivity**: 100%
+        - **Specificity**: 100%
+    - 2. **Basal Inhibin B (Boys)**:
+        - **Cut-off value**: 79.2 pg/ml
+        - **Sensitivity**: 85.7%
+        - **Specificity**: 93.3%
+    - 3. **Basal Inhibin B (Girls)**:
+        - **Cut-off value**: 45.7 pg/ml
+        - **Sensitivity**: 83.3%
+        - **Specificity**: 100%
+    - 4. **Basal Testosterone (Boys)**:
+        - **Cut-off value**: 20.8 ng/dl
+        - **Sensitivity**: 100%
+        - **Specificity**: 53.3%
+    - 5. **Post-HCG Day 4 Testosterone (Boys)**:
+        - **Cut-off value**: 99.7 ng/dl
+        - **Sensitivity**: 85.7%
+        - **Specificity**: 93.3%
+    - 6. **Post-Triptorelin 24-Hour Testosterone (Boys)**:
+        - **Cut-off value**: 34.5 ng/dl
+        - **Sensitivity**: 85.7%
+        - **Specificity**: 73.3%
+    - 7. **Post-Triptorelin 4-Hour FSH (Girls)**:
+        - **Cut-off value**: 11.58 U/L
+        - **Sensitivity**: 83.3%
+        - **Specificity**: 100%
+    - 8. **Post-Triptorelin 24-Hour Estradiol (Girls)**:
+        - **Cut-off value**: 31.63 pg/ml
+        - **Sensitivity**: 83.3%
+        - **Specificity**: 66.7%
+    - ### Combined Markers:
+    - 1. **Basal Testosterone and Basal Inhibin B (Boys)**:
+        - **Cut-off values**: 20.8 ng/dl (Testosterone) and 79.2 pg/ml (Inhibin B)
+        - **Sensitivity**: 100%
+        - **Specificity**: 88.9%
+    - 2. **Basal Inhibin B and Basal Estradiol (Girls)**:
+        - **Cut-off values**: 45.7 pg/ml (Inhibin B) and 16.79 pg/ml (Estradiol)
+        - **Sensitivity**: 100%
+        - **Specificity**: 100%
+    - These cut-off values were found to be useful in distinguishing isolated hypogonadotropic hypogonadism (IHH) from constitutional delay in growth and puberty (CDGP) with high diagnostic accuracy.
+    -  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2Ft3mN1E7Ban.png?alt=media&token=b58a36a2-89f4-4211-80d8-12c95b3206f2)

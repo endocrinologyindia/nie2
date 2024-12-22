@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/abstracts-of-important-trials/pr-oactive-study/"}
+---
+
+**Background:** Patients with type 2 diabetes are at high risk of fatal and non-fatal myocardial infarction and stroke. There is indirect evidence that agonists of peroxisome proliferator-activated receptor gamma (PPAR gamma) could reduce macrovascular complications. Our aim, therefore, was to ascertain whether pioglitazone reduces macrovascular morbidity and mortality in high-risk patients with type 2 diabetes.
+
+**Methods:** We did a prospective, randomised controlled trial in 5238 patients with type 2 diabetes who had evidence of macrovascular disease. We recruited patients from primary-care practices and hospitals. We assigned patients to oral pioglitazone titrated from 15 mg to 45 mg (n=2605) or matching placebo (n=2633), to be taken in addition to their glucose-lowering drugs and other medications. Our primary endpoint was the composite of all-cause mortality, non fatal myocardial infarction (including silent myocardial infarction), stroke, acute coronary syndrome, endovascular or surgical intervention in the coronary or leg arteries, and amputation above the ankle. Analysis was by intention to treat. This study is registered as an International Standard Randomised Controlled Trial, number ISRCTN [NCT00174993](http://clinicaltrials.gov/show/NCT00174993 "See in ClinicalTrials.gov").
+
+**Findings:** Two patients were lost to follow-up, but were included in analyses. The average time of observation was 34.5 months. 514 of 2605 patients in the pioglitazone group and 572 of 2633 patients in the placebo group had at least one event in the primary composite endpoint (HR 0.90, 95% CI 0.80-1.02, p=0.095). The main secondary endpoint was the composite of all-cause mortality, non-fatal myocardial infarction, and stroke. 301 patients in the pioglitazone group and 358 in the placebo group reached this endpoint (0.84, 0.72-0.98, p=0.027). Overall safety and tolerability was good with no change in the safety profile of pioglitazone identified. 6% (149 of 2065) and 4% (108 of 2633) of those in the pioglitazone and placebo groups, respectively, were admitted to hospital with heart failure; mortality rates from heart failure did not differ between groups.
+
+**Interpretation:** Pioglitazone reduces the composite of all-cause mortality, non-fatal myocardial infarction, and stroke in patients with type 2 diabetes who have a high risk of macrovascular events.
+
+Ref: Dormandy JA, Charbonnel B, Eckland DJ, Erdmann E, Massi-Benedetti M, Moules IK, Skene AM, Tan MH, Lefèbvre PJ, Murray GD, Standl E. Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): a randomised controlled trial. The Lancet. 2005 Oct 8;366(9493):1279-89.
+
+Pubmed link: https://pubmed.ncbi.nlm.nih.gov/16214598/

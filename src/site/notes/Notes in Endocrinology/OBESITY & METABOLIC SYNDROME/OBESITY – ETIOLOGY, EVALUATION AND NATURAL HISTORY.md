@@ -1,0 +1,194 @@
+---
+{"dg-publish":true,"permalink":"/notes-in-endocrinology/obesity-and-metabolic-syndrome/obesity-etiology-evaluation-and-natural-history/"}
+---
+
+
+- Credits
+	- Section Writer: Dr. Om J Lakhani
+	- Section Editor: Dr. Om J Lakhani
+
+Support us:
+1. Support us by purchasing our book - Click here for more details: [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
+2. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join)
+ 
+
+- Q. Give the cutoff for obesity in Adults?
+    - Normal weight - BMI 18.5 to 24.9 kg/m2
+    - Overweight - BMI ≥25 to 29.9 kg/m2
+    - Obesity - BMI of ≥ 30 kg/m2
+    - Severe obesity - BMI ≥ 40 kg/m2 (or ≥35 kg/m in the presence of comorbidities)
+- Q. What is the cutoff for Asians?
+    - Overweight- 23-24.9 kg/m2
+    - Obesity - >25 kg/m2
+    - Typically use 2.5 kg/m2 lower than Western data above 
+- Q. Enlist the Broad Etiologies of obesity.
+    - Lifestyle factors
+    - Diet factors
+    - Drugs
+    - Genetic caused
+    - Infection
+    - Endocrine causes
+    - Perinatal and postnatal life changes
+- **Age and obesity **
+- Q. Enlist how various life stages are associated with obesity.
+    - Antenatal factors are associated with obesity
+    - SGA and rapid catch-up growth and obesity
+    - Formula feeding and obesity
+    - Childhood/ adolescent obesity
+    - Pregnancy weight gain
+    - Menopause
+    - Weight gain in males after the 30s
+- Q. What are the antenatal risk factors for obesity?
+    - Excess maternal weight gain
+    - Excess prepregnancy weight in the mother
+    - Diabetes in pregnancy
+    - Smoking during pregnancy
+    - Exposure to Endocrine disruptors
+- Q. What are the risk factors at birth?
+    - SGA – higher risk of obesity
+    - Breastfeeding – protects from obesity
+- Q.  Is birth weight associated with obesity in later life?
+    - Poor correlation with higher weight
+    - More risk with SGA
+- Q. Is obesity In childhood/adolescence associated with obesity in later life?
+    - Yes
+- Q. When do most women gain excess weight?
+    - After puberty
+- Q. Does pregnancy and pregnancy weight produce obesity in women?
+    - Normal weight gain in pregnancy – lost post pregnancy
+    - Excess weight gain in pregnancy  Retained
+- Q. What is the normal weight gain in pregnancy?
+    - 11.5- 16 kg
+- Q. Do OC pills cause weight gain?
+    - It is conventionally thought, however, data does not back it
+- Q. Is weight gain seen in menopause?
+    - Early post-menopausal period is associated with weight gain and fat redistribution
+- Q. Does estrogen therapy prevent weight gain after menopause?
+    - No
+    - It only prevents fat redistribution
+- Q. When do men become obese?
+    - Obesity starts in the late 20s and 30s
+    - Continues to 60s
+    - Then declines
+- **Lifestyle measures and obesity **
+- Q. Enlist the lifestyle measures associated with obesity.
+    - Sedentary lifestyle
+    - Sleep deprivation
+    - Smoking cessation
+- Q. Which sedentary behavior is most strongly associated with obesity?
+    - TV watching
+    - Every 2 hours spent watching TV is associated with a 23% increase risk of obesity and a 14% increase risk of diabetes
+- Q. What is the relation between sleep and obesity?
+    - Sleep restriction (and not sleep lengthening) is associated with obesity
+    - Sleep restriction is also associated with reduced leptin and increased Ghrelin leading to increased food intake
+- Q. How much weight gain is seen after smoking cessation?
+    - 1-2 kg in the first 2 weeks
+    - 2-3 kg in the next 4-5 months
+- **Dietary and obesity **
+- Q. Enlist the relationship between diet and obesity.
+    - The calorie content of the meal
+    - Composition of meals
+    - Frequency of meals
+    - Timing of meals
+    - Nighttime eating syndrome
+    - Binge eating
+    - Restrained eating
+- Q. What is restrained eating?
+    - Many people have conscious control over their food intake
+    - This is called restrained eating
+    - This reduces obesity risk
+- Q. What is night eating syndrome?
+    - It is the intake of more than 25-50% of calories of the day between the last meal and breakfast
+    - This typically leads to obesity
+- Q. What is Binge eating?
+    - It is a psychiatric disturbance
+    - There is excess eating in single sessions especially at evening/nighttime
+- **Drugs and obesity **
+- Q. Which antipsychotics cause weight gain?
+    - Clozapine and olanzapine are notorious for weight gain
+    - Followed by Risperidone
+- Q. What is the relation between TCA and weight gain?
+    - TCA causes weight gain
+- Q. What is the relation between SSRI and weight gain?
+    - It is complex
+    - Paroxetine – weight gain
+    - Sertraline and Fluoxetine – short-term causes weight loss, long term may cause neutral/ mild weight gain
+- Q. Which antidepressant produces weight loss?
+    - Buproprion 
+- Q. Which antiepileptics cause weight gain and which cause weight loss?
+    - Weight gain Carbamazepine and valproate
+    - Weight loss- Topiramate, Zonisamide
+- Q. What type of insulin therapy produces more weight gain?
+    - Intensive insulin therapy  more weight gain compared to conventional insulin therapy
+- Q. Which antihypertensive causes weight gain?
+    - Beta-blockers
+- Q. Name some other important drugs which cause weight gain?
+    - Cyproheptadine
+    - Glucocorticoids
+- **Neuroendocrine causes of obesity**
+- Q. Enlist the endocrine causes of obesity.
+    - Hypothalamic obesity
+    - Cushing’s syndrome
+    - PCOS
+    - Hypogonadism
+    - Pseudohypoparathyroidism
+    - GH deficiency
+- Q. What is the cause of obesity in Cushing’s syndrome?
+    - Increase glucocorticoids  increase 11 beta HSD1 in visceral tissue → increase lipogenesis → increase obesity
+- Q. Is hypothyroidism associated with obesity?
+    - Mild weight gain is common in hypothyroidism
+    - However, it is in the tune of 1-2 kg
+- Q. Does treatment of Subclinical hypothyroidism produce weight gain?
+    - No
+- **Other etiologies **
+- Q. What is seasonal affective disorder?
+    - People living far north develop depression during winter because of lack of sunlight exposure
+    - This is a seasonal affective disorder
+    - This can be corrected by exposure to light
+    - This may be related to obesity
+    - Can be treated with SSRI
+- Q. Which viral infection has been linked with obesity?
+    - Adenovirus infection
+- Q. What is the  EOSS score?
+    - This is the Edmonton Obesity staging system
+- Q. Why is there a need for an EOSS score when we have  BMI?
+    - This is because BMI correlates poorly with some of the health outcomes
+    - EOSS score takes more factors into consideration beyond BMI
+    - For the same BMI- different patients may have different EOSS scores and hence different outcomes
+- Q. Give the outline for the EOSS staging system.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FbbE_j9LV12.png?alt=media&token=c17074ab-b02c-4f9d-b4a0-a29fa76a950d)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FmiZ1r_Xc1O.png?alt=media&token=fce7225e-b8eb-42a4-8ad8-9153273c3b6d)
+- Q. Give the EOSS staging in simple terms.
+    - 0 - No comorbidities or distress due to obesity
+    - 1-  Mild preclinical morbidities due to obesity
+        - Borderline hypertension
+        - Aches and pain
+        - Impaired fasting glucose
+    - 2- Established comorbidities
+        - Hypertension
+        - Diabetes
+        - OSA
+    - 3. - End organ damage
+        - Myocardial infarction
+        - Stroke
+    - 4. Severe obesity-related issues
+- Q. How does one define an EOSS score?
+    - So you say Class I, Stage 0 Obesity - which means a class I based on BMI and stage 0 based on EOSS score
+- Q. What treatment would you propose at what stage of obesity?
+    - Stage 0 and 1 - lifestyle measures (LSM)
+    - Stage 2- LSM and Pharmacological therapy
+    - Stage 3-4 - LSM, Pharmacotherapy, and surgery 
+
+
+#update  - 22-Jan-2023
+
+- Q. Please tell us the India centric classification for Obesity ?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FxJG_1izFLp.png?alt=media&token=7f6342fa-ce1e-42e1-be65-28526a372400)
+- Q. What does the current AACE consensus say about the South Asians in terms of obesity classification ?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FokI5sP7yT6.png?alt=media&token=d6eaf194-9d30-4058-99a8-8e7984b8931f)
+- Q. How does this compare with the rest of the world ?
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMedical_learning%2FrJwEVOLAp3.jpeg?alt=media&token=be6a3401-4108-4f3e-adf7-f870f56a11b5)
+- Q. According to Indian consensus statement , when should pharmacotherapy for obesity be started ?
+    - 1.The pharmacotherapy should be initiated for BMI above 27 kg/m2 without co-morbidity, or a BMI above 25 kg/ m2 with co-morbidity.
+    - 2.The cut-offs for WC for initiating pharmacotherapy was unanimously agreed upon as a WC measurement 10 cms more than the upper limit of gender specific normal value for adult Asian Indians.
+

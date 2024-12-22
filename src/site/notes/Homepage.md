@@ -17,7 +17,7 @@ Building the largest resource for Endocrinology on the internet.
 
 ### 📝 Notes in Endocrinology
 Best-in-class Notes in Endocrinology for Endocrinologists  
-[[Click here →\|Click here →]]
+[[Notes in Endocrinology/Notes in Endocrinology →\|Notes in Endocrinology →]]
 
 ### 📚 Research Summary 
 Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
