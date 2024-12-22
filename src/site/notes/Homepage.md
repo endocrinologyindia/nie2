@@ -6,7 +6,7 @@
 
 # Welcome to Endocrinology India
 
-<img src="Black White Circle Bee Icon Food Logo.png" alt="Logo" />
+<img src="https://i.ibb.co/JzPf1hX/Black-White-Circle-Bee-Icon-Food-Logo.png" alt="Logo" />
 
 ## by Dr. Om J Lakhani
 
