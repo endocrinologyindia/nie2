@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
+<div align="center">
 
 # Welcome to Endocrinology India
 
-![Black White Circle Bee Icon Food Logo.png](/img/user/attachments/Black%20White%20Circle%20Bee%20Icon%20Food%20Logo.png)
-
-
+<img src="Black White Circle Bee Icon Food Logo.png" alt="Logo" />
 
 ## by Dr. Om J Lakhani
 
@@ -24,16 +23,15 @@ Summary of Updated Research Articles in the Field of Endocrinology & Diabetes
 [[Research Summary/Research Summary →\|Research Summary →]]
 
 ### 📊 Presentation Library 
-Collection of PowerPoint presentation on various topics in Endocrinology by Dr. Om J Lakhani
+Collection of PowerPoint presentation on various topics in Endocrinology by Dr. Om J Lakhani  
 [[Presentation Library/Presentation Library →\|Presentation Library →]]
-
 
 ### 🎥 YouTube Channel
 The Popular Endocrinology India YouTube Channel for Best-in-Class Video Lectures in Endocrinology  
 [[YouTube Channel/YouTube Channel →\|YouTube Channel →]]
 
 ### 📕 Our Books
-The Best of Notes in Endocrinology books by Dr. Om J Lakhani
+The Best of Notes in Endocrinology books by Dr. Om J Lakhani  
 [[BOOK SERIES/Our Books →\|Our Books →]]
 
 ### 💻 Technocrinology
@@ -53,7 +51,7 @@ Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare
 [[Click here →\|Click here →]]
 
 ### 🔁 Human-in-loop Research
-Medical research, conducted by AI, Edited by Natural intelligence
+Medical research, conducted by AI, Edited by Natural intelligence  
 [[Human-in-Loop research/Human-in-Loop Research →\|Human-in-Loop Research →]]
 
 ### 👨‍⚕️ Online Consultation with Endocrinologist
@@ -68,5 +66,4 @@ Join the Endocrinology India WhatsApp Channel for Regular Updates
 Please visit the page to show us some love & support our efforts   
 [[Support us/Support us →\|Support us →]]
 
-
----
+</div>
