@@ -5,7 +5,9 @@
 # Screening for Primary Aldosteronism without stopping antihypertensive medications
 
 
-Created/Updated: #dec2024
+> [!note|+green]+ Created/Updated: #dec2024
+> You can find the tool to help you in the calculation here: [Liu-Hao Tool](app://obsidian.md/Liu-Hao%20Tool)
+
 
 **1. Title of the Article:**  
 
