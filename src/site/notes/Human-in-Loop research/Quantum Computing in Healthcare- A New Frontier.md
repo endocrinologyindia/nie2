@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/human-in-loop-research/quantum-computing-in-healthcare-a-new-frontier/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/human-in-loop-research/quantum-computing-in-healthcare-a-new-frontier/"}
 ---
 
 
