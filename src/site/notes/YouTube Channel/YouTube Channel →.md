@@ -7,7 +7,9 @@
 
 # The Endocrinology India YouTube Channel
 
+- [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
 
+{ .block-language-dataview}
 
 The Endocrinology India YouTube Channel has been around for a long time. With more than 7000 subscribers and counting , it is one of the most happening YouTube channels on Endocrinology in India. 
 

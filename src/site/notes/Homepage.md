@@ -12,6 +12,13 @@
 
 Building the largest resource for Endocrinology on the internet. 
 
+# Latest Updates
+
+- [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
+
+{ .block-language-dataview}
+
+
 # Our Collection
 
 ### 📝 Notes in Endocrinology
