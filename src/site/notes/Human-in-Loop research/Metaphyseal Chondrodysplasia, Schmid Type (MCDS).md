@@ -7,8 +7,9 @@
 
 # Metaphyseal Chondrodysplasia, Schmid Type (MCDS): A Comprehensive Overview for Endocrinologists
 
-Research by : Google Gemini 1.5 Deep Research
-Edited by: Dr. Om J Lakhani
+> [!note|+green]+ Created/Updated: #dec2024
+> Research by : Google Gemini 1.5 Deep Research
+> Edited by: Dr. Om J Lakhani
 
 Metaphyseal chondrodysplasia, Schmid type (MCDS) is a rare, inherited skeletal dysplasia primarily affecting the long bones1. This condition presents unique challenges for endocrinologists due to its impact on growth and development, and its potential overlap with other endocrine disorders. This comprehensive overview will delve into the clinical presentation, genetic basis, diagnosis, management, and prognosis of MCDS, equipping endocrinologists with the knowledge to effectively diagnose and manage patients with this condition.
 

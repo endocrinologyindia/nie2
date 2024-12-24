@@ -12,8 +12,10 @@
 
 Building the largest resource for Endocrinology on the internet. 
 
-> [!note|+green]+ # Latest Updates
+> [!info|+green]+ Latest Updates
 >  - [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
+> - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
+> - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
 > 
 { .block-language-dataview}
 

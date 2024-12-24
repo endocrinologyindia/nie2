@@ -5,6 +5,7 @@
 
 # Wearable Technology for Healthcare professionals
 
+> [!note|+green]+ Created/Updated: #dec2024
 ## Description:
 
 For those who missed it , talk on "Introduction to Wearable technocrinology for Healthcare professionals" with special focus on use of Smart watches (like Apple Watch) for Healthcare Professionals 
