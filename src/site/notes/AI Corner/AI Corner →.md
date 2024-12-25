@@ -20,4 +20,6 @@
 ## Useful prompts
 
 1. [[AI Corner/Prompts for Generating Summary\|Prompts for Generating Summary]]
-2. [[AI Corner/Chain of Diagnosis Prompt\|Chain of Diagnosis Prompt]]
+2. [[Chain of Diagnosis Prompt\|Chain of Diagnosis Prompt]]
+3. [[AI Corner/Prompt for Diagnosing a Clinical Image\|Prompt for Diagnosing a Clinical Image]]
+4. [[AI Corner/Prompt of academic medical research using Perplexity\|Prompt of academic medical research using Perplexity]]

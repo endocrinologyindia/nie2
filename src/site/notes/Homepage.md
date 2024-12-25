@@ -66,7 +66,7 @@ Medical research, conducted by AI, Edited by Natural intelligence
 
 ### 👨‍⚕️ Online Consultation with Endocrinologist
 Consult a Qualified Endocrinologist Online  
-[[Click here →\|Click here →]]
+[[Support us/Online Consultation →\|Online Consultation →]]
 
 ### 📱 WhatsApp Channel
 Join the Endocrinology India WhatsApp Channel for Regular Updates  
