@@ -14,9 +14,9 @@ Building the largest resource for Endocrinology on the internet.
 
 > [!info|+green]+ Latest Updates
 >  - [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
+> - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
 > - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
 > - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
-> - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
 > 
 { .block-language-dataview}
 
@@ -57,8 +57,8 @@ Mini-apps, Calculators, and Toolkits for Diabetes Management
 [[Click here →\|Click here →]]
 
 ### 🤖 The AI Corner
-Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  
-[[Click here →\|Click here →]]
+Courses, Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  
+[[AI Corner/AI Corner →\|AI Corner →]]
 
 ### 🔁 Human-in-loop Research
 Medical research, conducted by AI, Edited by Natural intelligence  
