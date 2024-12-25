@@ -66,11 +66,17 @@ Medical research, conducted by AI, Edited by Natural intelligence
 
 ### 👨‍⚕️ Online Consultation with Endocrinologist
 Consult a Qualified Endocrinologist Online  
-[[Support us/Online Consultation →\|Online Consultation →]]
+[[Misc/Online Consultation →\|Online Consultation →]]
 
 ### 📱 WhatsApp Channel
 Join the Endocrinology India WhatsApp Channel for Regular Updates  
 [Click here →](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
+
+### 🎸 Music & Creativity
+Music, Videos, Art, Poetry by Endocrinologist, this is the place for the same 
+
+
+
 
 ### 🤝 Support us
 Please visit the page to show us some love & support our efforts   
