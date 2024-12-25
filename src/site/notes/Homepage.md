@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
+<script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 <div align="center">
 
 # Welcome to Endocrinology India
@@ -13,10 +14,10 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
-> - [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
-> - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
+>  - [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
+> - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
 > - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
+> - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
 > 
 { .block-language-dataview}
 
@@ -83,3 +84,5 @@ Please visit the page to show us some love & support our efforts
 [[Support us/Support us →\|Support us →]]
 
 </div>
+
+

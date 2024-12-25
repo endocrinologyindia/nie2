@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/human-in-loop-research/quantum-computing-in-healthcare-a-new-frontier/"}
 ---
 
+<script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 > [!note|+green]+ Created/Updated: #dec2024
 > Research by : Google Gemini 1.5 Deep Research

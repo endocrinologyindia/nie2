@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/support-us/support-us/"}
 ---
 
+<script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 # Support us
 
 ![Pasted image 20241219192707.png](/img/user/attachments/Pasted%20image%2020241219192707.png)
@@ -26,7 +27,8 @@
 3. Donate 
 
 	- If you have found a value in any of our resources, donate to keep us going 
-	- [Click here →](https://endocrinologyindia.myinstamojo.com/product/donate-to-endocrinology-india/)
+	- For India: [Click here →](https://endocrinologyindia.myinstamojo.com/product/donate-to-endocrinology-india/) 
+	- For International: [Click here →](https://lakhanilogin.gumroad.com/coffee) 
 
 4. Presentation Library
 
