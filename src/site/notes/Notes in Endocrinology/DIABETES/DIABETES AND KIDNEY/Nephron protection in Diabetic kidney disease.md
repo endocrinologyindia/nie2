@@ -4,8 +4,8 @@
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 - Q. Which are two important pathogenic mechanisms causing kidney disease in patients with diabetes ?
@@ -51,7 +51,7 @@
 
 Multimedia
 
-Talk on # How SGLT2 inhibitors protect the kidney in patients with Diabetes mellitus? by [[Dr. Om J Lakhani\|Dr. Om J Lakhani]] (Date: April 9, 2021)
+Talk on # How SGLT2 inhibitors protect the kidney in patients with Diabetes mellitus? by [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]] (Date: April 9, 2021)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LHhRDkwJVMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

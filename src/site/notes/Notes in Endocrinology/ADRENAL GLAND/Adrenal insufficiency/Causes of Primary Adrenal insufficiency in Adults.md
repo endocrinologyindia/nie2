@@ -13,8 +13,8 @@ Support us:
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 Date: 09-Aug-2023
 - Source: Basics of Adrenal insufficiency - By Dr. Om J Lakhani

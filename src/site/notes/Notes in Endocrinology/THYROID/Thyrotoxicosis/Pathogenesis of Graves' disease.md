@@ -3,8 +3,8 @@
 ---
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 - Q. Which organs have TSH receptors and hence are affected by TSH receptor antibodies in Graves’ disease?

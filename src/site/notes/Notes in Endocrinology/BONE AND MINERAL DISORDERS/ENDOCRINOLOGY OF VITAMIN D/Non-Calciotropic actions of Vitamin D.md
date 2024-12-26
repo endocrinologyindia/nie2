@@ -14,8 +14,8 @@ Support us:
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 Also see [[Notes in Endocrinology/BONE AND MINERAL DISORDERS/ENDOCRINOLOGY OF VITAMIN D/Vitamin D beyond bones- was it all just a hype- Balanced view of current status\|Vitamin D beyond bones- was it all just a hype- Balanced view of current status]]

@@ -5,8 +5,8 @@
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 ---
 Support us:
 1. [Support you by Becoming a YouTube member (Click here)](https://www.youtube.com/channel/UC6zQSf7dLDqfQOeM4mNUBTQ/join). 

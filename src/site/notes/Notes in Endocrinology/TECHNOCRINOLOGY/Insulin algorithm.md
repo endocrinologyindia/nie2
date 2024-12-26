@@ -4,8 +4,8 @@
 
 
 Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 **Join our WhatsApp channel to get regular updates from “Notes in Endocrinology” and “Endocrinology India”:** [**https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3****h**](https://whatsapp.com/channel/0029VaFyQnfHbFUz0LVdBO3h)
 

@@ -13,8 +13,8 @@ Support us:
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 - Linked notes:
 	- [[Notes in Endocrinology/ADRENAL GLAND/Physiology and pharmacology of glucocorticoids/Glucocorticoid induced osteoporosis (GIO)\|Glucocorticoid induced osteoporosis (GIO)]]

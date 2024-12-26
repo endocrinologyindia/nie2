@@ -3,8 +3,8 @@
 ---
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 - Q. What is [[Notes in Endocrinology/DIABETES/CLASSIFICATION, DIAGNOSIS AND OTHER FORMS OF DIABETES/C-peptide\|C-peptide]] ?

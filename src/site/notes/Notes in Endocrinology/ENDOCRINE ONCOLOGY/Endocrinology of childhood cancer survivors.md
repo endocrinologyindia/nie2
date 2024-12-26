@@ -3,7 +3,7 @@
 ---
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
     - Section Editor: [[Dr. Om J Lakhani]
 
 - Q. How common are endocrinopathies in chilhood cancer survivors ?

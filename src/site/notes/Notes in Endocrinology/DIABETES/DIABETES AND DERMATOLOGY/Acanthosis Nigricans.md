@@ -3,8 +3,8 @@
 ---
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 - Linked notes
 	- [[Notes in Endocrinology/DIABETES/PATHOGENESIS OF TYPE 2 DIABETES/Insulin resistance/3.0 Clinical features of Insulin resistance\|3.0 Clinical features of Insulin resistance]]

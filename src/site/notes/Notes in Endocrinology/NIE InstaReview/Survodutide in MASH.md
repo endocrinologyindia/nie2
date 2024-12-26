@@ -5,7 +5,7 @@
 
 Credits
     - Section Writer: [[ChatGPT 4o\|ChatGPT 4o]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 Support us:

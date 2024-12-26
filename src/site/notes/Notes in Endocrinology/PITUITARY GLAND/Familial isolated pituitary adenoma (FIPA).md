@@ -5,8 +5,8 @@
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 - Q. What is the definition of Familial isolated pituitary adenoma (FIPA)?
     - Stiles et al. define FIPA as "A term used to identify a genetic condition with pituitary tumors without other endocrine or other associated abnormalities." ^[Ref: Stiles CE, Korbonits M. Familial Isolated Pituitary Adenoma. [Updated 2020 May 28]. In: Feingold KR, Anawalt B, Boyce A, et al., editors. Endotext [Internet]. South Dartmouth (MA): MDText.com, Inc.; 2000-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK278949/]

@@ -3,8 +3,8 @@
 ---
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 - Q. What are the five main criteria in a standard [[Notes in Endocrinology/MALE REPRODUCTIVE ENDOCRINOLOGY/MALE INFERTILITY/Semen analysis\|Semen analysis]]?

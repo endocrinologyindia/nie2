@@ -3,8 +3,8 @@
 ---
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 
@@ -650,7 +650,7 @@ Date: Saturday, 3 April 2021
 
 Date: Saturday, 4 April 2021
 
-- Talk on [[Notes in Endocrinology/FEMALE REPRODUCTIVE ENDOCRINOLOGY/Premature ovarian insufficiency (POI)\|Premature ovarian insufficiency (POI)]] by [[Dr. Om J Lakhani\|Dr. Om J Lakhani]] 
+- Talk on [[Notes in Endocrinology/FEMALE REPRODUCTIVE ENDOCRINOLOGY/Premature ovarian insufficiency (POI)\|Premature ovarian insufficiency (POI)]] by [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]] 
 		- <iframe width="560" height="315" src="https://www.youtube.com/embed/jQ7J8ujdC20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

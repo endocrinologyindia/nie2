@@ -14,8 +14,8 @@ Support us:
 
 
 - Credits
-    - Section Writer: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
-    - Section Editor: [[Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+    - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 - Linked notes
 	- [[Notes in Endocrinology/BONE AND MINERAL DISORDERS/ENDOCRINOLOGY OF VITAMIN D/Physiology and Metabolism of Vitamin D\|Physiology and Metabolism of Vitamin D]]
