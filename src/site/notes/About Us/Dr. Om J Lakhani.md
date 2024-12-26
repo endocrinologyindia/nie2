@@ -19,4 +19,7 @@ Apart from his clinical work, Dr. Om J Lakhani has a keen interest in technology
 
 Dr. Om J Lakhani is a leading advocate for the use of artificial intelligence in healthcare. He has developed several AI modules, applications, and use cases for doctors, including EndoAI and Technocrinology.com. He has conducted various workshops to help doctors incorporate AI into healthcare.
 
+Best way to connect with Dr. Om J Lakhani is via  [Linkedin→ ](https://www.linkedin.com/in/dromlakhani/) 
+
+
 ![Pasted image 20241226090706.png](/img/user/attachments/Pasted%20image%2020241226090706.png)
