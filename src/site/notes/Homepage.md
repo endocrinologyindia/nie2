@@ -83,9 +83,9 @@ Music, Videos, Art, Poetry by Endocrinologist, this is the place for the same
 Please visit the page to show us some love & support our efforts   
 [[Support us/Support us →\|Support us →]]
 
-### 🤝 About Us
+### 👥 About Us
 Know more about us   
-[[About us →\|About us →]]
+[[About Us/About us →\|About us →]]
 
 </div>
 
