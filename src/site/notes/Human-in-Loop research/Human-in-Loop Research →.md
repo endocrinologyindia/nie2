@@ -16,3 +16,8 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 
 1. [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
 2. [[Human-in-Loop research/How ancient philosophy led to modern day AI\|How ancient philosophy led to modern day AI]]
+
+
+## Clinically relevant questions
+
+1. [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]

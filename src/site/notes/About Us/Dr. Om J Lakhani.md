@@ -7,7 +7,7 @@
 
 # Dr. Om J Lakhani
 
-![IMG_2014.jpg](/img/user/attachments/IMG_2014.jpg)
+![IMG_1530.jpg](/img/user/attachments/IMG_1530.jpg)
 
 Dr. Om J Lakhani is a Consultant Endocrinologist at Zydus Hospital in Ahmedabad. He is a National Board-certified endocrinologist, holding a DNB in Endocrinology from Sir Ganga Ram Hospital in New Delhi, and an MD and MBBS from Maharaja Sayajirao University of Baroda. He has an outstanding academic record, with four gold medals in MBBS, two gold medals in the MD Medicine examination, and the President NBE Gold Medal in DNB Endocrinology. Additionally, he holds a 'Specialty Certificate in Endocrinology & Diabetes' from the Royal College of Physicians, UK.
 
@@ -22,5 +22,7 @@ Dr. Om J Lakhani is a leading advocate for the use of artificial intelligence in
 Best way to connect with Dr. Om J Lakhani is via  [Linkedin→ ](https://www.linkedin.com/in/dromlakhani/) 
 
 Personal website: www.dromlakhani.com 
+
+For Online consultation with Dr. Om J Lakhani: [[Misc/Online Consultation →\|Online Consultation →]]
 
 

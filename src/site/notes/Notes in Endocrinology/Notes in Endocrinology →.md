@@ -126,6 +126,7 @@
 		- [[Notes in Endocrinology/THYROID/Management of hypothyroidism/T3 (Liothyronine)\|T3 (Liothyronine)]]
 		- [[Notes in Endocrinology/THYROID/Management of hypothyroidism/Refractory hypothyroidism\|Refractory hypothyroidism]]
 		- [[Notes in Endocrinology/OBESITY & METABOLIC SYNDROME/Resmetirom and Hepatic hypothyroidism\|Resmetirom and Hepatic hypothyroidism]]
+		- [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]
 
 
 	-	Thyroid disorders in Pregnancy
