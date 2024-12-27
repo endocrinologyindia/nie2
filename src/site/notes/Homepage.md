@@ -18,6 +18,7 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
 > - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
 > - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
+> - [[Human-in-Loop research/How ancient philosophy led to modern day AI\|How ancient philosophy led to modern day AI]]
 > 
 { .block-language-dataview}
 
