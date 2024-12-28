@@ -332,4 +332,4 @@ Contrary to popular beliefs the Liraglutide and the OAD were very well tolerated
 
 ----
 
-Please consider donating to *"Notes in Endocrinology"* to keep us going. Please visit our [[DONATION\|DONATION]] page to know more
+Please consider donating to *"Notes in Endocrinology"* to keep us going. Please visit our [[Support us/DONATION\|DONATION]] page to know more

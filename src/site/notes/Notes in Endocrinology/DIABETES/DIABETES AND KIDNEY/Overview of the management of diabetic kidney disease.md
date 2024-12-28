@@ -187,4 +187,4 @@ Credits
 
 ----
 
-Please consider donating to *"Notes in Endocrinology"* to keep us going. Please visit our [[DONATION\|DONATION]] page to know more
+Please consider donating to *"Notes in Endocrinology"* to keep us going. Please visit our [[Support us/DONATION\|DONATION]] page to know more

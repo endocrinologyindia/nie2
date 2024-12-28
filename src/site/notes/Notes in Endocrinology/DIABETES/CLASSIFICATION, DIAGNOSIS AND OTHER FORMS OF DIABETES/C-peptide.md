@@ -98,6 +98,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EpHItUcVPjs?si=Au6vePPR73fy-gIV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ----
 
-Please consider donating to *"Notes in Endocrinology"* to keep us going. Please visit our [[DONATION\|DONATION]] page to know more
+Please consider donating to *"Notes in Endocrinology"* to keep us going. Please visit our [[Support us/DONATION\|DONATION]] page to know more
 
 
