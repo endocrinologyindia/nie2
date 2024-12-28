@@ -17,8 +17,8 @@ Building the largest resource for Endocrinology on the internet.
 >  - [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
 > - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
 > - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
-> - [[Human-in-Loop research/How ancient philosophy led to modern day AI\|How ancient philosophy led to modern day AI]]
 > - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
+> - [[Human-in-Loop research/How ancient philosophy led to modern day AI\|How ancient philosophy led to modern day AI]]
 > - [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]
 > 
 { .block-language-dataview}
@@ -56,8 +56,8 @@ Mini-apps, Calculators, and Toolkits for Endocrinologists
 [[Endocrinologist ToolKit/ToolKit for Endocrinologists →\|ToolKit for Endocrinologists →]]
 
 ### 🩺 Diabetologist's Toolkit (Diabetology)
-Mini-apps, Calculators, and Toolkits for Diabetes Management  
-[[Click here →\|Click here →]]
+Our Award winning Diabetology.co.in system for Newly diagnosed patients with diabetes 
+[Click here →](https://diabetology.co.in/)
 
 ### 🤖 The AI Corner
 Courses, Mini-apps, Calculators, and Toolkits for Artificial Intelligence in Healthcare  

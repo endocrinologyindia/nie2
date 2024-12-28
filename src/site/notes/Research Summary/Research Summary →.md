@@ -17,3 +17,6 @@
 # Pediatric Endocrinology
 
 1. [[Research Summary/Differentiating CDGP from IHH\|Differentiating CDGP from IHH]]
+
+# Misc Conditons
+1. [[Ultrasound-Guided Glenohumeral Corticosteroid Injection for the Treatment of Adhesive Capsulitis of the Shoulder - The Role of Clinical Stage in Response to Treatment\|Ultrasound-Guided Glenohumeral Corticosteroid Injection for the Treatment of Adhesive Capsulitis of the Shoulder - The Role of Clinical Stage in Response to Treatment]]
