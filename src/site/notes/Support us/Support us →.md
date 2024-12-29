@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/support-us/support-us/"}
+{"dg-publish":true,"permalink":"/support-us/support-us/","metatags":"google-adsense-account: \"ca-pub-5480881894205508\""}
 ---
 
 <script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

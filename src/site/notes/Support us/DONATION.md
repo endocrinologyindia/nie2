@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/support-us/donation/"}
+{"dg-publish":true,"permalink":"/support-us/donation/","metatags":"\"google-adsense-account\": \"ca-pub-5480881894205508\""}
 ---
 
 
