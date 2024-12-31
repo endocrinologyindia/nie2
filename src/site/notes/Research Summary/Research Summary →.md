@@ -12,6 +12,7 @@
 
 1. [[Research Summary/Diagnosis of Cushing syndrome in patients with chronic kidney disease\|Diagnosis of Cushing syndrome in patients with chronic kidney disease]]
 2. [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
+3. [[Research Summary/DHEAS for Diagnosis of Adrenal Insufficiency\|DHEAS for Diagnosis of Adrenal Insufficiency]]
 
 
 # Pediatric Endocrinology
