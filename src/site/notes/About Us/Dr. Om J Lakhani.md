@@ -25,4 +25,20 @@ Personal website: www.dromlakhani.com
 
 For Online consultation with Dr. Om J Lakhani: [[Misc/Online Consultation →\|Online Consultation →]]
 
+For In-person consultation :
+
+Dr. Om J Lakhani
+Consultant Endocrinologist
+Zydus Hospitals
+TIMINGS: MONDAY TO FRIDAY
+ 10 am to 14 pm 
+ADDRESS
+Zydus Hospitals Road,
+Nr. Sola Bridge, S.G. Highway,
+Ahmedabad – 380054,
+Gujarat, India.
+APPOINTMENT CALL +917966190372 or +917966190366
+
+
+
 

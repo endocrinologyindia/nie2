@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/misc/online-consultation/"}
 ---
 
+
+<script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
 For online video consultation with Dr. Om J Lakhani
 
 Please follow the following steps:

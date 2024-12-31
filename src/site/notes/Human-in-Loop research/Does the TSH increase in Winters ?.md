@@ -2,7 +2,26 @@
 {"dg-publish":true,"permalink":"/human-in-loop-research/does-the-tsh-increase-in-winters/"}
 ---
 
-<script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script>
+    // GoatCounter script
+    (function() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = '//gc.zgo.at/count.js';
+        script.setAttribute('data-goatcounter', 'https://endocrinologyindia.goatcounter.com/count');
+        document.head.appendChild(script);
+    })();
+
+    // Google AdSense script
+    (function() {
+        var script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5480881894205508';
+        script.crossOrigin = 'anonymous';
+        document.head.appendChild(script);
+    })();
+</script>
+
 # Does the TSH increase in Winters ? Thyroid Function in Winter: A Mini-Review
 
 > [!note|+green]+ Created/Updated: #dec2024
