@@ -211,7 +211,7 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 ### Updates in 2024
 
-Based on the search results, here are the most recent articles from 2024 on the topic "Androgens And Cardiovascular Disease In Men" from PubMed:
+Recent articles from 2024 on the topic "Androgens And Cardiovascular Disease In Men" from PubMed:
 
 1. Cardiovascular disease and testosterone therapy in male hypogonadism: A review
 
