@@ -72,6 +72,7 @@
 	- NEWER THERAPIES FOR DIABETES MANAGEMENT
 		- [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Pancreatic & Islet cell transplantation\|Pancreatic & Islet cell transplantation]]
 		- [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Teplizumab in Type 1 Diabetes\|Teplizumab in Type 1 Diabetes]]
+		- [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
 
 	- PHARMACOTHERAPY IN DIABETES MANAGEMENT
 		- [[Notes in Endocrinology/DIABETES/PHARMACOTHERAPY IN DIABETES MANAGEMENT/General principles of Insulin therapy\|General principles of Insulin therapy]]

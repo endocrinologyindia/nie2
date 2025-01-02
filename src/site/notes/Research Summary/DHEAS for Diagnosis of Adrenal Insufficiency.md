@@ -51,5 +51,7 @@
 
 ## Associated Mini-Application
 
+[[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
+
 
 
