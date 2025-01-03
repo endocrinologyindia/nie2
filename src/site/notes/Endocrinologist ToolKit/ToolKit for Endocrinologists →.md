@@ -28,6 +28,27 @@ You can find the tool to help you in the calculation here: [[Endocrinologist Too
 
 This is a tool that helps you use Aldosterone:Renin ratio as a screening test for Primary aldosteronism without stopping the antihypertensive drug which the patient is taking 
 
+
 You can find the summary of the research here : [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
 
 You can find the tool to help you in the calculation here: [[Endocrinologist ToolKit/Liu-Hao Tool\|Liu-Hao Tool]]
+
+4. **Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han, Suresh et al**
+
+This tool uses DHEAS in the diagnostic algorithm for Adrenal insufficiency based on the research by Han, Suresh et al 
+
+You can find the summary of the research here: [[Research Summary/DHEAS for Diagnosis of Adrenal Insufficiency\|DHEAS for Diagnosis of Adrenal Insufficiency]]
+
+You can find the tool here : [[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
+
+5.  **Diabetes Remission Eligibility calculator**
+
+Tool that helps to find if the patient is eligible for diabetes remission (colloquially called 'Diabetes reversal' ) based on the DiRECT study of Roy Taylor and Cluster classification by Dr. V. Mohan
+
+You can find the notes on the topic here: [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
+
+You can find the tool here: [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
+
+
+
+
