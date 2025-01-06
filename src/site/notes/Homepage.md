@@ -40,13 +40,12 @@ Building the largest resource for Endocrinology on the internet.
 >  - [[Research Summary/Screening for Primary Aldosteronism without stopping antihypertensive medications\|Screening for Primary Aldosteronism without stopping antihypertensive medications]]
 > - [[Research Summary/DHEAS for Diagnosis of Adrenal Insufficiency\|DHEAS for Diagnosis of Adrenal Insufficiency]]
 > - [[Presentation Library/Wearable Technology for Healthcare professionals\|Wearable Technology for Healthcare professionals]]
-> - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
 > - [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
-> - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
 > - [[Human-in-Loop research/How ancient philosophy led to modern day AI\|How ancient philosophy led to modern day AI]]
+> - [[Human-in-Loop research/Metaphyseal Chondrodysplasia, Schmid Type (MCDS)\|Metaphyseal Chondrodysplasia, Schmid Type (MCDS)]]
 > - [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]
-> - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
 > - [[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
+> - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
 > 
 { .block-language-dataview}
 
