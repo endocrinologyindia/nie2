@@ -237,3 +237,9 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 ## Mini-App / Tool
  
 [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]] - Helps to find suitable patients with type 2 diabetes who could be potential candidates for diabetes remission  
+
+---
+
+## Presentation
+
+[[Presentation Library/Diabetes Remission presentation\|Diabetes Remission presentation]]
