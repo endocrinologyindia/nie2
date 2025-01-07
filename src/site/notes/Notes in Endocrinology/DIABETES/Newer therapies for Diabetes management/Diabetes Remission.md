@@ -7,7 +7,7 @@
 
 
 
-# Diabetes Remission
+# Diabetes Remission (NOT Diabetes Reversal)
 Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 > [!note|+green]+ Created/Updated: #jan2025 
