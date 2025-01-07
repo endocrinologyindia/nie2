@@ -32,6 +32,9 @@
 
 ### Use Case: Tool that helps to find if the patient is eligible for diabetes remission (colloquially called 'Diabetes reversal' ) based on the DiRECT study of Roy Taylor and Cluster classification by Dr. V. Mohan
 
+<iframe src="https://endocrinologyindia.github.io/diabetesremissioncalculator/" width="100%" height="1200" style="border: none;"></iframe>
+
+
 ## Frequently asked questions
 
 Q. Tell me more about diabetes remission ?
@@ -59,8 +62,17 @@ Q. What is the algorithm used in the tool ?
 
 ![Pasted image 20250107080829.png](/img/user/attachments/Pasted%20image%2020250107080829.png)
 
+Q. Can you show an example ?
 
-<iframe src="https://endocrinologyindia.github.io/diabetesremissioncalculator/" width="100%" height="1200" style="border: none;"></iframe>
+Yes, please see this video:
+
+<iframe width="480" height="960" src="https://www.youtube.com/embed/jVHNK0mR43A" title="YouTube Shorts - Diabetes Remission Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+
+
 
 ## Citations
 
