@@ -29,6 +29,7 @@ To be come a YouTube Channel member please see this link : [[YouTube Channel/You
 ### Diabetes
 
 1. Perioperative use of SGLT2 inhibitors  (Paid)
+2. [[Presentation Library/Diabetes Remission presentation\|Diabetes Remission Presentation]] (Free Preview, Paid to Download)
 
 
 
