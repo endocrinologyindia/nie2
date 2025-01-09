@@ -38,11 +38,12 @@ Building the largest resource for Endocrinology on the internet.
 
 > [!info|+green]+ Latest Updates
 >  - [[Research Summary/Glycated GD59\|Glycated GD59]]
-> - [[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
 > - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
+> - [[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
 > - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
-> - [[Patient information/Is my hair loss because of my thyroid problem ?\|Is my hair loss because of my thyroid problem ?]]
 > - [[Patient information/Metformin in Pregnancy- What You Need to Know\|Metformin in Pregnancy- What You Need to Know]]
+> - [[Patient information/Is my hair loss because of my thyroid problem ?\|Is my hair loss because of my thyroid problem ?]]
+> - [[Notes in Endocrinology/THYROID/Clinical features of Hypothyroidism/Hypothyroidism and Hair loss\|Hypothyroidism and Hair loss]]
 > 
 { .block-language-dataview}
 

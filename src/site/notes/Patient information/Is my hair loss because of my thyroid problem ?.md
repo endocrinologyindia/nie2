@@ -113,12 +113,6 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 ---
 
-### Real-Life Case Example:
-- A **10-year-old child** with patchy hair loss (**alopecia areata**) was found to have **hypothyroidism** after a thyroid function test.
-- This shows how thyroid issues can sometimes be linked to hair loss.
-
----
-
 ### Key Takeaways:
 - Hair loss can be caused by thyroid problems, stress, or illness.
 - Treating the underlying thyroid issue often helps improve hair loss.
