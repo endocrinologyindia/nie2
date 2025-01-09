@@ -41,6 +41,7 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
 > - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
 > - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
+> - [[Patient information/Is my hair loss because of my thyroid problem ?\|Is my hair loss because of my thyroid problem ?]]
 > 
 { .block-language-dataview}
 
@@ -51,6 +52,11 @@ Building the largest resource for Endocrinology on the internet.
 ### 📝 Notes in Endocrinology
 Best-in-class Notes in Endocrinology for Endocrinologists  
 [[Notes in Endocrinology/Notes in Endocrinology →\|Notes in Endocrinology →]]
+
+### 😊 Patient information
+Authentic, simple to understand & useful information for patients regarding endocrine disorders
+[[Patient information/Patient information →\|Patient information →]]
+
 
 ### 📚 Research Summary 
 Summary of Updated Research Articles in the Field of Endocrinology & Diabetes  
