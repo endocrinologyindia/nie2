@@ -103,14 +103,14 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 - Q. What are the issues with hair supplements and thyroid?
     - Two issues:
         - Some supplements may contain iodine and may cause thyroid dysfunction (Please see [[Notes in Endocrinology/THYROID/The Normal Thyroid gland/Iodine deficiency disorders\|Iodine deficiency disorders]]).
-        - Some supplements may have biotin, which may interfere with thyroid function.
+        - Some supplements may have biotin , which may interfere with thyroid function.
 
 
-- Q. How common is the use of biotin endocrine tests?
-    - At least 50% of the endocrine tests have biotin in their separation step.
+- Q. How common is the use of biotin  endocrine tests?
+    - At least 50% of the endocrine tests have biotin  in their separation step.
 
 
-- Q. Does biotinproduce false high or false low?
+- Q. Does biotin produce false high or false low?
     - Can cause both, depending on the situation.
     - False low:
         - Large molecules with noncompetitive IMA method:
@@ -125,29 +125,29 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
             - T3, T4
 
 
-- #Clinicalpearl - Since biotin produces false high for T3 and T4 and false low for TSH, wrong diagnosis of Graves' disease is often seen.
+- #Clinicalpearl - Since biotin  produces false high for T3 and T4 and false low for TSH, wrong diagnosis of Graves' disease is often seen.
 
 
-- Q. Where is high-dose biotinused in practice?
+- Q. Where is high-dose biotin used in practice?
     - Dermatology - Hair and nail treatments.
     - Neurology - [[Multiple sclerosis\|Multiple sclerosis]].
 
 
-- Q. What dose of biotinis likely to cause assay interference?
-    - Biotin dose >5 mg/day is likely to cause assay interference.
+- Q. What dose of biotin is likely to cause assay interference?
+    - biotin  dose >5 mg/day is likely to cause assay interference.
 
 
-- Q. How long should biotin be stopped before repeating the test?
+- Q. How long should biotin  be stopped before repeating the test?
     - Stop for at least 2-3 days.
     - Since it is renally excreted, a longer period is needed for patients with impaired renal function.
 
 
-- Q. What can labs do to check for biotininterference?
-    - Use streptavidin beads or other approaches to look for biotin interference.
+- Q. What can labs do to check for biotin interference?
+    - Use streptavidin beads or other approaches to look for biotin  interference.
 
 
-- Q. Which other antibody will produce a picture similar to biotin interference?
-    - Presence of streptavidin antibody will produce a similar picture as biotin interference.
+- Q. Which other antibody will produce a picture similar to biotin  interference?
+    - Presence of streptavidin antibody will produce a similar picture as biotin  interference.
 
 
 - Q. Do parathyroid conditions also produce hair loss?
