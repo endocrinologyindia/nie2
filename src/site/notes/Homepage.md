@@ -42,6 +42,7 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
 > - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
 > - [[Patient information/Is my hair loss because of my thyroid problem ?\|Is my hair loss because of my thyroid problem ?]]
+> - [[Patient information/Metformin in Pregnancy- What You Need to Know\|Metformin in Pregnancy- What You Need to Know]]
 > 
 { .block-language-dataview}
 
