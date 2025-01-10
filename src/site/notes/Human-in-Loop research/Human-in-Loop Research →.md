@@ -21,3 +21,5 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 ## Clinically relevant questions
 
 1. [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]
+2. [[Human-in-Loop research/What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?\|What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?]]
+

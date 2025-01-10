@@ -14,3 +14,8 @@
 ### DIABETES
 
 1. [[Patient information/Metformin in Pregnancy- What You Need to Know\|Metformin in Pregnancy- What You Need to Know]]
+2. [[Patient information/Understanding Fibrocalculous Pancreatic Diabetes (FCPD)\|Understanding Fibrocalculous Pancreatic Diabetes (FCPD)]]
+
+### PITUITARY
+
+1. [[Patient information/Understanding Pituitary Apoplexy\|Understanding Pituitary Apoplexy]]
