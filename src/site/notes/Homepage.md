@@ -50,6 +50,8 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Notes in Endocrinology/PITUITARY GLAND/Pituitary apoplexy\|Pituitary apoplexy]]
 > - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
 > - [[Notes in Endocrinology/DIABETES/CLASSIFICATION, DIAGNOSIS AND OTHER FORMS OF DIABETES/Fibrocalculous pancreatic diabetes\|Fibrocalculous pancreatic diabetes]]
+> - [[Research Summary/MRI STIR sequence for Disease activity in TAO\|MRI STIR sequence for Disease activity in TAO]]
+> - [[Research Summary/Can you use MRI to predict response to steroid in TAO ?\|Can you use MRI to predict response to steroid in TAO ?]]
 > - [[Human-in-Loop research/What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?\|What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?]]
 > 
 { .block-language-dataview}
