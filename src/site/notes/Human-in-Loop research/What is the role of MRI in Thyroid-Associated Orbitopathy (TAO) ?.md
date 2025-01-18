@@ -93,3 +93,5 @@
     - Regular follow-up MRI can help assess treatment response and detect complications like optic neuropathy early.
 
 In summary, this MRI suggests features that are typical of thyroid-associated orbitopathy, likely in an active inflammatory phase, and warrants clinical correlation and possible intervention strategies.
+
+---

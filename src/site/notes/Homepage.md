@@ -37,18 +37,19 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Research Summary/Glycated GD59\|Glycated GD59]]
+>  - [[Research Summary/Radiotherapy in Painful Osteoarthritis\|Radiotherapy in Painful Osteoarthritis]]
+> - [[Research Summary/Glycated GD59\|Glycated GD59]]
+> - [[Patient information/Understanding Pituitary Apoplexy\|Understanding Pituitary Apoplexy]]
+> - [[Patient information/Understanding Fibrocalculous Pancreatic Diabetes (FCPD)\|Understanding Fibrocalculous Pancreatic Diabetes (FCPD)]]
 > - [[Patient information/Metformin in Pregnancy- What You Need to Know\|Metformin in Pregnancy- What You Need to Know]]
 > - [[Patient information/Is my hair loss because of my thyroid problem ?\|Is my hair loss because of my thyroid problem ?]]
-> - [[Research Summary/Radiotherapy in Painful Osteoarthritis\|Radiotherapy in Painful Osteoarthritis]]
-> - [[Notes in Endocrinology/THYROID/Clinical features of Hypothyroidism/Hypothyroidism and Hair loss\|Hypothyroidism and Hair loss]]
-> - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
-> - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
+> - [[Human-in-Loop research/What is the role of 68Ga-Pentixafor PET-CT - CXCR4 PET scan in Primary aldosteronism ?\|What is the role of 68Ga-Pentixafor PET-CT - CXCR4 PET scan in Primary aldosteronism ?]]
 > - [[Endocrinologist ToolKit/Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al\|Adrenal Insufficiency Diagnostic Calculator using DHEAS based on Han Suresh et al]]
+> - [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
+> - [[Notes in Endocrinology/THYROID/Clinical features of Hypothyroidism/Hypothyroidism and Hair loss\|Hypothyroidism and Hair loss]]
 > - [[Notes in Endocrinology/PITUITARY GLAND/Pituitary apoplexy\|Pituitary apoplexy]]
-> - [[Patient information/Understanding Pituitary Apoplexy\|Understanding Pituitary Apoplexy]]
+> - [[Notes in Endocrinology/DIABETES/Newer therapies for Diabetes management/Diabetes Remission\|Diabetes Remission]]
 > - [[Notes in Endocrinology/DIABETES/CLASSIFICATION, DIAGNOSIS AND OTHER FORMS OF DIABETES/Fibrocalculous pancreatic diabetes\|Fibrocalculous pancreatic diabetes]]
-> - [[Patient information/Understanding Fibrocalculous Pancreatic Diabetes (FCPD)\|Understanding Fibrocalculous Pancreatic Diabetes (FCPD)]]
 > - [[Human-in-Loop research/What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?\|What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?]]
 > 
 { .block-language-dataview}

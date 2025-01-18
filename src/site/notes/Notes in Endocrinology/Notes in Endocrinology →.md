@@ -60,6 +60,7 @@
 		- [[Notes in Endocrinology/DIABETES/DIABETES AND THE CARDIOVASCULAR SYSTEM/Insulin and the Cardiovascular system\|Insulin and the Cardiovascular system]]
 		- [[Notes in Endocrinology/DIABETES/DIABETES AND THE CARDIOVASCULAR SYSTEM/Diabetic Dyslipidemia\|Diabetic Dyslipidemia]]
 		- [[Notes in Endocrinology/DIABETES/DIABETES AND THE CARDIOVASCULAR SYSTEM/Heart Failure in Diabetes, non coronary cardiac complications in diabetes and diabetic cardiomyopathy\|Heart Failure in Diabetes, non coronary cardiac complications in diabetes and diabetic cardiomyopathy]]
+		- [[Notes in Endocrinology/DIABETES/DIABETES AND THE CARDIOVASCULAR SYSTEM/Coronary Artery calcification score - CT Calcium Score\|Coronary Artery calcification score - CT Calcium Score]]
 
 	- DIABETES AND OTHER SYSTEMS
 		- [[Notes in Endocrinology/DIABETES/DIABETES AND OTHER SYSTEMS/Sleep disorders and Diabetes\|Sleep disorders and Diabetes]]
