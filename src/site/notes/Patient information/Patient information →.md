@@ -16,6 +16,7 @@
 1. [[Patient information/Metformin in Pregnancy- What You Need to Know\|Metformin in Pregnancy- What You Need to Know]]
 2. [[Patient information/Understanding Fibrocalculous Pancreatic Diabetes (FCPD)\|Understanding Fibrocalculous Pancreatic Diabetes (FCPD)]]
 3. [[Notes in Endocrinology/DIABETES/DIABETES AND THE CARDIOVASCULAR SYSTEM/Coronary Artery calcification score - CT Calcium Score\|Coronary Artery calcification score - CT Calcium Score]]
+4. [[Patient information/Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)\|Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)]]
 
 ### PITUITARY
 

@@ -111,7 +111,7 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
         - Severity and duration
         - Age, sex, and other characteristics
 
-**Section Name**
+**Clinical Trials for Diabetes Remission**
 
 - Q. What were the complete findings of the DiRECT (Diabetes Remission Clinical Trial)?
     - **Study Design**:
