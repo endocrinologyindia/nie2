@@ -14,7 +14,14 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 
 > If you find this useful, please use the link to see the various ways in which you can [[Support us/Support us →\|Support us →]]
+> Corresponding notes for patients: [[Patient information/Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)\|Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)]]
+---
 
+## Video Lecture
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UecDXxgaeWg?si=WTZV4skS1RVrEgbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 
 - Q. Why is the term "remission" preferred over "cure" or "reversal" in type 2 diabetes?
@@ -243,3 +250,9 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 ## Presentation
 
 [[Presentation Library/Diabetes Remission presentation\|Diabetes Remission presentation]]
+
+---
+
+## Notes for Patients
+
+[[Patient information/Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)\|Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)]]

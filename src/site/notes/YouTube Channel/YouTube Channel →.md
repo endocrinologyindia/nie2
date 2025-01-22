@@ -11,6 +11,8 @@
 
 The Endocrinology India YouTube Channel has been around for a long time. With more than 7000 subscribers and counting , it is one of the most happening YouTube channels on Endocrinology in India. 
 
+
+
 # Join our Channel
 
 1. Watch the videos : https://www.youtube.com/@EndocrinologyIndia
@@ -51,3 +53,11 @@ The Endocrinology India YouTube Channel has been around for a long time. With mo
 ₹599.00/month
 
 - All the above benefits plus : Free Download of PowerPoint presentations of all new videos posted on the channel
+
+# New Videos
+
+---
+
+22-January-25: Diabetes Remission: The Good, The Bad and The Ugly
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UecDXxgaeWg?si=WTZV4skS1RVrEgbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
