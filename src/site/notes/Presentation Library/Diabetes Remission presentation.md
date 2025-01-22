@@ -9,5 +9,6 @@
 
 ## Important
 
-- The PDF and PPT version of the presentations are available for YouTube Channel members.
+- The PPT version of the presentation can be bought for Rs. 500 using this link: https://endocrinologyindia.myinstamojo.com/product/diabetes-remission-presentation/
+- The PDF and PPT version of the presentations are also available free for YouTube Channel members.
 - To join as a member please see the link : [[YouTube Channel/YouTube Channel →\|YouTube Channel →]]
