@@ -6,6 +6,7 @@
 # Diabetes
 
 1. [[Research Summary/Insulin resistance & Atherosclerosis\|Insulin resistance & Atherosclerosis]]
+2. [[Research Summary/Using Dapagliflozin for Diabetes Remission\|Using Dapagliflozin for Diabetes Remission]]
 
 # Adrenal
 
@@ -25,3 +26,7 @@
 
 # Misc Conditons
 1. [[Ultrasound-Guided Glenohumeral Corticosteroid Injection for the Treatment of Adhesive Capsulitis of the Shoulder - The Role of Clinical Stage in Response to Treatment\|Ultrasound-Guided Glenohumeral Corticosteroid Injection for the Treatment of Adhesive Capsulitis of the Shoulder - The Role of Clinical Stage in Response to Treatment]]
+
+# Pituitary
+
+1. [[Research Summary/Experience with Pituitary Apoplexy from India\|Experience with Pituitary Apoplexy from India]]

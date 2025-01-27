@@ -293,3 +293,29 @@ Updated: #jan2025
    D. Band-like pressure around the head  
    **Correct Answer:** B  
    **Explanation:** The headache in pituitary apoplexy is typically frontal and retroorbital, severe, and often described as "thunderclap" or "worst ever," frequently accompanied by nausea and vomiting.
+
+
+---
+# Real life case 
+
+
+#Real-life-cases  
+
+A 22-year-old girl presented to the gastroenterologist with incessant vomiting. On evaluation, she was found to have pituitary apoplexy. The patient was started on glucocorticoids and had significant improvement following the treatment. There was no optic chiasma involvement.
+
+
+![[CleanShot 2025-01-24 at 15.36.46@2x.png\|CleanShot 2025-01-24 at 15.36.46@2x.png]]
+
+![[CleanShot 2025-01-24 at 15.36.02@2x.png\|CleanShot 2025-01-24 at 15.36.02@2x.png]]
+
+![[CleanShot 2025-01-24 at 15.35.30@2x.png\|CleanShot 2025-01-24 at 15.35.30@2x.png]]
+
+
+---
+
+## Updates
+
+1. 27-January-25: [[Research Summary/Experience with Pituitary Apoplexy from India\|Experience with Pituitary Apoplexy from India]]
+
+
+

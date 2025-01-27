@@ -256,3 +256,9 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 ## Notes for Patients
 
 [[Patient information/Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)\|Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)]]
+
+---
+
+## Updates 
+
+1. 27-January-25: [[Research Summary/Using Dapagliflozin for Diabetes Remission\|Using Dapagliflozin for Diabetes Remission]]
