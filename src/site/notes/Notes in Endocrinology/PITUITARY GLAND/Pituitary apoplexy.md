@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes-in-endocrinology/pituitary-gland/pituitary-apoplexy/"}
 ---
 
-
+m
 <script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 # Pituitary Apoplexy  

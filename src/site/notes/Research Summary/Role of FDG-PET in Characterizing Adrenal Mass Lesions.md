@@ -16,7 +16,7 @@
 
 
 
-### **Summary of the Article**  
+## **Summary of the Article**  
 
 #### **1. Title of the article:**  
 Performance of 18F-FDG PET/CT in the Characterization of Adrenal Masses in Noncancer Patients: A Prospective Study  

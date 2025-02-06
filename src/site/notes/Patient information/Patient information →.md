@@ -21,3 +21,7 @@
 ### PITUITARY
 
 1. [[Patient information/Understanding Pituitary Apoplexy\|Understanding Pituitary Apoplexy]]
+
+### PCOS  / PCOD
+
+1. [[Patient information/How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)\|How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)]]
