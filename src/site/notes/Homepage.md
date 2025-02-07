@@ -37,10 +37,10 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Human-in-Loop research/Fluoroquinolones and Dysglycemia-  A Clinical Overview\|Fluoroquinolones and Dysglycemia-  A Clinical Overview]]
+>  - [[Patient information/The better marker for Obesity- The BRI\|The better marker for Obesity- The BRI]]
 > - [[Patient information/How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)\|How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)]]
-> - [[Patient information/The better marker for Obesity- The BRI\|The better marker for Obesity- The BRI]]
 > - [[Research Summary/How does Body Roundness Index correlate with mortality risk ?\|How does Body Roundness Index correlate with mortality risk ?]]
+> - [[Human-in-Loop research/Fluoroquinolones and Dysglycemia-  A Clinical Overview\|Fluoroquinolones and Dysglycemia-  A Clinical Overview]]
 > - [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
 > 
 { .block-language-dataview}

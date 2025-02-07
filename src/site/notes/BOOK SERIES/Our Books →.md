@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/book-series/our-books/"}
 ---
 
-
+# Endocrinology Books by Dr Om Lakhani
 
 [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]
 

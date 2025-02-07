@@ -3,7 +3,7 @@
 ---
 
 
-
+# Endocrinology book by Dr Om Lakhani
 
 ![CleanShot 2023-11-09 at 08.26.20 1.png](/img/user/attachments/CleanShot%202023-11-09%20at%2008.26.20%201.png)
 
