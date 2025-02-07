@@ -2,9 +2,17 @@
 {"dg-publish":true,"permalink":"/notes-in-endocrinology/thyroid/management-of-hypothyroidism/t3-liothyronine/"}
 ---
 
-- Credits
-	- Section Writer: Dr. Om J Lakhani
-	- Section Editor: Dr. Om J Lakhani
+
+<script data-goatcounter="https://endocrinologyindia.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+# T3 (Liothyronine, Linorma T3)
+
+> [!note|+green]+ Created/Updated: #jan2025 
+> Written by [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
+> If you find this useful, please use the link to see the various ways in which you can [[Support us/Support us →\|Support us →]]
+> For consultation with [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]] please see [[Misc/Online Consultation →\|Online Consultation →]]
+
 
 Key Information:
 1. Support us by purchasing our book - Click here for more details: [[BOOK SERIES/Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES\|Volume 1- THE BEST OF NOTES IN ENDOCRINOLOGY BOOK SERIES]]

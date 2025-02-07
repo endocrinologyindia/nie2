@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-us/dr-om-j-lakhani/"}
+{"dg-publish":true,"permalink":"/about-us/dr-om-j-lakhani/","metatags":"leading endocrinologist of ahmedabad, dr om lakhani, top endocrinologist of ahmedabad, endocrinologist ahmedabad"}
 ---
 
 
