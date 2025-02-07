@@ -125,7 +125,7 @@
 		- [[Notes in Endocrinology/THYROID/Management of hypothyroidism/Subclinical hypothyroidism\|Subclinical hypothyroidism]]
 		- [[Notes in Endocrinology/THYROID/Clinical features of Hypothyroidism/Neuropsychiatric manifestations of Hypothyroidism\|Neuropsychiatric manifestations of Hypothyroidism]]
 		- [[Notes in Endocrinology/THYROID/Clinical features of Hypothyroidism/Hashimoto's encephalopathy\|Hashimoto's encephalopathy]]
-		- [[Notes in Endocrinology/THYROID/Management of hypothyroidism/T3 (Liothyronine)\|T3 (Liothyronine)]]
+		- [[Notes in Endocrinology/THYROID/Management of hypothyroidism/T3 (Liothyronine)\|Notes in Endocrinology/THYROID/Management of hypothyroidism/T3 (Liothyronine)]]
 		- [[Notes in Endocrinology/THYROID/Management of hypothyroidism/Refractory hypothyroidism\|Refractory hypothyroidism]]
 		- [[Notes in Endocrinology/OBESITY & METABOLIC SYNDROME/Resmetirom and Hepatic hypothyroidism\|Resmetirom and Hepatic hypothyroidism]]
 		- [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]

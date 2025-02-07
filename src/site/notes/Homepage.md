@@ -42,6 +42,7 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Research Summary/How does Body Roundness Index correlate with mortality risk ?\|How does Body Roundness Index correlate with mortality risk ?]]
 > - [[Human-in-Loop research/Fluoroquinolones and Dysglycemia-  A Clinical Overview\|Fluoroquinolones and Dysglycemia-  A Clinical Overview]]
 > - [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
+> - [[Patient information/Understanding LINORMA T3 (Liothyronine)\|Understanding LINORMA T3 (Liothyronine)]]
 > 
 { .block-language-dataview}
 
