@@ -37,12 +37,13 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Patient information/The better marker for Obesity- The BRI\|The better marker for Obesity- The BRI]]
+>  - [[Research Summary/How does Body Roundness Index correlate with mortality risk ?\|How does Body Roundness Index correlate with mortality risk ?]]
+> - [[Patient information/Understanding LINORMA T3 (Liothyronine)\|Understanding LINORMA T3 (Liothyronine)]]
+> - [[Patient information/The better marker for Obesity- The BRI\|The better marker for Obesity- The BRI]]
 > - [[Patient information/How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)\|How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)]]
-> - [[Research Summary/How does Body Roundness Index correlate with mortality risk ?\|How does Body Roundness Index correlate with mortality risk ?]]
 > - [[Human-in-Loop research/Fluoroquinolones and Dysglycemia-  A Clinical Overview\|Fluoroquinolones and Dysglycemia-  A Clinical Overview]]
 > - [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
-> - [[Patient information/Understanding LINORMA T3 (Liothyronine)\|Understanding LINORMA T3 (Liothyronine)]]
+> - [[Patient information/What causes Gestational Diabetes during pregnancy?\|What causes Gestational Diabetes during pregnancy?]]
 > 
 { .block-language-dataview}
 

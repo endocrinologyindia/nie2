@@ -22,11 +22,16 @@
 5. [[Patient information/Understanding Fibrocalculous Pancreatic Diabetes (FCPD)\|Understanding Fibrocalculous Pancreatic Diabetes (FCPD)]]
 6. [[Notes in Endocrinology/DIABETES/DIABETES AND THE CARDIOVASCULAR SYSTEM/Coronary Artery calcification score - CT Calcium Score\|Coronary Artery calcification score - CT Calcium Score]]
 7. [[Patient information/Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)\|Can Diabetes be reversed ? The truth about Diabetes remission (not Reversal)]]
+8. [[Patient information/What causes Gestational Diabetes during pregnancy?\|What causes Gestational Diabetes during pregnancy?]]
 
 ### PITUITARY
 
-8. [[Patient information/Understanding Pituitary Apoplexy\|Understanding Pituitary Apoplexy]]
+9. [[Patient information/Understanding Pituitary Apoplexy\|Understanding Pituitary Apoplexy]]
 
 ### PCOS  / PCOD
 
-9. [[Patient information/How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)\|How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)]]
+10. [[Patient information/How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)\|How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)]]
+
+### PREGNANCY & HORMONES
+
+1. [[Patient information/What causes Gestational Diabetes during pregnancy?\|What causes Gestational Diabetes during pregnancy?]]
