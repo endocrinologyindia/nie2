@@ -34,4 +34,8 @@
 
 # Pituitary
 
-10. [[Research Summary/Experience with Pituitary Apoplexy from India\|Experience with Pituitary Apoplexy from India]]
+1. [[Research Summary/Experience with Pituitary Apoplexy from India\|Experience with Pituitary Apoplexy from India]]
+
+# Parathyroid
+
+1. [[Research Summary/New Radiotracer for Primary hyperparathyroidism\|New Radiotracer for Primary hyperparathyroidism]]

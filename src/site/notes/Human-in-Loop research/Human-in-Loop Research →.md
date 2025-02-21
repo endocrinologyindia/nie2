@@ -16,6 +16,7 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 
 1. [[Human-in-Loop research/Quantum Computing in Healthcare- A New Frontier\|Quantum Computing in Healthcare- A New Frontier]]
 2. [[Human-in-Loop research/How ancient philosophy led to modern day AI\|How ancient philosophy led to modern day AI]]
+3. [[Human-in-Loop research/How are People using AI in 2025 ?\|How are People using AI in 2025 ?]]
 
 
 ## Clinically relevant questions
