@@ -41,6 +41,3 @@ Kuyumcu S, Denizmen D, Has-Simsek D, Poyanli A, Uzum AK, Buyukkaya F, et al. *68
 
 ---
 
-![[CleanShot 2025-02-18 at 13.50.27@2x.png\|CleanShot 2025-02-18 at 13.50.27@2x.png]]
-
-![[CleanShot 2025-02-18 at 13.51.46@2x.png\|CleanShot 2025-02-18 at 13.51.46@2x.png]]

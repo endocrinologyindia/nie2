@@ -7,6 +7,7 @@
 
 1. [[Research Summary/Insulin resistance & Atherosclerosis\|Insulin resistance & Atherosclerosis]]
 2. [[Research Summary/Using Dapagliflozin for Diabetes Remission\|Using Dapagliflozin for Diabetes Remission]]
+3. [[Research Summary/What is the role of Empagliflozin in MASLD ?\|What is the role of Empagliflozin in MASLD ?]]
 
 # Obesity
 
@@ -24,6 +25,7 @@
 
 6. [[Research Summary/MRI STIR sequence for Disease activity in TAO\|MRI STIR sequence for Disease activity in TAO]]
 7. [[Research Summary/Can you use MRI to predict response to steroid in TAO ?\|Can you use MRI to predict response to steroid in TAO ?]]
+8. [[Research Summary/Does positive RF factor interfere with TSH value ?\|Does positive RF factor interfere with TSH value ?]]
 
 # Pediatric Endocrinology
 

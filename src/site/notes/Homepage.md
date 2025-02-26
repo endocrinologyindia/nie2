@@ -37,15 +37,16 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Research Summary/New Radiotracer for Primary hyperparathyroidism\|New Radiotracer for Primary hyperparathyroidism]]
+>  - [[Research Summary/What is the role of Empagliflozin in MASLD ?\|What is the role of Empagliflozin in MASLD ?]]
 > - [[Research Summary/How does Body Roundness Index correlate with mortality risk ?\|How does Body Roundness Index correlate with mortality risk ?]]
-> - [[Patient information/Understanding LINORMA T3 (Liothyronine)\|Understanding LINORMA T3 (Liothyronine)]]
-> - [[Patient information/What causes Gestational Diabetes during pregnancy?\|What causes Gestational Diabetes during pregnancy?]]
 > - [[Patient information/The better marker for Obesity- The BRI\|The better marker for Obesity- The BRI]]
+> - [[Patient information/What causes Gestational Diabetes during pregnancy?\|What causes Gestational Diabetes during pregnancy?]]
+> - [[Patient information/Understanding LINORMA T3 (Liothyronine)\|Understanding LINORMA T3 (Liothyronine)]]
 > - [[Patient information/How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)\|How to the 21-day pill pack for PCOS ? (like DIANE or KRIMSON)]]
+> - [[Human-in-Loop research/How are People using AI in 2025 ?\|How are People using AI in 2025 ?]]
 > - [[Human-in-Loop research/Fluoroquinolones and Dysglycemia-  A Clinical Overview\|Fluoroquinolones and Dysglycemia-  A Clinical Overview]]
 > - [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
-> - [[Human-in-Loop research/How are People using AI in 2025 ?\|How are People using AI in 2025 ?]]
+> - [[Research Summary/New Radiotracer for Primary hyperparathyroidism\|New Radiotracer for Primary hyperparathyroidism]]
 > 
 { .block-language-dataview}
 
