@@ -49,6 +49,14 @@ You can find the notes on the topic here: [[Notes in Endocrinology/DIABETES/Newe
 
 You can find the tool here: [[Endocrinologist ToolKit/Diabetes remission tool\|Diabetes remission tool]]
 
+6 Liver disease classifier
+
+Tool that helps you classify liver disease with Steatosis into MASLD, MetALD or MetALD
+
+You can find the tool here: [[Endocrinologist ToolKit/Liver disease classifier\|Liver disease classifier]]
+
+
+
 
 
 
