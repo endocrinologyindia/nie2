@@ -63,5 +63,7 @@ The most comprehensive insulin dose calculator developed by Dr. Om J Lakhani [[E
 
 Helps to decide which insulin to initiate in patient with type 2 diabetes- premixed or basal  [[Endocrinologist ToolKit/Which insulin to initiate ?\|Which insulin to initiate ?]]
 
+9 Fib-4 Calculator
 
+The tool helps to calculate the Fib-4 score for assessment for fibrosis in patients with MASLD [[Endocrinologist ToolKit/Fib-4 Calculator\|Fib-4 Calculator]]
 

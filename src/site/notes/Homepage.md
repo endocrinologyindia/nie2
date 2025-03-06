@@ -50,6 +50,7 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Endocrinologist ToolKit/Insulin dose Calculator\|Insulin dose Calculator]]
 > - [[Endocrinologist ToolKit/Which insulin to initiate ?\|Which insulin to initiate ?]]
 > - [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
+> - [[Endocrinologist ToolKit/Fib-4 Calculator\|Fib-4 Calculator]]
 > 
 { .block-language-dataview}
 
