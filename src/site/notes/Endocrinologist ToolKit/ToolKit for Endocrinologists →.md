@@ -55,8 +55,13 @@ Tool that helps you classify liver disease with Steatosis into MASLD, MetALD or 
 
 You can find the tool here: [[Endocrinologist ToolKit/Liver disease classifier\|Liver disease classifier]]
 
+7 Insulin dose calculator
 
+The most comprehensive insulin dose calculator developed by Dr. Om J Lakhani [[Endocrinologist ToolKit/Insulin dose Calculator\|Insulin dose Calculator]]
 
+8 Which Insulin ?
+
+Helps to decide which insulin to initiate in patient with type 2 diabetes- premixed or basal  [[Endocrinologist ToolKit/Which insulin to initiate ?\|Which insulin to initiate ?]]
 
 
 
