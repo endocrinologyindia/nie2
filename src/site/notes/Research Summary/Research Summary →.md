@@ -41,3 +41,7 @@
 # Parathyroid
 
 1. [[Research Summary/New Radiotracer for Primary hyperparathyroidism\|New Radiotracer for Primary hyperparathyroidism]]
+
+# Osteoporosis
+
+1. [[Research Summary/Is BMD enough for assessment of osteoporosis in post-menopausal women with diabetes ? The role of TBS\|Is BMD enough for assessment of osteoporosis in post-menopausal women with diabetes ? The role of TBS]]
