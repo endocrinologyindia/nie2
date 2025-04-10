@@ -45,4 +45,5 @@
 ### DYSLIPIDEMIA (cholesterol)
 
 
-[[Patient information/The Story of a Plaque- from Cholesterol to a heart attack\|The Story of a Plaque- from Cholesterol to a heart attack]]
+1. [[Patient information/The Story of a Plaque- from Cholesterol to a heart attack\|The Story of a Plaque- from Cholesterol to a heart attack]]
+2. [[Patient information/How does Ezetimibe work ?\|How does Ezetimibe work ?]]
