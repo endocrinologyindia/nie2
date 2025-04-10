@@ -40,3 +40,9 @@
 ### GENERAL ENDOCRINOLOGY
 
 [[Patient information/Who is an Endocrinologist ?\|Who is an Endocrinologist ?]]
+
+
+### DYSLIPIDEMIA (cholesterol)
+
+
+[[Patient information/The Story of a Plaque- from Cholesterol to a heart attack\|The Story of a Plaque- from Cholesterol to a heart attack]]
