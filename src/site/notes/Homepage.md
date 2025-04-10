@@ -43,6 +43,7 @@ Building the largest resource for Endocrinology on the internet.
 > - [[Endocrinologist ToolKit/Which insulin to initiate ?\|Which insulin to initiate ?]]
 > - [[Endocrinologist ToolKit/Fib-4 Calculator\|Fib-4 Calculator]]
 > - [[Patient information/The Story of a Plaque- from Cholesterol to a heart attack\|The Story of a Plaque- from Cholesterol to a heart attack]]
+> - [[Patient information/How does Ezetimibe work ?\|How does Ezetimibe work ?]]
 > 
 { .block-language-dataview}
 

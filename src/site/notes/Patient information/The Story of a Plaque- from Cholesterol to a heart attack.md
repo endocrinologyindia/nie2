@@ -13,8 +13,7 @@ Author: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
 > If you find this useful, please use the link to see the various ways in which you can [[Support us/Support us →\|Support us →]]
 > For online consultation with [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]] please use the following link [[Misc/Online Consultation →\|Online Consultation →]]
-> Corresponding notes for doctors : [[Research Summary/How does Body Roundness Index correlate with mortality risk ?\|How does Body Roundness Index correlate with mortality risk ?]]
-> Corresponding mini-applications: [[Endocrinologist ToolKit/Body Roundness Index Calculator\|Body Roundness Index Calculator]]
+
 
 ## Introduction 
 
