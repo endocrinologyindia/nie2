@@ -24,4 +24,5 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 1. [[Human-in-Loop research/Does the TSH increase in Winters ?\|Does the TSH increase in Winters ?]]
 2. [[Human-in-Loop research/What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?\|What is the role of MRI in Thyroid-Associated Orbitopathy (TAO) ?]]
 3. [[Human-in-Loop research/What is the role of 68Ga-Pentixafor PET-CT - CXCR4 PET scan in Primary aldosteronism ?\|What is the role of 68Ga-Pentixafor PET-CT - CXCR4 PET scan in Primary aldosteronism ?]]
+4. [[Human-in-Loop research/Duration of Octreotide Therapy in Acromegaly\|Duration of Octreotide Therapy in Acromegaly]]
 

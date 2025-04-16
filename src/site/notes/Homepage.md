@@ -38,12 +38,13 @@ Building the largest resource for Endocrinology on the internet.
 
 > [!info|+green]+ Latest Updates
 >  - [[Research Summary/Is BMD enough for assessment of osteoporosis in post-menopausal women with diabetes ? The role of TBS\|Is BMD enough for assessment of osteoporosis in post-menopausal women with diabetes ? The role of TBS]]
-> - [[Endocrinologist ToolKit/Liver disease classifier\|Liver disease classifier]]
-> - [[Endocrinologist ToolKit/Insulin dose Calculator\|Insulin dose Calculator]]
-> - [[Endocrinologist ToolKit/Which insulin to initiate ?\|Which insulin to initiate ?]]
-> - [[Endocrinologist ToolKit/Fib-4 Calculator\|Fib-4 Calculator]]
 > - [[Patient information/The Story of a Plaque- from Cholesterol to a heart attack\|The Story of a Plaque- from Cholesterol to a heart attack]]
 > - [[Patient information/How does Ezetimibe work ?\|How does Ezetimibe work ?]]
+> - [[Endocrinologist ToolKit/Liver disease classifier\|Liver disease classifier]]
+> - [[Endocrinologist ToolKit/Which insulin to initiate ?\|Which insulin to initiate ?]]
+> - [[Endocrinologist ToolKit/Insulin dose Calculator\|Insulin dose Calculator]]
+> - [[Endocrinologist ToolKit/Fib-4 Calculator\|Fib-4 Calculator]]
+> - [[Human-in-Loop research/Duration of Octreotide Therapy in Acromegaly\|Duration of Octreotide Therapy in Acromegaly]]
 > 
 { .block-language-dataview}
 
