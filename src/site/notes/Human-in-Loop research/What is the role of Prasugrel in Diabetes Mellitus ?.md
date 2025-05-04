@@ -13,9 +13,11 @@
 > Research by : Perplexity
 > Edited by: Dr. Om J Lakhani
 
-  
+
 
 Prasugrel, a potent P2Y12 receptor inhibitor, is increasingly recognized for its role in managing atherothrombotic risk in patients with diabetes mellitus (DM), a population with heightened platelet reactivity and cardiovascular morbidity[^1][^2]. This review synthesizes evidence relevant to endocrinologists managing diabetic patients with acute coronary syndromes (ACS).
+
+![image.png](/img/user/attachments/image.png)
 
 ---
 
