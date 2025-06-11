@@ -26,4 +26,5 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 3. [[Human-in-Loop research/What is the role of 68Ga-Pentixafor PET-CT - CXCR4 PET scan in Primary aldosteronism ?\|What is the role of 68Ga-Pentixafor PET-CT - CXCR4 PET scan in Primary aldosteronism ?]]
 4. [[Human-in-Loop research/Duration of Octreotide Therapy in Acromegaly\|Duration of Octreotide Therapy in Acromegaly]]
 5. [[Human-in-Loop research/What is the role of Prasugrel in Diabetes Mellitus ?\|What is the role of Prasugrel in Diabetes Mellitus ?]]
+6. [[Human-in-Loop research/Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?\|Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?]]
 

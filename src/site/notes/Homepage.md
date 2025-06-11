@@ -37,10 +37,7 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Human-in-Loop research/Duration of Octreotide Therapy in Acromegaly\|Duration of Octreotide Therapy in Acromegaly]]
-> - [[Patient information/The Story of a Plaque- from Cholesterol to a heart attack\|The Story of a Plaque- from Cholesterol to a heart attack]]
-> - [[Patient information/How does Ezetimibe work ?\|How does Ezetimibe work ?]]
-> - [[Human-in-Loop research/What is the role of Prasugrel in Diabetes Mellitus ?\|What is the role of Prasugrel in Diabetes Mellitus ?]]
+>  - [[Human-in-Loop research/Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?\|Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?]]
 > 
 { .block-language-dataview}
 
