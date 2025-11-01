@@ -28,3 +28,6 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 5. [[Human-in-Loop research/What is the role of Prasugrel in Diabetes Mellitus ?\|What is the role of Prasugrel in Diabetes Mellitus ?]]
 6. [[Human-in-Loop research/Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?\|Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?]]
 
+## Human-in-the-loop State of Art Review
+
+1. [[Human-in-Loop research/Establishing an Obesity Clinic- A Comprehensive Clinical Guide\|Establishing an Obesity Clinic- A Comprehensive Clinical Guide]]

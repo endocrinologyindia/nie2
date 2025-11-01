@@ -35,7 +35,7 @@ Obesity is a chronic, progressive disease affecting over 40% of adults and 19% o
 
 This review provides evidence-based guidance for establishing and operating an obesity clinic, including infrastructure requirements, clinical protocols, regulatory considerations, and quality metrics. The focus is on creating a patient-centered program that delivers high-quality, comprehensive obesity care using current best practices.
 
-See "Obesity in adults: Prevalence, screening, and evaluation" and "Obesity in adults: Overview of management" for detailed discussions of obesity pathophysiology and treatment approaches.
+
 
 ## NEEDS ASSESSMENT AND PLANNING
 
