@@ -30,4 +30,4 @@ Detailed research on rare medical topics conducted by AI and edited by Dr. Om J 
 
 ## Human-in-the-loop State of Art Review
 
-1. [[Human-in-Loop research/Establishing an Obesity Clinic- A Comprehensive Clinical Guide\|Establishing an Obesity Clinic- A Comprehensive Clinical Guide]]
+1. [[State-of-Art-Reviews/Establishing an Obesity Clinic- A Comprehensive Clinical Guide\|Establishing an Obesity Clinic- A Comprehensive Clinical Guide]]

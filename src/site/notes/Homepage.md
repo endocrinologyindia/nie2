@@ -37,7 +37,8 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[Human-in-Loop research/Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?\|Why is the sequence of Denosumab followed by Teriparatide not recommended in osteoporosis management?]]
+>  - [[State-of-Art-Reviews/Establishing an Obesity Clinic- A Comprehensive Clinical Guide\|Establishing an Obesity Clinic- A Comprehensive Clinical Guide]]
+> - [[State-of-Art-Reviews/SGLT2 Inhibitors- Clinical Applications Across the Cardiorenal-Metabolic Spectrum\|SGLT2 Inhibitors- Clinical Applications Across the Cardiorenal-Metabolic Spectrum]]
 > 
 { .block-language-dataview}
 
@@ -73,6 +74,10 @@ The Best of Notes in Endocrinology books by Dr. Om J Lakhani
 ### 💻 Technocrinology
 Courses on Artificial Intelligence, Endocrinology, Diabetes, Obesity & Metabolic Syndrome  
 [Click here →](https://technocrinology.thinkific.com/)
+
+### 🔬📚✨ State-of-Art Reviews
+UpToDate Style State-of-Art Review in Endocrinology, Diabetes, Obesity & Metabolic Syndrome by Dr. Om J Lakhani
+[[State-of-Art-Reviews/State of Art Review →\|State of Art Review →]]
 
 ### 🔧 Endocrinologist's Toolkit (EndoDynamic)
 Mini-apps, Calculators, and Toolkits for Endocrinologists  
