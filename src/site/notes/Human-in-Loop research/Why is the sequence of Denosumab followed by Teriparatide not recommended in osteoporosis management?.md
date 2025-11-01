@@ -41,6 +41,25 @@ Switching from denosumab to teriparatide in the management of osteoporosis is no
 |Teriparatide → Denosumab|Further BMD increase|Decreased|Reduced|Recommended[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4620731/)[4](https://pubmed.ncbi.nlm.nih.gov/28624340/)|
 |Denosumab → Bisphosphonate|Maintains or increases BMD|Controlled|Reduced|Recommended[5](https://academic.oup.com/jbmrplus/article-pdf/2/2/62/54922680/jbm410041.pdf)[6](https://www.scielo.br/j/aem/a/MN8d8YqwtBVT9jCjMwwCVpQ/)|
 
+## In Summary: Optimal Sequencing of Osteoporosis Therapies
+
+
+- **Bisphosphonates → Denosumab**: ✅ Effective and safe sequence
+    
+- **Teriparatide → Denosumab** _(for high-risk patients)_: ✅ Recommended
+    
+- **Denosumab → Bisphosphonates**: ✅ Helps maintain gains and prevent rebound bone loss
+    
+- **Bisphosphonates → Romosozumab**: ✅ Reasonable sequence with additive benefit
+    
+- **Denosumab → Teriparatide**: ❌ Not recommended
+    
+    - _Associated with rapid bone loss and increased fracture risk due to rebound bone turnover_
+        
+    
+
+
+
 ## Conclusion
 
 Switching from denosumab to teriparatide is associated with adverse effects on BMD, bone microarchitecture, and bone turnover markers, and may increase the risk of fractures. Current consensus and evidence recommend against this transition, favoring the use of a bisphosphonate after denosumab to protect bone health[2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4620731/)[5](https://academic.oup.com/jbmrplus/article-pdf/2/2/62/54922680/jbm410041.pdf)[6](https://www.scielo.br/j/aem/a/MN8d8YqwtBVT9jCjMwwCVpQ/). If an anabolic agent is needed, romosozumab may be a better option than teriparatide after denosumab, but more data are needed to confirm this.
