@@ -183,7 +183,7 @@ While the DEAN trial focused specifically on dapagliflozin, evidence suggests th
 
 ### Current Position in Therapeutic Algorithm
 
-Currently, no pharmacologic agent has received regulatory approval specifically for the treatment of MASLD or MASH. The DEAN trial provides high-quality evidence supporting dapagliflozin as among the first agents to meet histological endpoints for MASH improvement [12,13,23].
+The DEAN trial provides high-quality evidence supporting dapagliflozin as among the first agents to meet histological endpoints for MASH improvement [12,13,23].
 
 Based on current evidence, dapagliflozin could be considered in the following context:
 
