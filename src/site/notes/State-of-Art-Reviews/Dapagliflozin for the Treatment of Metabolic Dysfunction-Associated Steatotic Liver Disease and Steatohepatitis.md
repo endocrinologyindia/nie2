@@ -304,7 +304,7 @@ Based on current evidence, the following practical recommendations can be made:
 
 ### Evidence Strength and Future Directions
 
-The recommendations above are supported by Level 1 evidence (randomized controlled trial), though with the limitations of generalizability noted previously. The DEAN trial provides robust data for the efficacy of dapagliflozin in MASH, but further research is needed to address long-term outcomes, optimal patient selection, and strategies to mitigate muscle mass loss.
+The DEAN trial provides robust data for the efficacy of dapagliflozin in MASH, but further research is needed to address long-term outcomes, optimal patient selection, and strategies to mitigate muscle mass loss.
 
 As the treatment landscape for MASLD/MASH continues to evolve, dapagliflozin represents a promising option, particularly for patients with concomitant metabolic dysfunction. Ongoing clinical trials and real-world evidence will further refine its role in the management of this increasingly prevalent liver disease.
 
