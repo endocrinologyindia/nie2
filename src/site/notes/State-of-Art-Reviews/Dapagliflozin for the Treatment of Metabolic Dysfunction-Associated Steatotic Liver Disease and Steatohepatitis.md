@@ -33,7 +33,7 @@
 
 Metabolic dysfunction-associated steatotic liver disease (MASLD), formerly known as non-alcoholic fatty liver disease (NAFLD), and its more severe form metabolic dysfunction-associated steatohepatitis (MASH), formerly known as non-alcoholic steatohepatitis (NASH), represent a spectrum of hepatic disorders characterized by fat accumulation in the liver in the context of metabolic dysfunction [1]. MASLD/MASH has become a leading cause of chronic liver disease worldwide, with a prevalence estimated at 25-30% of the global population and rising [2,3].
 
-Despite the high prevalence and significant burden of MASLD/MASH, until recently there were no approved pharmacotherapies specifically for these conditions. Management has primarily focused on lifestyle interventions, including weight loss through diet and exercise [4]. The urgent need for effective pharmacotherapy has driven intense research into various therapeutic targets, including sodium-glucose cotransporter-2 (SGLT2) inhibitors.
+Management of MASLD/MASH has primarily focused on lifestyle interventions, including weight loss through diet and exercise [4]. The urgent need for effective pharmacotherapy has driven intense research into various therapeutic targets, including sodium-glucose cotransporter-2 (SGLT2) inhibitors.
 
 This review focuses on the emerging role of dapagliflozin, an SGLT2 inhibitor, in the management of MASLD/MASH, with particular emphasis on recent high-quality evidence from the DEAN trial and related research. We will examine the efficacy, safety, mechanisms of action, and clinical implications of dapagliflozin therapy in this patient population.
 
