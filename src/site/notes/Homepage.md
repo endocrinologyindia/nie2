@@ -37,9 +37,10 @@
 Building the largest resource for Endocrinology on the internet. 
 
 > [!info|+green]+ Latest Updates
->  - [[State-of-Art-Reviews/Establishing an Obesity Clinic- A Comprehensive Clinical Guide\|Establishing an Obesity Clinic- A Comprehensive Clinical Guide]]
-> - [[State-of-Art-Reviews/SGLT2 Inhibitors- Clinical Applications Across the Cardiorenal-Metabolic Spectrum\|SGLT2 Inhibitors- Clinical Applications Across the Cardiorenal-Metabolic Spectrum]]
+>  - [[State-of-Art-Reviews/SGLT2 Inhibitors- Clinical Applications Across the Cardiorenal-Metabolic Spectrum\|SGLT2 Inhibitors- Clinical Applications Across the Cardiorenal-Metabolic Spectrum]]
+> - [[State-of-Art-Reviews/Establishing an Obesity Clinic- A Comprehensive Clinical Guide\|Establishing an Obesity Clinic- A Comprehensive Clinical Guide]]
 > - [[State-of-Art-Reviews/Dapagliflozin for the Treatment of Metabolic Dysfunction-Associated Steatotic Liver Disease and Steatohepatitis\|Dapagliflozin for the Treatment of Metabolic Dysfunction-Associated Steatotic Liver Disease and Steatohepatitis]]
+> - [[Notes in Endocrinology/MALE REPRODUCTIVE ENDOCRINOLOGY/MALE HYPOGONADISM/Treatment of Secondary Hypogonadism and Idiopathic hypogonadotropic hypogonadism in Men\|Treatment of Secondary Hypogonadism and Idiopathic hypogonadotropic hypogonadism in Men]]
 > 
 { .block-language-dataview}
 

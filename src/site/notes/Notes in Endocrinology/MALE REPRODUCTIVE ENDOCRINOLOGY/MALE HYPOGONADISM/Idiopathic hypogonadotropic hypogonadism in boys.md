@@ -6,6 +6,8 @@
     - Section Writer: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
     - Section Editor: [[About Us/Dr. Om J Lakhani\|Dr. Om J Lakhani]]
 
+Also see [[Notes in Endocrinology/MALE REPRODUCTIVE ENDOCRINOLOGY/MALE HYPOGONADISM/Treatment of Secondary Hypogonadism and Idiopathic hypogonadotropic hypogonadism in Men\|Treatment of Secondary Hypogonadism and Idiopathic hypogonadotropic hypogonadism in Men]]
+
 - Q. What are the various terminologies used for this condition?
     - Idiopathic hypogonadotropic hypogonadism 
     - Congenital hypogonadotropic hypogonadism

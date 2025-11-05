@@ -354,7 +354,7 @@ As the treatment landscape for MASLD/MASH continues to evolve, dapagliflozin rep
     
 22. Mantovani A, Byrne CD, Targher G. Efficacy of peroxisome proliferator-activated receptor agonists, glucagon-like peptide-1 receptor agonists, or sodium-glucose cotransporter-2 inhibitors for treatment of non-alcoholic fatty liver disease: a systematic review. Lancet Gastroenterol Hepatol. 2022;7(4):367-378.
     
-23. Additional summaries and commentary—emerging guidelines and expert consensus. [Note: This is a hypothetical citation based on the prompt]
+23. Zargar AH, Bhansali A, Majumdar A, Maheshwari A, Bhattacharyya A, Dasgupta A, Saboo BD, Sethi BK, Sanyal D, Seshadri KG, Deshpande NR. Management of metabolic dysfunction–associated steatotic liver disease (MASLD)—An expert consensus statement from Indian diabetologists' perspective. Diabetes, Obesity and Metabolism. 2025 Jun 2.
     
 24. European Association for the Study of the Liver (EASL); European Association for the Study of Diabetes (EASD); European Association for the Study of Obesity (EASO). EASL-EASD-EASO Clinical Practice Guidelines for the management of non-alcoholic fatty liver disease. J Hepatol. 2016;64(6):1388-1402.
     
